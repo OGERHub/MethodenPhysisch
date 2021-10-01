@@ -1,5 +1,5 @@
 ---
-title:  A7-1 | Dekonstruktion
+title:  A07-1 | Dekonstruktion
 
 header:
   image: "/assets/images/00-unit-splash.jpg"
