@@ -12,7 +12,7 @@ In den Aufgaben üben Sie Atlaskarten kritisch zu reflektieren. Dazu beschäftig
 
 
 ## Benötigte Materialien für die Aufgaben
-* die Diercke-Atlaskarte "Marburg Luft- und Lärmbelastung" aus den Jahren 1992 und 2002
+* [die Diercke-Atlaskarte "Marburg Luft- und Lärmbelastung" aus den Jahren 1992 und 2002](https://ilias.uni-marburg.de/goto.php?target=fold_1924576&client_id=UNIMR)
 * eine Suchmaschiene
 * die Homepage des Hessischen Landesamts für Umwelt, Naturschutz und Geologie
 * ein Tabellenkaluationsprogramm
@@ -21,29 +21,18 @@ In den Aufgaben üben Sie Atlaskarten kritisch zu reflektieren. Dazu beschäftig
 
 ## Aufgabe 01-1: Lärm- und Luftverschmutzung in Marburg
 
-In vielen älteren Ausgaben des Diercke Atlas’ findet sich eine Karte zu Lärm- und Luftverschmutzung in Marburg. [Hier finden Sie die Versionen der Karte von 1991 und 2002](https://ilias.uni-marburg.de/goto.php?target=fold_1924576&client_id=UNIMR).
+In vielen älteren Ausgaben des Diercke Atlas’ findet sich eine Karte zu Lärm- und Luftverschmutzung in Marburg. Im ersten Schritt sollen Sie diese Karten analysieren, dabei sollen Ihnen die drei Aufgaben helfen. 
 
 
-
-**Aufgabenstellung 01-1-L1:** Wie stellt sich die Luft- und Lärmbelastung in Marburg räumlich dar? Beschreiben Sie beide Karten in ganzen Sätzen und stellen Sie Ihre Ergebnisse übersichtlich dar. 
+**Aufgabenstellung 01-1-1:** Wie stellt sich die Luft- und Lärmbelastung in Marburg räumlich dar? Beschreiben Sie beide Karten zur Beantwortung dieser Frage zunächst in ganzen Sätzen. Konzentrieren Sie sich darauf Wesentliches in eine sinnvolle Struktur zu bringen. Die Verwendung von Fachvokabular ermöglicht es knapp und präzise zu schreiben.  
 {: .notice--success}
 
 
-**Tipp**: Ziel ist es einen informativen Text zu verfassen, der den Leser oder die Leserin nicht mit unsortierten Details überfrachtet, sondern Wesentliches in einer durchdachten Textstruktur ausführt und Nichtzielführendes weglässt. Die Verwendung von Fachvokabular ermöglicht es knapp und präzise zu schreiben.
-{: .notice--info}
-
-
-
-**Aufgabenstellung 01-1-L2:** Welche konzeptionellen Fragen stellen Sie sich, wenn Sie die Karte betrachten? Was bleibt Ihnen unklar? Formulieren Sie mindestens drei Fragen.
+**Aufgabenstellung 01-1-2:** Welche konzeptionellen Fragen stellen Sie sich, wenn Sie die Karte betrachten? Konzeptionelle Fragen beziehen sich auf methodische Hintergründe eines Mediums, dies können Fragen zur Erhebung, Auswertung und Darstellung der zugrundeliegenden Daten des Mediums sein und der Perspektive, die diesen Prozess prägt. Was bleibt Ihnen unklar? Formulieren Sie mindestens drei Fragen.
 {: .notice--success}
 
 
-**Tipp**: Konzeptionelle Fragen beziehen sich auf methodische Hintergründe eines Mediums, dies können Fragen zur Erhebung, Auswertung und Darstellung der zugrundeliegenden Daten des Mediums sein und der Perspektive, die diesen Prozess prägt.
-{: .notice--info}
-
-
-
-**Aufgabenstellung 01-1-L3:** Vergleichen Sie die Karten, welche Veränderungen sind festzustellen? Womit lassen sich die Veränderungen begründen? Geben Sie die Veränderungen als Stichpunkte an und begründen Sie diese mit ganzen Sätzen.
+**Aufgabenstellung 01-1-3:** Vergleichen Sie die Karten, welche Veränderungen sind festzustellen? Womit lassen sich die Veränderungen begründen? Geben Sie die Veränderungen als Stichpunkte an und begründen Sie diese mit ganzen Sätzen.
 {: .notice--success}
 
 
