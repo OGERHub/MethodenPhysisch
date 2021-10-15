@@ -19,9 +19,6 @@ In den Aufgaben üben Sie Atlaskarten kritisch zu reflektieren. Dazu beschäftig
 * ein Bildverarbeitungsprogramm
 
 
-Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen).
-{: .notice--danger}
-
 ## Aufgabe 01-1: Lärm- und Luftverschmutzung in Marburg
 
 In vielen älteren Ausgaben des Diercke Atlas’ findet sich eine Karte zu Lärm- und Luftverschmutzung in Marburg. [Hier finden Sie die Versionen der Karte von 1991 und 2002](https://ilias.uni-marburg.de/goto.php?target=fold_1924576&client_id=UNIMR).
@@ -35,8 +32,6 @@ In vielen älteren Ausgaben des Diercke Atlas’ findet sich eine Karte zu Lärm
 **Tipp**: Ziel ist es einen informativen Text zu verfassen, der den Leser oder die Leserin nicht mit unsortierten Details überfrachtet, sondern Wesentliches in einer durchdachten Textstruktur ausführt und Nichtzielführendes weglässt. Die Verwendung von Fachvokabular ermöglicht es knapp und präzise zu schreiben.
 {: .notice--info}
 
-Umfang: 1 Seite in Ihrer PDF-Datei.
-
 
 
 **Aufgabenstellung 01-1-L2:** Welche konzeptionellen Fragen stellen Sie sich, wenn Sie die Karte betrachten? Was bleibt Ihnen unklar? Formulieren Sie mindestens drei Fragen.
@@ -47,12 +42,9 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {: .notice--info}
 
 
-Umfang: 1 Seite in Ihrer PDF-Datei.
 
 **Aufgabenstellung 01-1-L3:** Vergleichen Sie die Karten, welche Veränderungen sind festzustellen? Womit lassen sich die Veränderungen begründen? Geben Sie die Veränderungen als Stichpunkte an und begründen Sie diese mit ganzen Sätzen.
 {: .notice--success}
-
-Umfang: 1 Seite in Ihrer PDF-Datei.
 
 
 ## Aufgabe 01-2 Schallbelastung und Lufthygiene
@@ -62,16 +54,16 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {: .notice--success}
 
 **Tipp**: Eine Einführung in wichtige kartographische Darstellungsmethoden finden Sie auf dieser Seite des [Leibniz-Institut für Länderkunde](https://www.nationalatlas.de/?page_id=179).
-{: .notice--info}
+
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 
 **Aufgabenstellung 01-02-L2:** Auf den Seiten des Hessischen Landesamtes für Naturschutz, Umwelt und Geologie (HLNUG) finden Sie ein [Online-Tool zur Suche und Darstellung tatsächlicher Messwerte](https://www.hlnug.de/messwerte/luft/). (i) Wählen Sie drei verschiedene Parameter aus, die zu der aggregierten Bewertung der "Lufthygiene" in der Karte beitragen könnten. Analysieren Sie die Messwerte für diese drei Parameter für die Station Marburg. (ii) Bewerten Sie auf Basis Ihrer drei Parameter die Plausibilität der in der Karte dargestellten Lufthygiene. Beziehen Sie hierfür die jeweils gültigen Grenzwerten nach der 39. BImSchV in Ihre Diskussion ein.
 {: .notice--success}
 
-Umfang: 1 Seite in Ihrer PDF-Datei.
+
 
 **Aufgabenstellung 01-02-L3:** Erstellen Sie mit Hilfe des [Web-Gis Angebots](https://www.hlnug.de/themen/geografische-informationssysteme/gis-anwendungen/gis-auskunftssysteme) des HLNUG und unter kreativer Nutzung ihrer Kenntnisse in Bildverarbeitung und Diagrammerstellung eine eigene Karte zum Thema Luft- und Lärmbelastung in Marburg. Die Karte kann analog, z.B. durch Ausdruck einzelner Diagramme und deren Anordnung auf einem Papier oder komplett digital erstellt werden.
 {: .notice--success}
 
-Umfang: 1 Seite in Ihrer PDF-Datei.
+
