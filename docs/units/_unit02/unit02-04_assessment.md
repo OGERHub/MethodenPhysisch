@@ -70,7 +70,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 
 ## Aufgabe 02-02: Modellierung von einer Trampelpfadfunktion
-Benennen Sie nun die Funktion von Trampelpfaden. Betrachten Sie dafür verschiedene Trampelpfade. Welche Funktionen erfüllen Trampelpfade für die Nutzer:innen? Bennen Sie die Faktoren, die zur Entstehung von Trampelpfaden führen, möglichst präzise und auf eine Weise, die sich im Gelände erheben lässen. Beschreiben Sie die Enstehung von Trampelpfaden als Funktion in der Form f(Faktor1, Faktor2, ...).
+Benennen Sie nun die Funktion von Trampelpfaden. Betrachten Sie dafür verschiedene Trampelpfade. Welche Funktionen erfüllen Trampelpfade für die Nutzer:innen? Bennen Sie die Faktoren, die zur Entstehung von Trampelpfaden führen, möglichst präzise. Finden Sie Faktoren, die sich im Gelände erheben lässen. Beschreiben Sie die Enstehung von Trampelpfaden als Funktion in der Form f(Faktor1, Faktor2, ...). Fertigen Sie eine Tabelle an, in der Sie festhalten auf welche Weise, sich die Faktoren messen lassen. 
 {: .notice--success}
 
 
@@ -79,5 +79,5 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {% endcapture %}
 
 ## Aufgabe 02-03: Modellierung von des Pozesses der Trampelpfadgenese
-Betrachten Sie Trampelpfade nun in der zeitlichen Entwicklung. Erstellen Sie ein Wirkungsdiagramm, das die Entwicklung beschreibt. Oder doch lieber Wenn... dann Sätze?   
+Betrachten Sie Trampelpfade nun in der zeitlichen Entwicklung. Formulieren Sie zwei Konditionalsätze, nach dem schema: "Wenn..., dann ...". Stellen Sie diese Sätze zusätzlich als Wirkungsdiagramm dar.    
 
