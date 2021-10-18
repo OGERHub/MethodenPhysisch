@@ -11,7 +11,7 @@ Im Rahmen einer Unterrichtseinheit zur politischen Geographie nehmen Sie ein Int
 
 Im statista-Portal sind Sie bzgl. der notwendigen Ausgangsdaten zur [Zweitstimmenverteilung nach Bundesländern bei der Bundestagswahl 2017](https://de.statista.com/statistik/daten/studie/754391/umfrage/stimmenanteile-der-AfD-in-den-bundeslaendern-bei-der-bundestagswahl/) und der [Religionszugehörigkeit nach Bundesländern](https://de.statista.com/statistik/daten/studie/201622/umfrage/religionszugehoerigkeit-der-deutschen-nach-bundeslaendern/) fündig geworden.
 
-## Aufgabe 04-2-L1: Was wählen Protestanten?
+## Übung 04-2-1: Was wählen Protestanten?
 
 {% capture A04-2-L1 %}
 
@@ -26,7 +26,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
   {{ A04-2-L1 | markdownify }}
 </div>
 
-## Aufgabe 04-2-L2: Wählen nach Glauben?
+## Übung 04-2-2: Wählen nach Glauben?
 
 {% capture A04-2-L2 %}
 
@@ -44,16 +44,3 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 </div>
 
 
-## Aufgabe 04-2-L3: Geographische Muster in Wahlen?
-
-{% capture A04-2-L3 %}
-
-Bitte fertigen Sie zwei thematische Karten an, die den Zweitstimmenanteil der AfD nach Bundesländern mit einer oder mehreren Glaubensrichtungen in Verbindung bringen. Zeigen Sie in max. 5 Sätzen, dass der Aufhänger "Protestanten wählen häufiger AfD" nicht haltbar ist.
-
-Umfang: 3 Seite in Ihrer PDF-Datei.
-{% endcapture %}
-
-<div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 04-2-L3:</h4>
-  {{ A04-2-L3 | markdownify }}
-</div>
