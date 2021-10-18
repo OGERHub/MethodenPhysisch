@@ -7,8 +7,8 @@ header:
   caption: "Bild: [flickr](https://flic.kr/p/RNxn74) / CC-BY-2.0"
 ---
 
-In Übung 03 haben Sie eigenständig Eigenschaften von echten Räumen zu erfasst. Als Vertiefung sollen Sie Ihre Analyseergebnisse nun unter zwei unterschiedlichen  Interpretationsperspektiven darstellen.
 
+Aufbauen auf den Übungen dieser Einheit sollen Sie folgende Aufgaben bearbeiten und als Teil Ihrer Prüfungsleistung bis zum ... im Ilias-Ordner abgeben.
 
 ## Benötigte Materialien für die Aufgaben
 * Papier und Stifte
@@ -31,7 +31,7 @@ In der Aufgabe diskutieren Sie Ihre Schallmessungen und nehmen dafür eine der z
 * Die erste Perspektive rechtfertigt den Status Quo und ordnet den Straßenlärm als wenig entscheidenden Raumfaktor ein. 
 * Die zweite Perspektive rechtfertigt den Bau einer Schallschutzwand, weil der Straßenlärm den umliegenden Raum stark beeinflusst. 
 
-{% capture A03-L3 %}
+{% capture A03-01 %}
 
 Stellen Sie die Bedeutung der Ausbreitung des Straßenlärms unter der von Ihnen gewählen Perspektive in einer selbst erstellten Karte dar. Diskutieren Sie die Bedeutung des Straßenlärms unter der entsprechenden Perspektive, indem Sie die Karten mit einer aussagekräftigen Bildunterschrift, vergleichbar zu den ausführlichen Bildunterschriften in der wissenschaftlichen Fachzeitschrift *Nature*, mit maximal 250 Wörtern versehen (wie etwa in diesem Beispiel [Augengeometrie von Fischen bei  Neuorientierungsaufgaben](https://www.nature.com/articles/s41598-020-64690-1)).
 
@@ -43,8 +43,8 @@ Umfang: 2 Seiten in Ihrer PDF-Datei (Sie können die Seiten auch im Querformat n
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 03-L3:</h4>
-  {{ A03-L3 | markdownify }}
+  <h4 class="no_toc">Aufgabenstellung 03-01:</h4>
+  {{ A03-01 | markdownify }}
 </div>
 
 **Tipp**: Wenn Sie die Karte digital erstellen möchten, gibt es eine Vielzahl von Werkzeugen, die jedoch alle nicht völlig intuitiv zu benutzen sind. Sie können sowohl eine Desktop GIS-Software wie z.B. [QGIS](https://qgis.org/en/site/) oder  einen Web-Service wie z.B. [Mango Maps](https://mangomap.com) verwenden.

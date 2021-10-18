@@ -26,12 +26,12 @@ Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github
 ## Problemstellung
 In vielen Orten sorgt die Hauptverkehrsstraße (wie z.B. die B3 in Marburg) für Beschwerden der Anwohner der umliegenden Wohngebiete. Doch wie werden diese subjektiven Eindrücke räumlich und zeitlich valide erfasst und analysiert? Um dieser Problematik näher zu kommen sollen Sie Lärmbelastungen erfassen, analysieren und Ihre Untersuchungen dokumentieren und unter definierten Blickwinkeln diskutieren.
 
-## Übung 03-01: Erhebung von Geodaten
+## Übung 03-1: Erhebung von Geodaten
 
 In der Aufgabe planen Sie selbständig eine einfache Messkampagne. Hierzu müssen Sie auf adäquate Weise Geodaten erfassen. Identifizieren Sie in Ihrer Nähe einen Abschnitt einer Hauptverkehrsstraße ohne Lärmschutzwände. Bestimmen Sie die Ausbreitung des Straßenlärms entlang eines rechtwinklig zur Straße verlaufenden, maximal ca. 500 m langen Transekts durch Messungen des Geräuschpegels. Die Straße soll etwa in der Mitte des Transekts liegen, so dass in beide Richtungen jeweils ca. 250 m Transektstrecke liegen. Zur Vorbereitung Ihrer Messkampagne wählen Sie auf einer Karte einen geeigneten Transektverlauf aus und legen orthogonal zur Straße auf beiden Straßenseiten 10 Messpunkte im Abstand von ca. 25 m fest (also insgesamt 20 Messpunkte). Planen Sie mit Blick auf eine möglichst repräsentative Erfassung den Zeitpunkt Ihrer Messkampagne. Führen Sie die Messungen durch und bereiten Sie die Messung als Geodatensatz auf. Zur Dokumentation Ihrer Messung integrieren Sie aussagekräftige und geokodierte Fotos der Situation vor Ort, die die Charakteristika des Raumes sinnvoll wiedergeben. Wählen Sie ein Transekt mit sichtbarer Höhendifferenz. 
 
 
-{% capture A03-L1 %}
+{% capture 03-1 %}
 
 Erstellen Sie eine Kurzdokumentation Ihrer Messkampagne.
 
@@ -43,7 +43,7 @@ Umfang: 3 Seiten in Ihrer PDF-Datei
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 03-L1:</h4>
+  <h4 class="no_toc">Übung 03-1:</h4>
   {{ A03-L1 | markdownify }}
 </div>
 
@@ -56,7 +56,7 @@ Achten Sie darauf Ihr Vorgehen so zu dokumentieren, dass für Dritte ersichtlich
 
 In der Aufgabe beschreiben Sie Ihre Daten zur Schallmessung. Da die Schallausbreitung stark von der Topographie abhängt, erstellen Sie für die Analyse der Daten im Verhältnis zur Oberflächenform ein maßstabsgetreues Geländeprofil entlang Ihres Messtransekts.
 
-{% capture A03-L2 %}
+{% capture 03-2 %}
 
 Analysieren Sie die Ausbreitung des Straßenlärms mit Bezug auf das Geländeprofil Ihres Transekts.
 
@@ -68,7 +68,7 @@ Umfang: 2 Seiten in Ihrer PDF-Datei (Sie können die Seiten auch im Querformat n
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 03-L2:</h4>
+  <h4 class="no_toc">Übung 03-2:</h4>
   {{ A03-L2 | markdownify }}
 </div>
 
