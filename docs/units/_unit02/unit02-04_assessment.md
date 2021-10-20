@@ -15,7 +15,7 @@ panel1:
 
 panel2:  
   - url: https://w.wiki/QuL
-    image_path: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Frankfurt%28Oder%29_Oderaue_bei_Lebus_-_panoramio.jpg/1280px-Frankfurt%28Oder%29_Oderaue_bei_Lebus_-_panoramio.jpg"
+    image_path: https://w.wiki/QuL    
     title: "Frankfurt(Oder) Oderaue bei Lebus [Gottfried Hoffmann](https://w.wiki/QuL) / CC-BY via commons.wikimedia.org"
     alt: "Frankfurt(Oder) Oderaue bei Lebus"
   - url: https://w.wiki/QuN  
