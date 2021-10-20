@@ -66,7 +66,7 @@ Machen Sie ein aussagekräftiges Foto von einem Trampelpfadsystem und fertigen S
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 
-{% endcapture %}
+
 
 
 ## Aufgabe 02-02: Modellierung von einer Trampelpfadfunktion
@@ -76,8 +76,8 @@ Benennen Sie nun die Funktion von Trampelpfaden. Betrachten Sie dafür verschied
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 
-{% endcapture %}
+
 
 ## Aufgabe 02-03: Modellierung von des Pozesses der Trampelpfadgenese
 Betrachten Sie Trampelpfade nun in der zeitlichen Entwicklung. Formulieren Sie zwei Konditionalsätze, nach dem schema: "Wenn..., dann ...". Stellen Sie diese Sätze zusätzlich als Wirkungsdiagramm dar.    
-
+{: .notice--success}
