@@ -30,7 +30,7 @@ Die Formel zur Berechnung der Evapotranspiration nach Haude wurde korrigiert!
 
 Walter-Lieth-Diagramme sind trotz einiger Einschränkungen (Schneeniederschlag, Abschätzung der Evapotranspiration etc.) aufgrund der einfachen Datenverfügbarkeit und der leicht erfassbaren Aussage ein in Schulbüchern und Atlanten weit verbreitetes Darstellungsformat für die hydroklimatologische Charakterisierung eines Ortes. Sie zeigen durch die spezifische Darstellung aggregierter Temperatur- und Niederschlagsdaten auf einfache Art typische Jahresmuster von Niederschlag und Temperatur. Im Rahmen dieses Arbeitsblatts sollen Sie solche Klimadaten aufbereiten und das hygrische Klima mittels eines [Walter-Lieth-Diagramms](https://de.wikipedia.org/wiki/Klimadiagramm) und  einer Verdunstungsabschätzung nach Haude vergleichen und bewerten.
 
-## Aufgabe 04-1-L1: Walter-Lieth-Diagramm
+## Übung 04-1-1: Walter-Lieth-Diagramm
 
 {% capture A04-1-L1 %}
 
@@ -46,7 +46,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
   {{ A04-1-L1 | markdownify }}
 </div>
 
-## Aufgabe 04-1-L2: Verdunstung nach Haude
+## Übung 04-1-2: Verdunstung nach Haude
 
 {% capture A04-1-L2 %}
 
@@ -62,20 +62,6 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
   {{ A04-1-L2 | markdownify }}
 </div>
 
-
-## Aufgabe 04-1-L3: Walter-Lieth oder Haude?
-
-{% capture A04-1-L3 %}
-
-Vergleichen Sie die beiden erstellten Diagramme und diskutieren Sie Ihre Analyse mit maximal zwei Sätzen. Nennen und begründen Sie anschließend jeweils einen kritischen Aspekt, sowohl in der jeweiligen Darstellungs- als auch Berechnungsform mit insgesamt maximal vier Sätzen.
-
-Umfang: 1 Seite in Ihrer PDF-Datei.
-{% endcapture %}
-
-<div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 04-1-L3:</h4>
-  {{ A04-1-L3 | markdownify }}
-</div>
 
 
 

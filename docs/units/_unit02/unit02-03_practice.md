@@ -85,7 +85,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 **Bilderreihe 2**
 
-{% include gallery id="panel2" layout="third" caption= "Fotos: (links) [Bild 2a](https://w.wiki/QuL) Gottfried Hoffmann CC BY-SA via commons.wikimedia.org, (mitte), [Bild 2b](https://w.wiki/QuN) Ralf Roletschek GFDL 1.2 via commons.wikimedia.org, (rechts): [Bild 2c](https://w.wiki/QuP) Christian Fischer CC BY-SA via commons.wikimedia.org" %}
+{% include gallery id="panel2"  caption= "Fotos: (links) [Bild 2a](https://w.wiki/QuL) Gottfried Hoffmann CC BY-SA via commons.wikimedia.org, (mitte), [Bild 2b](https://w.wiki/QuN) Ralf Roletschek GFDL 1.2 via commons.wikimedia.org, (rechts): [Bild 2c](https://w.wiki/QuP) Christian Fischer CC BY-SA via commons.wikimedia.org" %}
 
 **Bilderreihe 3**
 

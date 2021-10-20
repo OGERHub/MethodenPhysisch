@@ -37,13 +37,13 @@ die folgenden Leitfragen angesehen werden, die eine ergänzte Auswahl der bei Gr
 Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen).
 {: .notice--danger}
 
-## Aufgabe 05-1-L1: Karte der Marburger Innenstadt
+## Übung 05-1-1: Karte der Marburger Innenstadt
 
 Sie interessieren sich für ein Lehramtsstudium in Marburg mit den Fächern Geographie und Theologie und möchten den Studienort erkunden. Dafür laden Sie sich vor Ihrer Anfahrt mit dem Zug den Innenstadtplan des örtlichen Tourismusbüros herunter. Sie fragen sich, ob Sie Ihr Fahrrad mitnehmen sollten, um sich in der Stadt zu bewegen. Sie wollen die wichtigsten universitären Einrichtungen besuchen und natürlich insbesondere das geographische Institut und verschiedene religiöse Einrichtungen. Außerdem wollen Sie einen schönen Aussichtspunkt finden, um einen Überblick über die Stadt zu bekommen.
 
 {% capture A05-1-L1 %}
 
-Beschreiben Sie bitte den Eindruck, den die Karte von Marburg vermittelt, in Stichworten. Analysieren Sie dann die Perspektive und die Interessen des Tourismusbüros mit drei Sätzen. Diskutieren Sie abschließend die Eignung der Karte für ihr fiktives Vorhaben in maximal fünf Sätzen.
+Beschreiben Sie bitte den Eindruck, den die Karte von Marburg vermittelt, in Stichworten. Diskutieren Sie abschließend die Eignung der Karte für ihr fiktives Vorhaben in maximal fünf Sätzen.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 
@@ -55,13 +55,13 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 </div>
 
 
-## Aufgabe 05-1-L2: Feuer
+## Übung 05-1-2: Feuer
 
 Die NASA hat auf Ihrer [Earth Observatory Webseite](https://earthobservatory.nasa.gov/images/5800/2005-fire-patterns-across-africa) die  Feuerdynamik in Afrika im Jahr 2005 dargestellt.
 
 {% capture A05-1-L2 %}
 
-Beschreiben Sie bitte den Eindruck, den Sie von der [Darstellung der NASA](https://earthobservatory.nasa.gov/images/5800/2005-fire-patterns-across-africa) haben, mit maximal 2 Sätzen. Analysieren Sie anschließend mit maximal 3 Sätzen die [Werbung einer amerikanischen Autovermietung](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR), die in zwei aufeinander folgenden Jahren (oben das erste, unten das zweite Jahr) erschienen ist, hinsichtlich bewusster Konstruktionsentscheidungen. Kommen Sie anschließend auf die Abbildung der NASA zurück und diskutieren Sie in maximal 3 Sätzen, in wie fern sich Werbung und Satellitendarstellung bezüglich der Wirkung der Abbildung gleichen und was hier der technischen Konstruktion der Abbildung zu Grunde liegt.
+Beschreiben Sie bitte den Eindruck, den Sie von der [Darstellung der NASA](https://earthobservatory.nasa.gov/images/5800/2005-fire-patterns-across-africa) haben, mit maximal 2 Sätzen. Analysieren Sie anschließend mit maximal 3 Sätzen die [Werbung einer amerikanischen Autovermietung](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR), die in zwei aufeinander folgenden Jahren (oben das erste, unten das zweite Jahr) erschienen ist, hinsichtlich bewusster Konstruktionsentscheidungen. 
 
 Umfang: 1 Seite in Ihrer PDF-Datei
 {% endcapture %}
