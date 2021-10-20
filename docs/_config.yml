@@ -52,7 +52,7 @@ locale                   : "de-DE"
 # Build settings
 markdown: kramdown
 # theme: minima
-remote_theme: "GeoMOER/moer-jekyll-theme"
+remote_theme: "gisma-courses/moer-jekyll-theme"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 auto_ids: true
 
