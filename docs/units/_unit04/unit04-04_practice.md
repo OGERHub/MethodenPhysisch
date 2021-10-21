@@ -32,7 +32,7 @@ Walter-Lieth-Diagramme sind trotz einiger Einschränkungen (Schneeniederschlag, 
 
 ## Übung 04-1-1: Walter-Lieth-Diagramm
 
-{% capture A04-1-L1 %}
+{% capture 04-1-1 %}
 
 Erstellen Sie bitte auf Basis der langjährigen mittleren monatlichen Lufttemperatur und der langjährigen mittleren monatlichen Niederschlagssumme für die DWD-Station Cölbe ein Walter-Lieth-Diagramm. Nutzen Sie hierfür den auf ILIAS verfügbaren [Datensatz](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui) und orientieren Sie sich an der im Datensatz vorhandnen Zeitspanne. Bitte beachten Sie, dass Lücken in der Zeitserie nicht aufgefüllt oder anderweitig explizit berücksichtigt werden müssen.
 
@@ -42,13 +42,13 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 04-1-L1:</h4>
-  {{ A04-1-L1 | markdownify }}
+  <h4 class="no_toc">Übung 04-1-1:</h4>
+  {{ 04-1-1 | markdownify }}
 </div>
 
 ## Übung 04-1-2: Verdunstung nach Haude
 
-{% capture A04-1-L2 %}
+{% capture 04-1-2 %}
 
 Berechnen Sie bitte die langjährige mittlere monatliche potentielle Evapotranspiration nach Haude für den in A04-1-L1 von Ihnen bereits aufbereiteten Datensatz (zur Berechnung siehe [Info Berechnung Haude](#info-verdunstung-nach-haude)). Erstellen Sie bitte anschließend ein Diagramm, dass die potentielle Evapotranspiration den langjährigen monatlichen Niederschlagssummen gegenüberstellt.
 
@@ -58,8 +58,8 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 04-1-L2:</h4>
-  {{ A04-1-L2 | markdownify }}
+  <h4 class="no_toc">Übung 04-1-2:</h4>
+  {{ 04-1-2 | markdownify }}
 </div>
 
 
