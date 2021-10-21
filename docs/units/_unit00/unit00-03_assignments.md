@@ -7,13 +7,7 @@ header:
 
 ## Studienleistung
 
-Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für Ihre Studienleistung. Es müssen alle Aufgaben im [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/ilias.php?ref_id=2344948&ass_id=35893&cmd=showOverview&cmdClass=ilobjexercisegui&cmdNode=b3:ms&baseClass=ilExerciseHandlerGUI) innerhalb des dort angegeben Zeitraums und den [formalen Anforderungen](#formale-anforderungen) entsprechend abgegeben werden. Die Studienleistung ist in Zweierteams zu erbringen.
-
-
-### Schwierigkeitsniveaus
-Alle Aufgaben sind in drei Teilaufgaben mit aufsteigendem Schwierigkeitsniveaus untergliedert: L1 stellt das minimale Niveau dar, L2 das solidere Basisniveau und L3 das vertiefte Niveau. Die erfolgreiche Bearbeitung von Aufgaben des Niveaus L3 ist ein Indikator dafür, dass Sie die abschließende Prüfungsleistung mit gutem bis sehr gutem Ergebnis bestehen können.
-
-Während des Bearbeitungszeitraums der Aufgaben können Sie in der Web-Konferenz Fragen stellen. Eine Nachbesprechung findet in der Woche nach Abgabe in der Web-Konfrerenz statt. Wir werden im Vorfeld Studierende mit besonders gelungenen Abgaben bitten diese dort vorzustellen. 
+Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für Ihre Studienleistung. Es müssen alle Aufgaben im [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/ilias.php?ref_id=2344948&ass_id=35893&cmd=showOverview&cmdClass=ilobjexercisegui&cmdNode=b3:ms&baseClass=ilExerciseHandlerGUI) innerhalb des dort angegeben Zeitraums und den [formalen Anforderungen](#formale-anforderungen) entsprechend abgegeben werden. Die Studienleistung ist in Dreierteams zu erbringen.
 
 
 ### <a name="formale-anforderungen"></a>Formale Anforderungen
@@ -36,10 +30,10 @@ Wenn Sie für die Beantwortung von Fragen Quellen nutzen, dann geben Sie diese b
 Wenn Sie die Bearbeitung der Übungsaufgabe abgeschlossen haben, speichern Sie das Dokument als PDF-Datei und laden nur diese Version in ILIAS hoch.
 
 ### Bestehen der Studienleistung
-Die Studienleistung gilt als bestanden, wenn Ihre Zweiergruppe für alle fünf Kurseinheiten mindestens das L1 Niveau in akzeptabler Qualität eingereicht hat. 
+Die Studienleistung gilt als bestanden, wenn Ihre Dreiergruppe in jeder Einheit eine Einreichung erbacht hat. 
 
 
 ## Prüfungsleistung
-Am Ende des Moduls wird Ihnen eine Prüfung mit theoretischen und praktischen Aufgaben gestellt für deren Berarbeitung Sie wie gewohnt 10 Tage Zeit haben werden. Die Prüfungsleistung ist individuell zu erbringen.
+Am Ende jeder Lerneinheit finden Sie Prüfungsaufgaben. Für die Erarbeitung der Prüfungsaufgaben haben Sie bis zum 03. Februar Zeit. Bitte reichen Sie die Prüfungsaufgaben aller Lerneinheiten am Ende des Moduls gebündelt ein. Sie können die Prüfung entweder als Gruppen- oder als Einzelarbeit erbringen. 
 
 
