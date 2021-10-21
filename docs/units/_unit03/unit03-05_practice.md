@@ -39,12 +39,11 @@ Erstellen Sie eine Kurzdokumentation Ihrer Messkampagne.
 1. Integrieren Sie Ihre Daten zur Schallmessungen als Tabelle, die zur jeder Messung auch Geokoordinaten enthält.
 1. Fertigen Sie eine Handskizze des Raums mit allen Elementen, die für die Fragestellung relevant sind, an. Fügen Sie auch Fotos mit kurzen Bildunterschriften möglichst korrekt verortet in Ihre Handskizze ein.
 
-Umfang: 3 Seiten in Ihrer PDF-Datei
-{% endcapture %}
+Umfang: 3 Seiten in Ihrer PDF-Datei{% endcapture %}
 
 <div class="notice--success">
   <h4 class="no_toc">Übung 03-1:</h4>
-  {{ 03-1 | markdownify }}
+  {{03-1 | markdownify }}
 </div>
 
 **Tipp**: Fotos, die Sie mit dem Smartphone machen, können in der Regel bereits während der Aufnahme geokodiert werden. Recherchieren Sie die hierzu notwendigen Einstellungen ihres Geräts. Sowohl zur Verortung Ihrer Messpunkte als auch zur Schallmessung finden Sie diverse Apps im App-Store Ihres Betriebssystems.
@@ -64,12 +63,11 @@ Analysieren Sie die Ausbreitung des Straßenlärms mit Bezug auf das Geländepro
 1. Übertragen Sie die Positionen Ihrer Schallmessungen ins Geländeprofil und geben Sie die Messergebnisse an.
 1. Beschreiben Sie anhand der Daten und unter Berücksichtigung des Höhenprofils in maximal drei Sätzen, wie sich der Schallpegel entlang Ihres Transekts ausprägt.
 
-Umfang: 2 Seiten in Ihrer PDF-Datei (Sie können die Seiten auch im Querformat nutzten).
-{% endcapture %}
+Umfang: 2 Seiten in Ihrer PDF-Datei (Sie können die Seiten auch im Querformat nutzten).{% endcapture %}
 
 <div class="notice--success">
   <h4 class="no_toc">Übung 03-2:</h4>
-  {{ 03-2 | markdownify }}
+  {{03-2 | markdownify }}
 </div>
 
 **Tipp**: Höheninformationen können Sie analogen topographischen oder auch digitalen Karten entnehmen. (Für digitales Arbeiten eignet sich z.B. [OpenTopoMap](https://opentopomap.org/) ). Falls Sie keine topographische Papier-Karte zur Hand haben können Sie mit wenigen Klicks z.B. mit dem Webtool  [inkatlas](https://inkatlas.com/create/) eine maßstäbliche topographische Karte auf der Grundlage von OpenTopoMap erzeugen und ausdrucken.
