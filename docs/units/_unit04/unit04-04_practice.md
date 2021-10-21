@@ -34,7 +34,7 @@ Walter-Lieth-Diagramme sind trotz einiger Einschränkungen (Schneeniederschlag, 
 
 {% capture 04-1-1 %}
 
-Erstellen Sie bitte auf Basis der langjährigen mittleren monatlichen Lufttemperatur und der langjährigen mittleren monatlichen Niederschlagssumme für die DWD-Station Cölbe ein Walter-Lieth-Diagramm. Nutzen Sie hierfür den auf ILIAS verfügbaren [Datensatz](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui) und orientieren Sie sich an der im Datensatz vorhandnen Zeitspanne. Bitte beachten Sie, dass Lücken in der Zeitserie nicht aufgefüllt oder anderweitig explizit berücksichtigt werden müssen.
+Erstellen Sie bitte auf Basis der langjährigen mittleren monatlichen Lufttemperatur und der langjährigen mittleren monatlichen Niederschlagssumme für die DWD-Station Cölbe ein Walter-Lieth-Diagramm. Nutzen Sie hierfür den auf ILIAS verfügbaren [Datensatz](https://ilias.uni-marburg.de/goto.php?target=file_2617904_download&client_id=UNIMR) und orientieren Sie sich an der im Datensatz vorhandnen Zeitspanne. Bitte beachten Sie, dass Lücken in der Zeitserie nicht aufgefüllt oder anderweitig explizit berücksichtigt werden müssen.
 
 Interpretieren Sie in maximal zwei Sätzen das Walter-Lieth-Diagramm.
 
