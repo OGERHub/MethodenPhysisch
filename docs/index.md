@@ -38,37 +38,38 @@ Am Ende dieses Moduls können Sie
 ## Kursmerkmale
 Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eignet sich in gewissem Maße aber auch zum Selbststudium.
 
-Information aufgrund der **Coronavirus-Pandemie**: Aus Gründen des Infektionsschutzes sind Präsenzveranstaltung derzeit nicht möglich. Der Kurs findet deshalb in der digitalen Welt statt. Studierende, die den Kurs im Wintersemester 20/21 besuchen, finden alle notwendigen Informationen im Bereich [How-to MeKo]({{ site.baseurl }}{% link _unit00/unit00-02_learning.md %}) auf dieser Webseiten oder im geschlossenen [Kursbereich der Ilias-Lernplattform](https://ilias.uni-marburg.de/goto.php?target=crs_2112718&client_id=UNIMR).
+Studierende, die den Kurs im Wintersemester 21/22 besuchen, finden alle notwendigen Informationen im Bereich [How-to MeKo]({{ site.baseurl }}{% link _unit00/unit00-02_learning.md %}) auf dieser Webseiten oder im geschlossenen [Kursbereich der Ilias-Lernplattform](https://ilias.uni-marburg.de/goto.php?target=crs_2588288).
 {: .notice--info}
 
 
 ## Studien- und Prüfungsleistung
 
-In jeder der sechs Kurseinheiten werden mehrere Aufgaben gestellt. Jede Aufgabe umfasst drei Unteraufgaben in den Schwierigkeitsniveaus L1 (minimal), L2 (solide) und L3 (vertieft). Die Bearbeitung und auch die Bewertung der höheren Schwierigkeitsniveaus (L2 bzw. L3) setzt immer auch die Bearbeitung der niedrigeren Niveaus voraus. Die Studienleistung gilt als bestanden, wenn  die frist- und formgerechte Abgabe der Übungsergebnisse mindestens die erfolgreiche Bearbeitung aller Unteraufgaben des Niveaus L1 umfasste.  Details zur Abgabe von Aufgaben finden Sie im Bereich [How-to MeKo]({{ site.baseurl }}{% link _unit00/unit00-02_learning.md %}) auf dieser Webseiten.
+In jeder der sechs Kurseinheiten werden mehrere Aufgaben gestellt. Es gibt Übungs- und Prüfungsaufgaben. Die Bearbeitung der Prüfungsaufgaben setzt immer auch die Bearbeitung der Übungsaufgaben voraus. Die Studienleistung gilt als bestanden, wenn  die frist- und formgerechte Abgabe der Übungsergebnisse vorliegt.  Details zur Abgabe von Aufgaben finden Sie im Bereich [How-to MeKo]({{ site.baseurl }}{% link _unit00/unit00-02_learning.md %}) auf dieser Webseiten.
 
-Die Prüfungsleistung besteht aus theoretischen und praktischen Aufgaben für deren Bearbeitung Sie 10 Tage Zeit haben.
+Die Prüfungsaufgaben sind gesammelt bis zum 03.Februar abzugeben. 
 
-Die Studienleistung ist in Zweiterteams und die Prüfungsleistung ist individuell zu erbringen.
+Die Studienleistung ist in Dreierteams zu erbringen. Die Prüfungsleistung kann, muss aber nicht, individuell erbracht werden.
 
 
 ## Zeitaufwand und Ablauf
 
-Jede Kurseinheit ist auf einen Zeitraum von zwei Wochen ausgelegt und besteht aus einem Lern- und einem Übungsteil. Die Übungsphase wird durch eine Web-Konferenz begleitet. Die abgegebenen Aufgaben werden in der jeweils folgenden Kurseinheit nachbereitet.
+Jede Kurseinheit ist auf einen Zeitraum von zwei Wochen ausgelegt und besteht aus einem Lern- und einem Übungsteil. Die Übungsphase wird durch ein Tutorien begleitet. Die abgegebenen Aufgaben werden in der jeweils folgenden Kurseinheit in der Webkonferenz nachbereitet.
 
 In einer durchschnittlichen Arbeitswoche sollten Sie 10-12 Stunden für den Kurs aufwenden. Die Aufteilung ist etwa wie folgt:
 
-* Digitale Präsenz: 2 Stunden pro Woche
-  * Der Kurs findet 1 mal pro Woche als 90 minütige Sitzung statt - Anwesenheit ist erforderlich für das Verständnis
-  * Optional ein Tutorium zur Wiederholung bei dem Fragen beantwortetet werden - freiwillige Teilnahme
+* (Digitale) Präsenz: 2 Stunden jede Woche
+  * Der Kurs findet jede zweite Woche als 90 minütige Sitzung statt - Anwesenheit oder Nacharbeit ist erforderlich für das Verständnis
+  * Optional kann jede zweite Woche an einem 45 minütigen Tutorium teilgenommen werden - hier werden die aktuellen Aufgaben vertieft.
 * Studium außerhalb der Präsenz: 8-10 Stunden pro Woche
   * Wöchentliche Arbeitszeiten
+  * Wöchentliche Treffen mit Kommiliton:innen
   * Wöchentliche Bearbeitung von Aufgaben
   
 
 
 
 ## Kurszeiten
-**Kurszeiten**: Donnerstags, 12:00 bis 14:00 Uhr
+**Kurszeiten**: Donnerstags, von 10:00 bis 14:00 Uhr
 
 
 ## Kursleitung
