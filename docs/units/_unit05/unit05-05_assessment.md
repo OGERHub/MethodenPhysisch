@@ -1,5 +1,5 @@
 ---
-title: A05-2 - Lehrkompetenzen und Spatial Citizenship
+title: P05 - Reflexion
 toc: true
 header:
   image: /assets/images/05-splash.jpg
