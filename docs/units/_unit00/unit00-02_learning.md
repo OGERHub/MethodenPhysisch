@@ -21,7 +21,7 @@ Ergänzend gibt es noch einen geschlossenen [Kursbereich auf ILIAS](https://ilia
 
 ## Flexibles Lernen mit festgelegten Fristen
 
-* Jede zweite Woche starten wir mit einer neuen Kurseinheit. Für diese finden Sie neue Lernmaterialien und neue Aufgaben auf dieser Webseite. Sie arbeiten sich innerhalb Ihres Dreierteams in die Aufgaben ein und diskutieren aufkommende Fragen mit einer Gruppe von Kommilitoninnen, der sie für jede Aufgabe neu zugelost werden. Fragen, die sich innerhalb der Gruppe nicht klären lassen, tragen Sie bis Montag 16:00 Uhr [hier]() ein. Die Fragen werden dann in den FAQs oder im Präsenztutorium thematisiert. Für die Bearbeitung der Aufgaben, die die Grundlage Ihrer Studienleistung sind, haben Sie anschließend bis am Montag um 16:00 Uhr Zeit. Sie fertigen die Abgabe in Ihrem Drieerteam an und reichen eine Bearbeitung pro Team ein. 
+* Jede zweite Woche starten wir mit einer neuen Kurseinheit. Für diese finden Sie neue Lernmaterialien und neue Aufgaben auf dieser Webseite. Sie arbeiten sich innerhalb Ihres Dreierteams in die Aufgaben ein und diskutieren aufkommende Fragen mit einer Gruppe von Kommilitoninnen, der Sie für jede Aufgabe neu zugelost werden. Fragen, die sich innerhalb der Gruppe nicht klären lassen, tragen Sie bis Montag 16:00 Uhr [hier]() ein. Die Fragen werden dann in den FAQs oder im Präsenztutorium thematisiert. Für die Bearbeitung der Aufgaben, die die Grundlage Ihrer Studienleistung sind, haben Sie anschließend bis am Montag um 16:00 Uhr Zeit. Sie fertigen die Abgabe in Ihrem Dreierteam an und reichen eine Bearbeitung pro Team ein. 
 
 
 
@@ -51,7 +51,7 @@ In Ilias ist ein Forum eingerichtet, das Ihnen ermöglicht mit Ihren Kommilitone
 
 
 ### E-Mail
-Sie erreichen uns unter reudenbach@geo.uni-marburg.de und rieke.ammoneit@geo.uni-marburg.de. Umgekehrt erwarten wir, dass wir Sie über Ihre offizielle Students-E-Mail erreichen und Sie diese regelmäßig, mindestens einmal morgens und einmal Abends abfragen.
+Sie erreichen uns unter reudenbach@geo.uni-marburg.de, carina.peter@geo.uni-marburg.de und rieke.ammoneit@geo.uni-marburg.de. Umgekehrt erwarten wir, dass wir Sie über Ihre offizielle Students-E-Mail erreichen und Sie diese regelmäßig, mindestens einmal morgens und einmal Abends abfragen.
 
 
 ### Dreiergruppen
