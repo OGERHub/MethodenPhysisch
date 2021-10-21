@@ -1,5 +1,5 @@
 ---
-title: A05-2 - Lehrkompetenzen und Spatial Citizenship
+title: A05-2 | Lehrkompetenzen und Spatial Citizenship
 toc: true
 header:
   image: /assets/images/05-splash.jpg
