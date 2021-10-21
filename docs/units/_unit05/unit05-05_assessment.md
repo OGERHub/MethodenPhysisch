@@ -1,5 +1,5 @@
 ---
-title: P05 - Reflexion
+title: P05 | Reflexion
 toc: true
 header:
   image: /assets/images/05-splash.jpg
