@@ -44,7 +44,7 @@ Umfang: 3 Seiten in Ihrer PDF-Datei
 
 <div class="notice--success">
   <h4 class="no_toc">Übung 03-1:</h4>
-  {{ A03-L1 | markdownify }}
+  {{ 03-1 | markdownify }}
 </div>
 
 **Tipp**: Fotos, die Sie mit dem Smartphone machen, können in der Regel bereits während der Aufnahme geokodiert werden. Recherchieren Sie die hierzu notwendigen Einstellungen ihres Geräts. Sowohl zur Verortung Ihrer Messpunkte als auch zur Schallmessung finden Sie diverse Apps im App-Store Ihres Betriebssystems.
@@ -69,7 +69,7 @@ Umfang: 2 Seiten in Ihrer PDF-Datei (Sie können die Seiten auch im Querformat n
 
 <div class="notice--success">
   <h4 class="no_toc">Übung 03-2:</h4>
-  {{ A03-L2 | markdownify }}
+  {{ 03-2 | markdownify }}
 </div>
 
 **Tipp**: Höheninformationen können Sie analogen topographischen oder auch digitalen Karten entnehmen. (Für digitales Arbeiten eignet sich z.B. [OpenTopoMap](https://opentopomap.org/) ). Falls Sie keine topographische Papier-Karte zur Hand haben können Sie mit wenigen Klicks z.B. mit dem Webtool  [inkatlas](https://inkatlas.com/create/) eine maßstäbliche topographische Karte auf der Grundlage von OpenTopoMap erzeugen und ausdrucken.
