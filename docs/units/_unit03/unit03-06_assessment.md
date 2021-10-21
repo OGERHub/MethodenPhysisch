@@ -1,5 +1,5 @@
 ---
-title: A03 | Raumerfassung
+title: P03 | Raumerfassung
 toc: true
 header:
   image: /assets/images/03-splash.jpg
