@@ -1,5 +1,5 @@
 ---
-title: A04-2 | Wahlglauben
+title: P04 | Datenanalyse
 toc: true
 header:
   image: /assets/images/04-splash.jpg
