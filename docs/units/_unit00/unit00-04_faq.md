@@ -12,7 +12,7 @@ permalink: /unit00/unit00-04_faq.html
 **Wie finde ich ein Team?**
   * im Ilias Buchungstool können Sie sich einem Dreierteam zuordnen.
 
-**Ich habe einen Mac. Kann ich reibungslos teilnehmen?*
+**Ich habe einen Mac. Kann ich reibungslos teilnehmen?**
  * Bei allen Aufgaben steht es Ihnen frei mit welcher Software Sie arbeiten. 
  * Sie brauchen für die Teilnahme einen in erster Linie einen Internetbrowser.
  * Für den Umgang mit Ihren Betreibssystem sind Sie in erster Linie selbstverantwortlich. Das HRZ bietet auch entsprechende [Sprechstunden](https://www.uni-marburg.de/de/hrz/aktuelles/nachrichten/2019/linux-und-mac-sprechstunde-montags-16-18-uhr) als Serviceleistung an.
