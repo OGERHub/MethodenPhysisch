@@ -69,7 +69,8 @@ In einer durchschnittlichen Arbeitswoche sollten Sie 10-12 Stunden für den Kurs
 
 
 ## Kurszeiten
-**Kurszeiten**: Donnerstags, von 10:00 bis 14:00 Uhr
+**Kurszeiten**: Donnerstags (ungerade Wochen), 10:15-11:45 oder 12:15-13:45
+**Tutorium**: Donnerstags (gerade Wochen), 10:00-10:45 | 11:00-11:45 | 12:15-13:00 | 13:15-14:45
 
 
 ## Kursleitung
