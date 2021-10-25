@@ -61,5 +61,5 @@ Damit Sie nicht isoliert arbeiten müssen, sollen Sie sich zu Dreiergruppen zusa
 Zu Beginn jeder Aufgabe werden Sie zusätzlich einer Diskussionsgruppe zugelost. Sie sollen sich in dieser Gruppe treffen und sich über Ihr Vorgehen austauschen. Außerdem sollen Fragen, die in Ihrem Dreierteam aufgetreten sind, hier geklärt werden. Bleiben Fragen bestehen, so tragen Sie diese bitte auf der Dokumentationsseite ein.  
 
 ## Kursablauf
-{% include figure image_path="/assets/images/verlaufsuersicht.png" %}
+{% include figure image_path="/assets/images/verlaufsuebersicht.png" %}
  
