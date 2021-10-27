@@ -21,7 +21,7 @@ Ergänzend gibt es noch einen geschlossenen [Kursbereich auf ILIAS](https://ilia
 
 ## Flexibles Lernen mit festgelegten Fristen
 
-* Jede zweite Woche starten wir mit einer neuen Kurseinheit. Für diese finden Sie neue Lernmaterialien und neue Aufgaben auf dieser Webseite. Sie arbeiten sich innerhalb Ihres Dreierteams in die Aufgaben ein und diskutieren aufkommende Fragen mit einer Gruppe von Kommilitoninnen, der Sie für jede Aufgabe neu zugelost werden. Fragen, die sich innerhalb der Gruppe nicht klären lassen, tragen Sie bis Montag 16:00 Uhr [hier]() ein. Die Fragen werden dann in den FAQs oder im Präsenztutorium thematisiert. Für die Bearbeitung der Aufgaben, die die Grundlage Ihrer Studienleistung sind, haben Sie anschließend bis am Montag um 16:00 Uhr Zeit. Sie fertigen die Abgabe in Ihrem Dreierteam an und reichen eine Bearbeitung pro Team ein. 
+* Jede zweite Woche starten wir mit einer neuen Kurseinheit. Für diese finden Sie neue Lernmaterialien und neue Aufgaben auf dieser Webseite. Sie arbeiten sich innerhalb Ihres Dreierteams in die Aufgaben ein und diskutieren aufkommende Fragen mit einer Gruppe von Kommilitoninnen, der Sie für jede Aufgabe neu zugelost werden. Fragen, die sich innerhalb der Gruppe nicht klären lassen, tragen Sie bis Montag 14:00 Uhr [auf Ilias](https://ilias.uni-marburg.de/ilias.php?ref_id=2632196&cmd=show&cmdClass=ildclrecordlistgui&cmdNode=wq:lq:9l&baseClass=ilRepositoryGUI) ein. Die Fragen werden dann in den FAQs oder im Präsenztutorium thematisiert. Für die Bearbeitung der Aufgaben, die die Grundlage Ihrer Studienleistung sind, haben Sie anschließend bis am Montag um 14:00 Uhr Zeit. Sie fertigen die Abgabe in Ihrem Dreierteam an und reichen eine Bearbeitung pro Team ein. 
 
 
 
