@@ -66,7 +66,7 @@ Wir benötigen die Software NetLogo. Falls NetLogo auf Ihren Rechnern nicht inst
 
 Haben Sie keine Lust auf eine Installation oder sollte es beim Download Probleme geben können Sie auch mit der der hier unten eingebetten Online-Variante arbeiten. 
 
-{% include media url="/assets/misc/fire.html" %}
+{% include media url="assets/misc/Fire.html" %}
 
 ### A02-1
 Artikel lesen und Vorgehen strukturieren
