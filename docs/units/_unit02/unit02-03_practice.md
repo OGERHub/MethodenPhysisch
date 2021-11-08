@@ -64,14 +64,18 @@ Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github
 Wir benötigen die Software NetLogo. Falls NetLogo auf Ihren Rechnern nicht installiert ist, können Sie die freie Software in einer passenden Version für euer Betriebssystem auf der [Download-Seite](https://ccl.northwestern.edu/netlogo/6.2.0/) herunterladen und installieren. 
 
 
-Habt ihr keine Lust auf eine Installation oder sollte es beim Download Probleme geben könnt ihr auch mit der der hier unten eingebetten Online-Variante arbeiten. Ihr könnt das nachstehende Online-Modell mit einem Klick auf den Button "NetLogo exportieren" und herunterladen um es mit einer lokalen Installation von NetLogo öffnen.
+Haben Sie keine Lust auf eine Installation oder sollte es beim Download Probleme geben können Sie auch mit der der hier unten eingebetten Online-Variante arbeiten. 
 
 {% include media url="/assets/misc/fire.html" %}
-https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Earth%20Science/Fire.nlogo 
-kann aus gisma-courses nicht pullen und phushen, deswegen konnte ich es noch nicht einpflegen.
 
-### Aufgabe 
-* was zum Raum und der Frage, wie er modelliert ist (Raster, Freifläche, Baum)
-* Wie ist die Ausbreitung des Feuers modelliert
-* vielleicht betten wir das ganze in ein Szenario ein, innerhalb desser wir mit dem Model eine Fragestellung beantworten wollen (das könnte man ggf. auch als Prüfungsaufgabe nehmen)
-* unter what to do wird, vorgeschlagen die verbrannten in Patches in Abhängigkeit von der Baumdichte darstellen zu lassen und die Kurve zu interpretieren. Vielleicht machen wir das noch? 
+### A02-1
+Artikel lesen und Vorgehen strukturieren
+
+### A02-2
+was zum Raum und der Frage, wie er modelliert ist (Raster, Freifläche, Baum)
+
+###A02-3
+Wie ist die Ausbreitung des Feuers modelliert
+
+
+
