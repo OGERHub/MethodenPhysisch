@@ -49,9 +49,14 @@ panel4:
 
 ---
 
-Aufbauen auf den Übungen dieser Einheit sollen Sie folgende Aufgaben bearbeiten und als Teil Ihrer Prüfungsleistung bis zum 21.11.2021 im Ilias-Ordner abgeben. In dieser Abgabe sollen Sie ein Trampelpfadsystem modellieren. Dafür müssen Sie als ersten Schritt Trampelpfade im Realraum suchen. 
+Aufbauen auf den Übungen dieser Einheit sollen Sie folgende Aufgaben bearbeiten und als Teil Ihrer Prüfungsleistung bis zum 21.11.2021 im Ilias-Ordner abgeben. In dieser Abgabe sollen Sie aus Ihren Modellergenissen eine Aussage ableiten
 
 ## Benötigte Materialien für die Aufgaben
 * Papier und Stifte
 * [Hinweise zum Feuerschutz](https://cals.arizona.edu/extension/ornamentalhort/landscapemgmt/general/wildfire_defense.pdf)
+
+### P02-01
+In den Hinweisen zum Feuerschutz sind 3 Zonen um ein Wohnhaus beschrieben, die es zum Feuerschutz auf zu gestalten gilt. Sie haben nun die Aufgabe für ein County in Arizona eine allgemeine Empfehlung zu erstellen, wie dicht die Bäume eines Waldes stehen stehen dürfen. Ziel soll es sein, dass das Feuer verlässlich in der Zone 3 ausgebremst wird und die Baumdichte trotzdem möglichst hoch gehalten wird. Welche Baumdichte empfehlen Sie? Diskutieren Sie welche Grenzen Ihre Empfehlung hat. 
+
+
 
