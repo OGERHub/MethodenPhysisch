@@ -1,11 +1,12 @@
-
 # /_data/authors.yml
 - ammoneit:
   name             : "Rieke Ammoneit"
   avatar           : "/assets/images/ammoneit.jpg"
   email            : "ammoneit@uni-marburg.de"
-  
-
+- peter:
+  name             : "Carina Peter"
+  avatar           : "/assets/images/peter.jpg"
+  email            : "peter@uni-marburg.de"
 - reudenbach:
   name             : "Chris Reudenbach"
   avatar           : "/assets/images/reudenbach.jpg"

@@ -5,28 +5,35 @@ header:
   image: "/assets/images/00-unit-splash.jpg"
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'  
 ---
+Am 28.10.2021 starten wir in die Veranstaltung und die erste Kurseinheit. Es wird eine Videokonferenz um 10:15 Uhr geben und eine um 12:15 Uhr.
 
-Wir beginnen alle zwei Wochen mit einer neuen thematischen Kurseinheit mit Videos und Texten und schließen sie mit Aufgaben ab, die zur Studienleistung gehören. Wir treffen uns jede Woche am Donnerstag von 12:00 - 14:00 Uhr in der Web-Konferenz und klären Fragen zu den Inhalten und Aufgaben bzw. besprechen die Ergebnisse.
+Im Folgenden beginnen wir alle zwei Wochen mit einer neuen thematischen Kurseinheit mit Videos und Texten und schließen sie mit Aufgaben ab, die zur Studienleistung gehören. Wir treffen uns jede zweite Woche am Donnerstag abwechselnd von 10:15-11:45 oder 12:15 - 13:45 Uhr in der Web-Konferenz besprechen die Ergebnisse. Die Videokonferenz wird stets aufgezeichnet und steht Ihnen zur Nacharbeit zur Verfügung. 
+
+In den anderen Wochen wird es 45-minütige Tutorien geben, zu denen Sie sich im Ilias-Kurs anmelden können. 
+
 <!--more-->
 
 ## Web-basierte Lernumgebung
 
 Ihre prioritäre Lernumgebung ist diese öffentlich zugängliche Homepage, die wir auf GitHub erstellen. Hier finden Sie Lernmaterialien, Aufgaben und Hilfestellungen.
 
-Ergänzend gibt es noch einen geschlossenen [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/ilias.php?ref_id=2336025&cmdClass=ilrepositorygui&cmdNode=wq&baseClass=ilrepositorygui). Bei Bedarf werden dort einzelne Medien hinterlegt, die aus Urheberrechtsgründen nicht öffentlich bereitgestellt werden können. Außerdem müssen Sie dort Ihre Bearbeitung format- und fristgerecht hochladen.
+Ergänzend gibt es noch einen geschlossenen [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2588288). Bei Bedarf werden dort einzelne Medien hinterlegt, die aus Urheberrechtsgründen nicht öffentlich bereitgestellt werden können. Außerdem müssen Sie dort Ihre Bearbeitung format- und fristgerecht hochladen.
 
 ## Flexibles Lernen mit festgelegten Fristen
 
-* Jeden zweiten Donnerstag starten wir mit einer neuen Kurseinheit. Für diese finden Sie neue Lernmaterialien und neue Aufgaben auf dieser Webseite. Für die Bearbeitung der Aufgaben, die die Grundlage Ihrer Studienleistung sind, haben Sie anschließend 10 Tage Zeit, die Abgabefrist ist immer am Sonntag um 20:00 Uhr. Sie bearbeiten die Übungseinheiten in Zweierteams und reichen eine Bearbeitung pro Team ein. 
+* Jede zweite Woche starten wir mit einer neuen Kurseinheit. Für diese finden Sie neue Lernmaterialien und neue Aufgaben auf dieser Webseite. Sie arbeiten sich innerhalb Ihres Dreierteams in die Aufgaben ein und diskutieren aufkommende Fragen mit einer Gruppe von Kommilitoninnen, der Sie für jede Aufgabe neu zugelost werden. Fragen, die sich innerhalb der Gruppe nicht klären lassen, tragen Sie bis Montag 14:00 Uhr [auf Ilias](https://ilias.uni-marburg.de/ilias.php?ref_id=2632196&cmd=show&cmdClass=ildclrecordlistgui&cmdNode=wq:lq:9l&baseClass=ilRepositoryGUI) ein. Die Fragen werden dann in den FAQs oder im Präsenztutorium thematisiert. Für die Bearbeitung der Aufgaben, die die Grundlage Ihrer Studienleistung sind, haben Sie anschließend bis am Montag um 14:00 Uhr Zeit. Sie fertigen die Abgabe in Ihrem Dreierteam an und reichen eine Bearbeitung pro Team ein. 
+
 
 
 Abgesehen von diesen Fristen, können Sie sich Ihr Lernen und die Bearbeitung der Aufgaben frei einteilen. Weitere Informationen zur Studienleistung finden Sie [hier]({{ site.baseurl }}{% link _unit00/unit00-03_assignments.md %}))
 
 
-## Lernen mit Webkonferenzen
+## Lernen mit Webkonferenzen und Tutorien
 Zusätzlich zur Bereitstellung von Materialien auf dieser Webseite wollen wir uns mit Ihnen in Webkonferenzen treffen.
 
 Kurzfristige Änderungen z.B. des Webkonferenzraums können immer auftreten. Diese Änderungen finden Sie immer im Kursbereich auf ILIAS.
+
+Alle zwei Wochen werden Tutorien angeboten, die Raum zur vertiefenden Auseinandersetzung mit den Übungsaufgaben bieten. Bitte buchen Sie sich im Ilias zu den Tutorien ein, die Buchung ist stets ab Montag 16:00 Uhr vor dem entsprechenden Tutorium möglich. 
 
 
 ## Übersicht über Kommunikationsformen
@@ -44,10 +51,15 @@ In Ilias ist ein Forum eingerichtet, das Ihnen ermöglicht mit Ihren Kommilitone
 
 
 ### E-Mail
-Sie erreichen uns unter reudenbach@geo.uni-marburg.de und rieke.ammoneit@geo.uni-marburg.de. Umgekehrt erwarten wir, dass wir Sie über Ihre offizielle Students-E-Mail erreichen und Sie diese regelmäßig, mindestens einmal morgens und einmal Abends abfragen.
+Sie erreichen uns unter reudenbach@geo.uni-marburg.de, carina.peter@geo.uni-marburg.de und rieke.ammoneit@geo.uni-marburg.de. Umgekehrt erwarten wir, dass wir Sie über Ihre offizielle Students-E-Mail erreichen und Sie diese regelmäßig, mindestens einmal morgens und einmal Abends abfragen.
 
 
-### Kleingruppen
-Damit Sie nicht isoliert arbeiten müssen, werden wir Sie in der ersten Session in Kleingruppen einteilen. In jeder Kleingruppe finden sich dann Zweierteam zusammen, die bis zum Ende des Kurses bestehen bleiben. Wir empfehlen Ihnen sehr, sich nicht nur mit Ihrem/Ihrer Arbetispartner/in, sondern mit allen Mitgliedern Ihrer Kleingruppe zu vernetzten, um einen internen Austausch während des Semeseters zu ermöglichen. Im ILIAS unter ‘Reservierungen’ können Sie die Students-Account Ihrer Gruppenmitglieder einsehen. Kombiniert mit "@students.uni-marburg.de" ergeben sich daraus die E-Mail-Adressen in Ihrer Gruppe, so dass Sie sich im digitalen Raum verabreden können, z.B. innerhalb oder außerhalb von ILIAS mit Mail, Messengern, Chats oder Videokonferenzen. Diese Kleingruppe bietet Ihnen dieses Semester eine informelle Möglichkeit sich auszutauschen und gegenseitige Hilfe anzubieten. Innerhalb dieser Gruppe finden Sie sich bitte in Paaren zusammen. Die Aufgaben bearbeiten Sie dann zu zweit und geben sie auch zu zweit ab. 
+### Dreiergruppen
+Damit Sie nicht isoliert arbeiten müssen, sollen Sie sich zu Dreiergruppen zusammenfinden, die bis zum Ende des Kurses bestehen bleiben. Im ILIAS können Sie unter ‘Reservierungen’ die Students-Account Ihrer Gruppenmitglieder einsehen. Kombiniert mit "@students.uni-marburg.de" ergeben sich daraus die E-Mail-Adressen in Ihrer Gruppe, so dass Sie sich im digitalen Raum verabreden können, z.B. innerhalb oder außerhalb von ILIAS mit Mail, Messengern, Chats oder Videokonferenzen. Die Aufgaben bearbeiten Sie dann zu dritt und geben sie auch zu dritt ab. 
 
+### Diskussionsgruppe
+Zu Beginn jeder Aufgabe werden Sie zusätzlich einer Diskussionsgruppe zugelost. Sie sollen sich in dieser Gruppe treffen und sich über Ihr Vorgehen austauschen. Außerdem sollen Fragen, die in Ihrem Dreierteam aufgetreten sind, hier geklärt werden. Bleiben Fragen bestehen, so tragen Sie diese bitte auf der Dokumentationsseite ein.  
 
+## Kursablauf
+{% include figure image_path="/assets/images/Verlaufsübersicht.png" %}
+ 

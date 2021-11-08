@@ -23,7 +23,7 @@
 #baseurl: "/data/UNIMR/lm_data/lm_2287352"
 
 # Serve on GitHub
-url: https://geomoer.github.io
+url: https://gisma-courses.github.io
 baseurl: "/moer-meko/"
 
 
@@ -52,7 +52,7 @@ locale                   : "de-DE"
 # Build settings
 markdown: kramdown
 # theme: minima
-remote_theme: "GeoMOER/moer-jekyll-theme"
+remote_theme: "gisma-courses/moer-jekyll-theme"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 auto_ids: true
 
@@ -224,3 +224,5 @@ repository: geomoer/moer-meko
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+theme: jekyll-theme-minimal
