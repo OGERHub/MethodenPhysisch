@@ -263,10 +263,10 @@ end
 GRAPHICS-WINDOW
 254
 24
-766
-557
-125
-125
+764
+535
+-1
+-1
 2.0
 1
 10
@@ -307,7 +307,7 @@ Walddichte
 Walddichte
 0.0
 99.0
-65
+65.0
 1.0
 1
 %
@@ -349,9 +349,9 @@ NIL
 
 BUTTON
 490
-573
+565
 695
-606
+598
 Feuerschneise zeichnen
 draw-firebreak
 T
@@ -383,9 +383,9 @@ NIL
 
 BUTTON
 490
-649
+641
 694
-682
+674
 Feuerschneisen entfernen
 remove-firebreaks
 NIL
@@ -399,25 +399,25 @@ NIL
 1
 
 SLIDER
-495
-610
+490
+602
 696
-643
+635
 Breite-Feuerschneise
 Breite-Feuerschneise
 1
 10
-3
+3.0
 1
 1
 NIL
 HORIZONTAL
 
 BUTTON
-249
-579
-451
-612
+258
+566
+460
+599
 Wald zeichnen
 draw-forest
 T
@@ -431,10 +431,10 @@ NIL
 1
 
 BUTTON
-252
-639
-450
-672
+257
+638
+461
+671
 Waldbrandlinie starten
 ignite-forest-on-the-left
 NIL
@@ -499,7 +499,7 @@ Wind-Richtung
 Wind-Richtung
 1
 360
-76
+76.0
 15
 1
 NIL
@@ -529,7 +529,7 @@ Wind-Boeigkeit
 Wind-Boeigkeit
 0
 180
-90
+90.0
 10
 1
 NIL
@@ -544,7 +544,7 @@ Puffer-Zone-2
 Puffer-Zone-2
 1
 50
-25
+25.0
 1
 1
 NIL
@@ -576,7 +576,7 @@ Puffer-Zone-1
 Puffer-Zone-1
 1
 25
-7
+7.0
 1
 1
 NIL
@@ -591,14 +591,13 @@ dichte-zone-2
 dichte-zone-2
 0
 100
-50
+50.0
 5
 1
 %
 HORIZONTAL
 
 @#$#@#$#@
-
 ## WAS IST DAS?
 Dieses Modell ist eine Erweiterung des von Uri Wilensky entwickelten Feuermodells, das in NetLogos Modellbibliothek enthalten ist. Es simuliert die Ausbreitung eines Feuers in einem Wald definierter Dichte. Zusaetzlich ermoeglicht es die Nutzerschnittstelle dem Benutzer, Feuerschneisen, zusaetzliche aeume und Startpunkte fuer das Feuer hinzuzufuegen.
 ## WIE FUNKTIONIERT ES?
@@ -948,9 +947,8 @@ false
 0
 Polygon -7500403 true true 270 75 225 30 30 225 75 270
 Polygon -7500403 true true 30 75 75 30 270 225 225 270
-
 @#$#@#$#@
-NetLogo 5.3.1
+NetLogo 6.2.0
 @#$#@#$#@
 set density 60.0
 setup
@@ -997,7 +995,6 @@ true
 0
 Line -7500403 true 150 150 90 180
 Line -7500403 true 150 150 210 180
-
 @#$#@#$#@
 0
 @#$#@#$#@

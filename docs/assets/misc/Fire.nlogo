@@ -193,34 +193,19 @@ to burn-all-the-forest
 end
 
 
-; provides an simple way to draw new facilities
-to draw-world-items
-  while [mouse-down?] [
-    create-turtles 1 [
-      setxy mouse-xcor mouse-ycor
-      ask patches in-radius strich-dicke [ set pcolor read-from-string mal-farbe
-        if mal-farbe = yellow [set tree? true
-          set zone2? true]
-        if mal-farbe = gray [set break? true]
-      ]
-      die
-    ]
-    display
-  ]
-end
-
 ; Copyright 1997 Uri Wilensky. All rights reserved.
 ; The full copyright notice is in the Information tab.
 
 ; Extended code used for this model: Copyright 2010 Bill Teahan.
+; Extended code used for this model: Copyright 2021 MeKo.
 @#$#@#$#@
 GRAPHICS-WINDOW
 254
 24
-766
-557
-125
-125
+764
+535
+-1
+-1
 2.0
 1
 10
@@ -243,9 +228,9 @@ ticks
 
 MONITOR
 22
-170
-151
-215
+177
+219
+222
 Prozent verbrannt
 (burned-trees / initial-trees)\n* 100
 1
@@ -255,13 +240,13 @@ Prozent verbrannt
 SLIDER
 25
 250
-210
+219
 283
 Walddichte
 Walddichte
 0.0
 99.0
-60
+60.0
 1.0
 1
 %
@@ -361,17 +346,17 @@ Breite-Feuerschneise
 Breite-Feuerschneise
 1
 10
-3
+3.0
 1
 1
 NIL
 HORIZONTAL
 
 BUTTON
-26
-530
-160
-563
+23
+531
+226
+564
 Wald zeichnen
 draw-forest
 T
@@ -421,7 +406,7 @@ NIL
 SLIDER
 26
 290
-211
+219
 323
 Feuer-zu-Glut
 Feuer-zu-Glut
@@ -436,7 +421,7 @@ HORIZONTAL
 SWITCH
 27
 338
-174
+220
 371
 Wind?
 Wind?
@@ -453,7 +438,7 @@ Wind-Richtung
 Wind-Richtung
 1
 360
-181
+181.0
 15
 1
 NIL
@@ -483,39 +468,13 @@ Wind-Boeigkeit
 Wind-Boeigkeit
 0
 180
-90
+90.0
 10
 1
 NIL
 HORIZONTAL
-
-SLIDER
-351
-605
-523
-638
-strich-dicke
-strich-dicke
-0
-10
-2
-1
-1
-NIL
-HORIZONTAL
-
-CHOOSER
-377
-672
-515
-717
-mal-farbe
-mal-farbe
-"grey" "lightgreen"
-0
 
 @#$#@#$#@
-
 ## WAS IST DAS?
 Dieses Modell ist eine Erweiterung des von Uri Wilensky entwickelten Feuermodells, das in NetLogos Modellbibliothek enthalten ist. Es simuliert die Ausbreitung eines Feuers in einem Wald definierter Dichte. Zusaetzlich ermoeglicht es die Nutzerschnittstelle dem Benutzer, Feuerschneisen, zusaetzliche Baeume und Startpunkte fuer das Feuer hinzuzufuegen.
 ## WIE FUNKTIONIERT ES?
@@ -523,7 +482,7 @@ Mit der Schaltflaeche Setup wird ein Zufallsforst mit der angegebenen Dichte ers
 Der Benutzer kann manuell an verschiedenen Stellen Braende ausloesen, indem er auf die Schaltflaeche "Waldbrand-Startpunkte" drueckt und dann an der gewuenschten Stelle auf die Maustaste klickt. Alternativ kann der Benutzer das Feuer auch an einer durchgehenden vertikalen Linie auf der linken Seite der Umgebung entzuenden, indem er auf die Schaltflaeche "Waldrandlinie starten"  klickt. Mit der Schaltflaeche "Wald zeichnen" kann ein zusaetzlicher Wald gezeichnet werden, und mit der Schaltflaeche "Feuerschneise zeichnen" koennen Feuerschneisen gezeichnet werden.
 
 Falls der es windstill ist breitet sich das Feuer in vier Richtungen (N, S, E und W) von den anfaenglichen Entzuendungspunkten auf die benachbarten Baeume aus. Die Ausbreitung des Feuers haengt von der Dichte des umgebenden Waldes ab.
-Sobald ein Feuer-Agent seine(n) naechsten Baum-Nachbarn entzuendet hat (falls es welche gibt), verwandelt es sich in einen "Glut", dessen Farbe langsam von rot zu schwarz verblasst (abhaengig von dem Wert des Schieberegler fuer das Intensitaet des Feuers. Im Anschluss verloescht das Feuer.
+Sobald ein Feuer-Agent seine(n) naechsten Baum-Nachbarn entzuendet hat (falls es welche gibt), verwandelt es sich in einen "Glut", dessen Farbe langsam von rot zu schwarz verblasst (abhaengig von dem Wert des Schieberegler fuer das Intensitaet des Feuers). Im Anschluss verloescht das Feuer.
 ## WIE BENUTZEN SIE ES?
 * Druecken Sie zunaechst die Setup-Button. Dadurch wird ein Wald mit zufaellig verteilten Baeumen erstellt, deren Dichte mit dem Schieberegler festgelegt wird.
 * Um ein Feuer an einem bestimmten Punkt zu entfachen, druecken Sie die Schaltflaeche Wald entzuenden und klicken Sie mit der Maustaste auf die gewuenschte Stelle.
@@ -536,8 +495,8 @@ Die Schaltflaechen der Schnittstelle sind wie folgt definiert:
 **Setup:** Damit wird die Simulation vollstaendig zurueckgesetzt und ein Zufallswald erstellt.
 **Go**: Damit wird die Simulation gestartet. Wenn in der Umgebung Brandherde platziert wurden, breitet sich das Feuer auf benachbarte Baeume aus.
 **Wald zeichnen**: Damit werden weitere Baeume an den Stellen gezeichnet, an denen die Maus anschliessnd angeklickt wird.
-**Wald wiederherstellen**: Dies stellt den Zustand des Waldes wieder her, wie er vor dem Abbrennen der Bäaeme war.
-**Waldbrand-Startpunkte**: Damit wird an der Stelle, an der mit der Maus geklickt wird, ein Zuendpunkt gesetzt, von dem aus das Feuer zu brennen beginnt. Wenn Sie die Maus gedruekt halten, werden mehrere sich ueberlappende Zuendpunkte gezeichnet. Das Feuer breitet sich dann aus, sobald die "**Go**"-Taste gedruekt wird.
+**Wald wiederherstellen**: Dies stellt den Zustand des Waldes wieder her, wie er vor dem Abbrennen der Baeme war.
+**Waldbrand-Startpunkte**: Damit wird an der Stelle, an der mit der Maus geklickt wird, ein Zuedpunkt gesetzt, von dem aus das Feuer zu brennen beginnt. Wenn Sie die Maus gedruekt halten, werden mehrere sich ueerlappende Zuedpunkte gezeichnet. Das Feuer breitet sich dann aus, sobald die "**Go**"-Taste gedruekt wird.
 **Waldbrandlinie starten**: Eine vertikale Linie des Feuers wird von der linken Seite der Umgebung aus entzuedet.
 **Feuerschneise zeichnen**: Damit wird eine dunkelbraune Feuerschneise an der Stelle gezeichnet, an der die Maus geklickt wird. Um die Feuerschneise weiter zu zeichnen, halten sie den Maus-Button gedruekt, wäaerend Sie sie gleichzeitig in die gewueschte Richtung ziehen.
 **Feuerschneisen entfernen**: Damit werden alle Feuerschneisen, die in der Umgebung gezeichnet wurden, entfernt.
@@ -552,15 +511,13 @@ Der Monitor und die Schieberegler sind wie folgt definiert:
 **Wind-Boeigkeit**: Festlegen der zufäaeligen Abweichungvon der Hauptwindrichtung in Grad
 
 
-
 ## QUELLEN
 Breadth First Search in den Modellen Searching Mazes, Missionaries and Cannibals und Searching von Kevin Bacon.
 Urspruegliches Fire-Modell und fue die NetLogo-Software anzugeben: - Wilensky, U. (1997). NetLogo Fire-Modell. http://ccl.northwestern.edu/netlogo/models/Fire. Center for Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, IL. - Wilensky, U. (1999). NetLogo. http://ccl.northwestern.edu/netlogo/. Zentrum fue vernetztes Lernen und computergestueztes Modellieren, Northwestern University, Evanston, IL.
 In anderen Publikationen bitte verwenden: - Copyright 1997 Uri Wilensky. Alle Rechte vorbehalten. Siehe http://ccl.northwestern.edu/netlogo/models/Fire fue die Nutzungsbestimmungen.
 Erweiterung des Modells wurde von Bill Teahan geschrieben. Um auf dieses Modell in Publikationen zu verweisen, verwenden Sie bitte:
 Firebreak NetLogo-Modell. Teahan, W. J. (2010). Kuestliche Intelligenz. Ventus Publishing Aps
-
-Implementierung des Windes, geringfuegige Anpassungen und Erweiterungen sowie Uebersetzung Rieke Ammoneit, Carina Peter und Chris Reudenbach für den Kurs Medienkompetenz in der Geographie (2021)
+Implementierung des Windes und geringfueige Anpassungen sowie ueersetzung Rieke Ammoneit, Carina Peter und Chris Reudenbach Medienkompetenz in der Geographie (2021)
 
 ##  COPYRIGHT-HINWEIS
 Urheberrecht 1997 Uri Wilensky. Alle Rechte vorbehalten.
@@ -850,9 +807,8 @@ false
 0
 Polygon -7500403 true true 270 75 225 30 30 225 75 270
 Polygon -7500403 true true 30 75 75 30 270 225 225 270
-
 @#$#@#$#@
-NetLogo 5.3.1
+NetLogo 6.2.0
 @#$#@#$#@
 set density 60.0
 setup
@@ -899,7 +855,6 @@ true
 0
 Line -7500403 true 150 150 90 180
 Line -7500403 true 150 150 210 180
-
 @#$#@#$#@
 0
 @#$#@#$#@
