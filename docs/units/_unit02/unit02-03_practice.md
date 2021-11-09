@@ -29,7 +29,7 @@ Alternativ können Sie auch mit der  nachfolgend eingebetteten Online-Version ar
   
 {% include media3 url="assets/misc/Fire.html" %}
 
-### A02-1 Lesen und exzerpieren des Textes
+## A02-1 Lesen und exzerpieren des Textes
 
 In dem Artikel werden Sie mit den wichtigsten Konzepten zur anwendungsorientierten Simulation von Flächenbränden vertraut gemacht. Da der Artikel als sogenannter "Review" Artikel den Stand der Forschung zusammenstellt, ist er durchaus anspruchsvoll und bietet ihnen in kompakter Weise den Wissenstand zu diesem Thema. Wir erwarten natürlich nicht, dass Sie sich nun zu Flächenbrand-Expert:innen ausbilden. Wichtig ist jedoch, dass Sie vertraut werden mit Verfügbarkeit und Einschätzung von evidenzbasierten wissenschaftlichen Methoden. Insbesondere bietet Ihnen der Artikel eine wertvollen Überblick darüber was zu bedenken ist, wenn sie sich dem System Flächenbrand in Raum und Zeit annähern. 
 
@@ -47,7 +47,7 @@ In dem Artikel werden Sie mit den wichtigsten Konzepten zur anwendungsorientiert
 
 Umfang 1 Seite in ihrem PDF-Dokument
 
-### A02-2 Modellbeschreibung Netlogo lesen und exzerpieren
+## A02-2 Modellbeschreibung Netlogo lesen und exzerpieren
 Lesen Sie nun den Info Textes des NetLogo-Modells. Welche Elemente der im zuvor beschriebenen Artikel finden sie wieder und welche Elemente scheinen zu fehlen?
 
 Tragen Sie in die Tabelle aus A02-1 ein (x= ja, leer = nein), welche Elemente im NetLogo Modell abgebildet werden (Spaltenüberschrift "NetLogo vorhanden"). 
@@ -55,7 +55,7 @@ Tragen Sie in die Tabelle aus A02-1 ein (x= ja, leer = nein), welche Elemente im
 
 Umfang **keine eigene Seite**, die Ergebnisse werden in der Tabelle aus A02-1 eingetragen.
 
-### A02-3 Experimentieren Sie mit dem Modell 
+## A02-3 Experimentieren Sie mit dem Modell 
 
 Untersuchen Sie, wie das Verhältnis des verbrannten Waldes mit den verschiedenen Dichteeinstellungen zusammenhängt. 
 Gibt es einen Dichte-Schwellenwert damit fast der gesamte Wald verbrennt?

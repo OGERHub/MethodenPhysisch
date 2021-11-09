@@ -17,11 +17,11 @@ for Your Home and Property](https://cals.arizona.edu/extension/ornamentalhort/la
 * Die NetLogo Software [NetLogo](https://ccl.northwestern.edu/netlogo/6.2.0/)
 * Das Modell [Fire2]({{ site.baseurl }}/assets/misc/Fire2.nlogo)
 
-Alternativ können Sie das online Modell "Fire2" nutzen.
+Alternativ können Sie das online Modell *Fire2* nutzen.
 
 {% include media3 url="assets/misc/Fire2.html" %}
 
-### P02-01 Simulationsbasierte Empfehlung für einen zonierten Feuerschutz
+## P02-01 Simulationsbasierte Empfehlung für einen zonierten Feuerschutz
 
 In den Hinweisen [Creating Wildfire-Defensible Spaces
 for Your Home and Property](https://cals.arizona.edu/extension/ornamentalhort/landscapemgmt/general/wildfire_defense.pdf) hat die University of Arizona einen Anwendungsleitfaden zum Feuerschutz von bewaldetem Privateigentum auf der Grundlage einer Zonierungsstrategie erstellt. Es werden drei Zonen um brandgefährdes Eigentum identifiziert, deren Einrichtung einen effektiven  Feuerschutz sicherstellen sollen (Abbildung 1). 
