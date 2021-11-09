@@ -12,18 +12,18 @@ In Aufgabe 02 beschäftigen Sie sich mit der Modellierung (also der zielführend
 
 ## Benötigte Materialien für die Aufgaben
 * Papier und Stifte
-* [NetLogo]((https://ccl.northwestern.edu/netlogo/6.2.0/)
-* [Applications of simulation-based burn probability](https://www.publish.csiro.au/wf/Fulltext/WF19069)
+* Die NetLogo Software [NetLogo](https://ccl.northwestern.edu/netlogo/6.2.0/)
+* Den Artikel [Applications of simulation-based burn probability](https://www.publish.csiro.au/wf/Fulltext/WF19069)
+* Das Modell [Fire]({{ site.baseurl }}/assets/misc/Fire.nlogo)
 
 Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen).
 {: .notice--danger}
 
 
 
-
 ### Die NetLogo Modellierungssoftware
 Sie benötigen die Modellierungs-Software `NetLogo`. Falls `NetLogo` auf Ihrem Rechner nicht installiert ist (was sehr wahrscheinlich der Fall ist), können Sie die aktuelle Version der freien Software für ihr Betriebssystem von der [Download-Seite](https://ccl.northwestern.edu/netlogo/6.2.0/) herunterladen und installieren. 
-Das Modell [Fire](({{ site.baseurl }}/assets/misc/Fire.nlogo)) das wir verwenden müssen Sie seperat herunterladen und mit Netlogo öffnen.
+Das Modell [Fire]({{ site.baseurl }}/assets/misc/Fire.nlogo) das wir verwenden müssen Sie seperat herunterladen und mit Netlogo öffnen.
 
 Alternativ können Sie auch mit der  nachfolgend eingebetteten Online-Version arbeiten. 
   
