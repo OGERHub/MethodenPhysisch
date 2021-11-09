@@ -517,13 +517,13 @@ mal-farbe
 @#$#@#$#@
 
 ## WAS IST DAS?
-Dieses Modell ist eine Erweiterung des von Uri Wilensky entwickelten Feuermodells, das in NetLogos Modellbibliothek enthalten ist. Es simuliert die Ausbreitung eines Feuers in einem Wald definierter Dichte. Zusaetzlich ermoeglicht es die Nutzerschnittstelle dem Benutzer, Feuerschneisen, zusaetzliche aeume und Startpunkte fuer das Feuer hinzuzufuegen.
+Dieses Modell ist eine Erweiterung des von Uri Wilensky entwickelten Feuermodells, das in NetLogos Modellbibliothek enthalten ist. Es simuliert die Ausbreitung eines Feuers in einem Wald definierter Dichte. Zusaetzlich ermoeglicht es die Nutzerschnittstelle dem Benutzer, Feuerschneisen, zusaetzliche Baeume und Startpunkte fuer das Feuer hinzuzufuegen.
 ## WIE FUNKTIONIERT ES?
 Mit der Schaltflaeche Setup wird ein Zufallsforst mit der angegebenen Dichte erstellt.
 Der Benutzer kann manuell an verschiedenen Stellen Braende ausloesen, indem er auf die Schaltflaeche "Waldbrand-Startpunkte" drueckt und dann an der gewuenschten Stelle auf die Maustaste klickt. Alternativ kann der Benutzer das Feuer auch an einer durchgehenden vertikalen Linie auf der linken Seite der Umgebung entzuenden, indem er auf die Schaltflaeche "Waldrandlinie starten"  klickt. Mit der Schaltflaeche "Wald zeichnen" kann ein zusaetzlicher Wald gezeichnet werden, und mit der Schaltflaeche "Feuerschneise zeichnen" koennen Feuerschneisen gezeichnet werden.
 
 Falls der es windstill ist breitet sich das Feuer in vier Richtungen (N, S, E und W) von den anfaenglichen Entzuendungspunkten auf die benachbarten Baeume aus. Die Ausbreitung des Feuers haengt von der Dichte des umgebenden Waldes ab.
-Sobald ein Feuer-Agent seine(n) naechsten Baum-Nachbarn entzuendet hat (falls es welche gibt), verwandelt es sich in einen "Glut", dessen Farbe langsam von rot zu schwarz verblasst (ahaengigvon dem Wert des Schieberegler fuer das Intensitaet des Feuers. Im Anschluss verloescht es.
+Sobald ein Feuer-Agent seine(n) naechsten Baum-Nachbarn entzuendet hat (falls es welche gibt), verwandelt es sich in einen "Glut", dessen Farbe langsam von rot zu schwarz verblasst (abhaengig von dem Wert des Schieberegler fuer das Intensitaet des Feuers. Im Anschluss verloescht das Feuer.
 ## WIE BENUTZEN SIE ES?
 * Druecken Sie zunaechst die Setup-Button. Dadurch wird ein Wald mit zufaellig verteilten Baeumen erstellt, deren Dichte mit dem Schieberegler festgelegt wird.
 * Um ein Feuer an einem bestimmten Punkt zu entfachen, druecken Sie die Schaltflaeche Wald entzuenden und klicken Sie mit der Maustaste auf die gewuenschte Stelle.
@@ -537,43 +537,37 @@ Die Schaltflaechen der Schnittstelle sind wie folgt definiert:
 **Go**: Damit wird die Simulation gestartet. Wenn in der Umgebung Brandherde platziert wurden, breitet sich das Feuer auf benachbarte Baeume aus.
 **Wald zeichnen**: Damit werden weitere Baeume an den Stellen gezeichnet, an denen die Maus anschliessnd angeklickt wird.
 **Wald wiederherstellen**: Dies stellt den Zustand des Waldes wieder her, wie er vor dem Abbrennen der Bäaeme war.
-**Waldbrand-Startpunkte**: Damit wird an der Stelle, an der mit der Maus geklickt wird, ein Züuedpunkt gesetzt, von dem aus das Feuer zu brennen beginnt. Wenn Sie die Maus gedrüuekt halten, werden mehrere sich üueerlappende Züuedpunkte gezeichnet. Das Feuer breitet sich dann aus, sobald die "**Go**"-Taste gedrüuekt wird.
-**Waldbrandlinie starten**: Eine vertikale Linie des Feuers wird von der linken Seite der Umgebung aus entzüuedet.
-**Feuerschneise zeichnen**: Damit wird eine dunkelbraune Feuerschneise an der Stelle gezeichnet, an der die Maus geklickt wird. Um die Feuerschneise weiter zu zeichnen, halten sie den Maus-Button gedrüuekt, wäaerend Sie sie gleichzeitig in die gewüueschte Richtung ziehen.
+**Waldbrand-Startpunkte**: Damit wird an der Stelle, an der mit der Maus geklickt wird, ein Zuendpunkt gesetzt, von dem aus das Feuer zu brennen beginnt. Wenn Sie die Maus gedruekt halten, werden mehrere sich ueberlappende Zuendpunkte gezeichnet. Das Feuer breitet sich dann aus, sobald die "**Go**"-Taste gedruekt wird.
+**Waldbrandlinie starten**: Eine vertikale Linie des Feuers wird von der linken Seite der Umgebung aus entzuedet.
+**Feuerschneise zeichnen**: Damit wird eine dunkelbraune Feuerschneise an der Stelle gezeichnet, an der die Maus geklickt wird. Um die Feuerschneise weiter zu zeichnen, halten sie den Maus-Button gedruekt, wäaerend Sie sie gleichzeitig in die gewueschte Richtung ziehen.
 **Feuerschneisen entfernen**: Damit werden alle Feuerschneisen, die in der Umgebung gezeichnet wurden, entfernt.
 Der Monitor und die Schieberegler sind wie folgt definiert:
 **Prozent verbrannt**: Dies ist der Prozentsatz der Bäaeme, die verbrannt sind.
-**Wald-Dichte**: Dies ist die Dichte des zufäaelig generierten Waldes, wenn die Setup-Taste gedrüuekt wird.
+**Wald-Dichte**: Dies ist die Dichte des zufäaelig generierten Waldes, wenn die Setup-Taste gedruekt wird.
 **Feuerschneisen Breite**: Hier wird die Breite der Feuerschneisen eingestellt.
-**Feuer-zu-Glut**: Hier wird in Prozent festgelegt, wie lange ein Baum brennt, nachdem er angezüuedet wurde und das Feuer bereits auf seine Nachbarbäaeme üueergegriffen hat.
-**Wind?**: Schalter füue das einschalten von Wind
+**Feuer-zu-Glut**: Hier wird in Prozent festgelegt, wie lange ein Baum brennt, nachdem er angezuedet wurde und das Feuer bereits auf seine Nachbarbäaeme ueergegriffen hat.
+**Wind?**: Schalter fue das einschalten von Wind
 **Windrichtung**: Festlegen der Hauptwindrichtung in Grad
 **Windgeschwindigkeit**: Festlegen der Windgeschwindigkeit
 **Wind-Boeigkeit**: Festlegen der zufäaeligen Abweichungvon der Hauptwindrichtung in Grad
-
-## WAS SIE BEACHTEN SOLLTEN
-Beachten Sie, wie viel des Waldes bei verschiedenen Dichteeinstellungen brennt. Welcher Schwellenwert muss bei der Dichteeinstellung erreicht werden, damit fast der gesamte Wald verbrennt?
-Beobachten Sie, was passiert, wenn der nicht verbrannte Wald verwendet wird, um den Wald in den Zustand zurüuekzusetzen, in dem er sich befand, als die Schaltfläaehe "Einrichten" gedrüuekt wurde, und dann die Schaltfläaehe "Los" erneut gedrüuekt wird. Sind die gleichen Teile des Waldes verbrannt? Wenn ja, warum?
-Beachten Sie, dass sich die Schildkröoeen nicht bewegen. (Wie kannst du üueerprüueen, ob das stimmt?) Aber das Feuer scheint sich trotzdem zu bewegen. Wie kommt das?
-Beachten Sie, welche Anordnung von Brandschneisen das Feuer am besten einzudäaemen scheint.
-Beachten Sie, welche Teile des importierten Satellitenbildes mit Bäaemen verwechselt werden. Wie köoente der is-tree? Reporter verbessert werden, um eine bessere Kategorisierung des Bildes vorzunehmen?
 
 
 
 ## QUELLEN
 Breadth First Search in den Modellen Searching Mazes, Missionaries and Cannibals und Searching von Kevin Bacon.
-Ursprüuegliches Fire-Modell und füue die NetLogo-Software anzugeben: - Wilensky, U. (1997). NetLogo Fire-Modell. http://ccl.northwestern.edu/netlogo/models/Fire. Center for Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, IL. - Wilensky, U. (1999). NetLogo. http://ccl.northwestern.edu/netlogo/. Zentrum füue vernetztes Lernen und computergestüueztes Modellieren, Northwestern University, Evanston, IL.
-In anderen Publikationen bitte verwenden: - Copyright 1997 Uri Wilensky. Alle Rechte vorbehalten. Siehe http://ccl.northwestern.edu/netlogo/models/Fire füue die Nutzungsbestimmungen.
+Urspruegliches Fire-Modell und fue die NetLogo-Software anzugeben: - Wilensky, U. (1997). NetLogo Fire-Modell. http://ccl.northwestern.edu/netlogo/models/Fire. Center for Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, IL. - Wilensky, U. (1999). NetLogo. http://ccl.northwestern.edu/netlogo/. Zentrum fue vernetztes Lernen und computergestueztes Modellieren, Northwestern University, Evanston, IL.
+In anderen Publikationen bitte verwenden: - Copyright 1997 Uri Wilensky. Alle Rechte vorbehalten. Siehe http://ccl.northwestern.edu/netlogo/models/Fire fue die Nutzungsbestimmungen.
 Erweiterung des Modells wurde von Bill Teahan geschrieben. Um auf dieses Modell in Publikationen zu verweisen, verwenden Sie bitte:
-Firebreak NetLogo-Modell. Teahan, W. J. (2010). Küuestliche Intelligenz. Ventus Publishing Aps
-Implementierung des Windes und geringfüueige Anpassungen sowie Üueersetzung Rieke Ammoneit, Carina Peter und Chris Reudenbach Medienkompetenz in der Geographie (2021)
+Firebreak NetLogo-Modell. Teahan, W. J. (2010). Kuestliche Intelligenz. Ventus Publishing Aps
+
+Implementierung des Windes, geringfuegige Anpassungen und Erweiterungen sowie Uebersetzung Rieke Ammoneit, Carina Peter und Chris Reudenbach für den Kurs Medienkompetenz in der Geographie (2021)
 
 ##  COPYRIGHT-HINWEIS
 Urheberrecht 1997 Uri Wilensky. Alle Rechte vorbehalten.
-Die Erlaubnis, dieses Modell zu verwenden, zu modifizieren oder weiterzugeben, wird hiermit erteilt, vorausgesetzt, dass die beiden folgenden Bedingungen befolgt werden: a) dieser Copyright-Hinweis ist enthalten. b) dieses Modell wird nicht ohne Erlaubnis von Uri Wilensky zu Gewinnzwecken weitergegeben. Wenden Sie sich an Uri Wilensky, um geeignete Lizenzen füue die Weiterverbreitung zu Erwerbszwecken zu erhalten.
-Dieses Modell wurde im Rahmen des Projekts erstellt: CONNECTED MATHEMATICS: MAKING SENSE OF COMPLEX PHENOMENA THROUGH BUILDING OBJECT-BASED PARALLEL MODELS (OBPML). Das Projekt bedankt sich füue die Unterstüuezung durch die National Science Foundation (Applications of Advanced Technologies Program) - Zuschussnummern RED #9552950 und REC #9632612.
+Die Erlaubnis, dieses Modell zu verwenden, zu modifizieren oder weiterzugeben, wird hiermit erteilt, vorausgesetzt, dass die beiden folgenden Bedingungen befolgt werden: a) dieser Copyright-Hinweis ist enthalten. b) dieses Modell wird nicht ohne Erlaubnis von Uri Wilensky zu Gewinnzwecken weitergegeben. Wenden Sie sich an Uri Wilensky, um geeignete Lizenzen fue die Weiterverbreitung zu Erwerbszwecken zu erhalten.
+Dieses Modell wurde im Rahmen des Projekts erstellt: CONNECTED MATHEMATICS: MAKING SENSE OF COMPLEX PHENOMENA THROUGH BUILDING OBJECT-BASED PARALLEL MODELS (OBPML). Das Projekt bedankt sich fue die Unterstuezung durch die National Science Foundation (Applications of Advanced Technologies Program) - Zuschussnummern RED #9552950 und REC #9632612.
 Dieses Modell wurde am MIT Media Lab mit CM StarLogo entwickelt. Siehe Resnick, M. (1994) "Turtles, Termites and Traffic Jams: Explorations in Massively Parallel Microworlds". Cambridge, MA: MIT Press. Angepasst an StarLogoT, 1997, als Teil des Connected Mathematics Project.
-Dieses Modell wurde im Rahmen des Projekts in NetLogo umgewandelt: PARTIZIPATIVE SIMULATIONEN: NETWORK-BASED DESIGN FOR SYSTEMS LEARNING IN CLAssROOMS und/oder INTEGRATED SIMULATION AND MODELING ENVIRONMENT. Das Projekt dankt der National Science Foundation (REPP- und ROLE-Programme) füue ihre Unterstüuezung - Föoederungsnummern REC #9814682 und REC-0126227. Konvertiert von StarLogoT zu NetLogo, 2001.
+Dieses Modell wurde im Rahmen des Projekts in NetLogo umgewandelt: PARTIZIPATIVE SIMULATIONEN: NETWORK-BASED DESIGN FOR SYSTEMS LEARNING IN CLAssROOMS und/oder INTEGRATED SIMULATION AND MODELING ENVIRONMENT. Das Projekt dankt der National Science Foundation (REPP- und ROLE-Programme) fue ihre Unterstuezung - Föoederungsnummern REC #9814682 und REC-0126227. Konvertiert von StarLogoT zu NetLogo, 2001.
 @#$#@#$#@
 default
 true
