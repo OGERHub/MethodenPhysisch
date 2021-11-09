@@ -6,76 +6,67 @@ header:
   image_description: "Blick ins Lahntal mit Grünlandwirtschaft, Baustelle für Stromtrassen und Regenbogen."
   caption: "Foto: T. Nauss / CC0"
 
-panel1:  
-  - url: https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/
-    image_path: https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/jpe12747-fig-0001-m.jpg
-    title: "[Dainese et al.(2016)](https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/jpe12747-fig-0001-m.jpg), High cover of hedgerows in the landscape supports multiple ecosystem services in Mediterranean cereal fields"
-    alt: "High cover of hedgerows in the landscape supports multiple ecosystem services in Mediterranean cereal fields"
-
-
-panel2:  
-  - url: https://w.wiki/QuL
-    image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Frankfurt%28Oder%29_Oderaue_bei_Lebus_-_panoramio.jpg/1280px-Frankfurt%28Oder%29_Oderaue_bei_Lebus_-_panoramio.jpg
-    title: "Frankfurt(Oder) Oderaue bei Lebus [Gottfried Hoffmann](https://w.wiki/QuL) / CC-BY via commons.wikimedia.org"
-    alt: "Frankfurt(Oder) Oderaue bei Lebus"
-  - url: https://w.wiki/QuN  
-    image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/18-06-06-Fotoflug-Uckermark_RRK3924.jpg/1280px-18-06-06-Fotoflug-Uckermark_RRK3924.jpg  
-    alt: "8-06-06-Fotoflug-Uckermark RRK3924"
-    title: "8-06-06-Fotoflug-Uckermark RRK3924 [Ralf Roletschek](https://w.wiki/QuN) / GFDL 1.2  via commons.wikimedia.org"
-  - url: https://w.wiki/QuP    
-    image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/AlandFloodplain.jpg/1280px-AlandFloodplain.jpg
-    alt: "Naturnaher Abschnitt des Aland"
-    title: "Naturnaher Abschnitt des Aland [Christian Fischer](https://w.wiki/QuP) / CC BY-SA via commons.wikimedia.org"
-
-panel3:
-  - url: https://w.wiki/QvZ
-    image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Goettingen_Levinscher_Park_Spielplatz.jpg/1280px-Goettingen_Levinscher_Park_Spielplatz.jpg
-    title: "Goettingen Levinscher Park Spielplatz, [Simon-Martin](https://w.wiki/Qtm) / CC BY-SA via commons.wikimedia.org"
-    alt: "Goettingen Levinscher Park Spielplatz.jpg"
-  - url: https://w.wiki/Qtk
-    image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carlebach_Park_HSST.jpg/320px-Carlebach_Park_HSST.jpg  
-    alt: "Carlebach Park"
-    title: "Carlebach Park, [Penguin2008](https://w.wiki/Qtk) / CC BY-SA via commons.wikimedia.org"
-  - url: https://w.wiki/Qtm
-    image_path: https://upload.wikimedia.org/wikipedia/commons/9/94/Wohnbebauung_K%C3%BCppersbuschgel%C3%A4nde_IBA_Emscher_Park%2C_Gelsenkirchen%2C_Szyszkowitz-Kowalski.jpg
-    alt: "Wohnbebauung Küppersbuschgelände IBA Emscher Park"
-    title: "Wohnbebauung Küppersbuschgelände IBA Emscher Park, [Ffruehstueck](https://w.wiki/Qtm) / CC BY-SA via commons.wikimedia.org"
-
-panel4:  
-  - url: https://w.wiki/Qvs
-    image_path: https://upload.wikimedia.org/wikipedia/commons/2/2c/Sanspareil_Luftbild_West.jpg
-    title: "Felsengarten Sanspareil, Westansicht mit Burg Zwernitz - Fränkische Schweiz, Bayern, [Presse03](https://w.wiki/Qvs) / CC BY-SA via commons.wikimedia.org"
-    alt: "Felsengarten Sanspareil, Westansicht mit Burg Zwernitz - Fränkische Schweiz, Bayern"
-
 ---
 
-In Aufgabe 02 trainieren Sie die Modellierung von Raumeigenschaften. Sie üben die erforderliche Abstraktionsleistung zunächst an vorgegebenen Bildern und Skizzen. Anschließend modellieren Sie selbst einen Raum und nutzen dabei qualitative Methoden. Zum Abschluss stellen Sie den Raum in einer kartenähnlichen Skizze dar.
+In Aufgabe 02 beschäftigen Sie sich mit der Modellierung (also der zielführenden Abstraktion) von Raumeigenschaften. Sie üben die erforderliche Abstraktionsleistung zunächst indem Sie einen einfachen Modellsimulator nutzen und sich mit ihm vertraut machen. Anschließend führen Sie selbst Experimente durch und stellen zum Abschluss ihre Ergebnisse in einer kartenähnlichen Skizze dar.
 
 ## Benötigte Materialien für die Aufgaben
 * Papier und Stifte
-* NetLogo
-* diesen [Artikel](https://www.tandfonline.com/doi/full/10.1080/21580103.2016.1144541)
+* [NetLogo]((https://ccl.northwestern.edu/netlogo/6.2.0/)
+* [Applications of simulation-based burn probability](https://www.publish.csiro.au/wf/Fulltext/WF19069)
 
 Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen).
 {: .notice--danger}
 
 
+
+
 ### Die NetLogo Modellierungssoftware
-Wir benötigen die Software NetLogo. Falls NetLogo auf Ihren Rechnern nicht installiert ist, können Sie die freie Software in einer passenden Version für euer Betriebssystem auf der [Download-Seite](https://ccl.northwestern.edu/netlogo/6.2.0/) herunterladen und installieren. 
+Sie benötigen die Modellierungs-Software `NetLogo`. Falls `NetLogo` auf Ihrem Rechner nicht installiert ist (was sehr wahrscheinlich der Fall ist), können Sie die aktuelle Version der freien Software für ihr Betriebssystem von der [Download-Seite](https://ccl.northwestern.edu/netlogo/6.2.0/) herunterladen und installieren. 
 
+Alternativ können Sie auch mit der  nachfolgend eingebetteten Online-Version arbeiten. 
+  
+{% include media3 url="assets/misc/Fire.html" %}
 
-Haben Sie keine Lust auf eine Installation oder sollte es beim Download Probleme geben können Sie auch mit der der hier unten eingebetten Online-Variante arbeiten. 
+### A02-1 Lesen und exzerpieren des Textes
 
-{% include media url="assets/misc/Fire.html" %}
+In dem Artikel werden Sie mit den wichtigsten Konzepten zur anwendungsorientierten Simulation von Flächenbränden vertraut gemacht. Da der Artikel als sogenannter "Review" Artikel den Stand der Forschung zusammenstellt, ist er durchaus anspruchsvoll und bietet ihnen in kompakter Weise den Wissenstand zu diesem Thema. Wir erwarten natürlich nicht, dass Sie sich nun zu Flächenbrand-Expert:innen ausbilden. Wichtig ist jedoch, dass Sie vertraut werden mit Verfügbarkeit und Einschätzung von evidenzbasierten wissenschaftlichen Methoden. Insbesondere bietet Ihnen der Artikel eine wertvollen Überblick darüber was zu bedenken ist, wenn sie sich dem System Flächenbrand in Raum und Zeit annähern. 
 
-### A02-1
-Artikel lesen und Vorgehen strukturieren
+{% capture Assignment-2-1 %}
+1. Legen Sie zunächst eine Tabelle mit vier Spalten an, diese Spalten werden Sie in dieser und der nächsten Aufgabe füllen.
+1. Bitte identifizieren Sie die zentralen Elemente, die für die Entstehung und den Verlauf von Flächenbränden von elementarer Bedeutung sind. Tragen Sie diese Elemente in die erste Spalte Ihrer Tabelle ein (Spaltenüberschrift "Elemente").
+1. Identifizieren Sie die Prozesse, die auf der räumlichen Skala von Bedeutung sind. Welchen Elemente sind in Prozesse zugeordnet? Tragen Sie die Prozesse (Stichwort) in Ihre Tabelle ein (Spaltenüberschrift "Prozesse").
+1. Sind diese Prozesse skalenabhägig? Verlaufen sie also in direkter Nachbarschaft anders als großräumig? Markieren Sie auch diese Einschätzung in der Tabelle (x= ja, leer = nein, Spaltenüberschrift "Skalenabhägigkeit").
 
-### A02-2
-was zum Raum und der Frage, wie er modelliert ist (Raster, Freifläche, Baum)
+{: .notice--info}
+{% endcapture %}
+<div class="notice--success">
+  {{ Assignment-2-1 | markdownify }}
+</div> 
 
-###A02-3
-Wie ist die Ausbreitung des Feuers modelliert
+Umfang 1 Seite in ihrem PDF-Dokument
 
+### A02-2 Modellbeschreibung Netlogo lesen und exzerpieren
+Lesen Sie nun den Info Textes des NetLogo-Modells. Welche Elemente der im zuvor beschriebenen Artikel finden sie wieder und welche Elemente scheinen zu fehlen?
+
+Tragen Sie in die Tabelle aus A02-1 ein (x= ja, leer = nein), welche Elemente im NetLogo Modell abgebildet werden (Spaltenüberschrift "NetLogo vorhanden"). 
+{: .notice--success}
+
+Umfang **keine eigene Seite**, die Ergebnisse werden in der Tabelle aus A02-1 eingetragen.
+
+### A02-3 Experimentieren Sie mit dem Modell 
+
+Untersuchen Sie, wie das Verhältnis des verbrannten Waldes mit den verschiedenen Dichteeinstellungen zusammenhängt. 
+Gibt es einen Dichte-Schwellenwert damit fast der gesamte Wald verbrennt?
+Untersuchen Sie, ob der Wald identisch abbrennt, wenn Sie den Wald in den Ausgangszustand zurückzusetzen. Verbrennen die gleichen Teile des Waldes? Falls ja, warum?
+Um einige Anwendungsaspekte zu verstehen versuchen Sie, Feuerschneisen anzulegen, während sich das Feuer ausbreitet, um seine weitere Ausbreitung zu verhindern. 
+Untersuchen Sie, ob eine unterschiedliche Anordnung von initialen Zündpunkten Auswirkungen auf den Abbrand haben.
+Untersuchen Sie die obigen Experimente mit unterschiedlichen Wind-Einstellungen. Gibt es Abweichungen?
+
+Fassen Sie ihre Ergebnisse in geeigneter Weise einer neuen Tabelle zusammen. Bewerten Sie im Kontext des zuvor gelesenen Artikels wie realitätsnah das NetLogo Modell ist. Welche Aspekte werden berücksichtigt
+? Welche Aspekte fehlen? (max 5 Sätze)
+{: .notice--success}
+
+Umfang 1 Seite in Ihrem PDF-Dokument
 
 
