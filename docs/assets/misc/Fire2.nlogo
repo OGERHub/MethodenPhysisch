@@ -620,7 +620,7 @@ Die Schaltflaechen der Schnittstelle sind wie folgt definiert:
 **Go**: Damit wird die Simulation gestartet. Wenn in der Umgebung Brandherde platziert wurden, breitet sich das Feuer auf benachbarte Baeume aus.
 **Wald zeichnen**: Damit werden weitere Baeume an den Stellen gezeichnet, an denen die Maus anschliessnd angeklickt wird.
 **Wald wiederherstellen**: Dies stellt den Zustand des Waldes wieder her, wie er vor dem Abbrennen der Bäaeme war.
-**Waldbrand-Startpunkte**: Damit wird an der Stelle, an der mit der Maus geklickt wird, ein Züuedpunkt gesetzt, von dem aus das Feuer zu brennen beginnt. Wenn Sie die Maus gedrüuekt halten, werden mehrere sich üueerlappende Züuedpunkte gezeichnet. Das Feuer breitet sich dann aus, sobald die "**Go**"-Taste gedrüuekt wird.
+**Waldbrand-Startpunkte**: Damit wird an der Stelle, an der mit der Maus geklickt wird, ein Zuendpunkt gesetzt, von dem aus das Feuer zu brennen beginnt. Wenn Sie die Maus gedrüuekt halten, werden mehrere sich üueerlappende Züuedpunkte gezeichnet. Das Feuer breitet sich dann aus, sobald die "**Go**"-Taste gedrüuekt wird.
 **Waldbrandlinie starten**: Eine vertikale Linie des Feuers wird von der linken Seite der Umgebung aus entzüuedet.
 **Feuerschneise zeichnen**: Damit wird eine dunkelbraune Feuerschneise an der Stelle gezeichnet, an der die Maus geklickt wird. Um die Feuerschneise weiter zu zeichnen, halten sie den Maus-Button gedrüuekt, wäaerend Sie sie gleichzeitig in die gewüueschte Richtung ziehen.
 **Feuerschneisen entfernen**: Damit werden alle Feuerschneisen, die in der Umgebung gezeichnet wurden, entfernt.
@@ -633,6 +633,15 @@ Der Monitor und die Schieberegler sind wie folgt definiert:
 **Windrichtung**: Festlegen der Hauptwindrichtung in Grad
 **Windgeschwindigkeit**: Festlegen der Windgeschwindigkeit
 **Wind-Boeigkeit**: Festlegen der zufäaeligen Abweichungvon der Hauptwindrichtung in Grad
+**Puffer-Zone-1** Festlegen der Tiefe der Puffer Zone 1
+**Puffer-Zone-2** Festlegen der Tiefe der Puffer Zone 2
+**Dichte-Zone-2** Festlegen der Wald-Dichte in Zone 2
+**Haus zeichnen** Zeichnet ein Haus an der angeklickten Stelle mit den zuvor definierten Zonen und Dichten. Achtung den Button danach wieder "lösen"
+
+Der Ablauf einer Simulation erfolgt von "oben" nach "unten". Mit Wald wiederherstellen kann das Ausgansszenario (mit Ausnahme der Feuer) wiederhergestellt werden.
+
+
+
 
 ## WAS SIE BEACHTEN SOLLTEN
 Beachten Sie, wie viel des Waldes bei verschiedenen Dichteeinstellungen brennt. Welcher Schwellenwert muss bei der Dichteeinstellung erreicht werden, damit fast der gesamte Wald verbrennt?
