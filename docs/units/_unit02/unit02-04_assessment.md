@@ -15,7 +15,7 @@ Aufbauen auf den Übungen dieser Einheit sollen Sie folgende Aufgaben bearbeiten
 * [Creating Wildfire-Defensible Spaces
 for Your Home and Property](https://cals.arizona.edu/extension/ornamentalhort/landscapemgmt/general/wildfire_defense.pdf)
 * [NetLogo](https://ccl.northwestern.edu/netlogo/6.2.0/)
-* [Fire2]()
+* [Fire2]({{ site.baseurl }}/assets/misc/Fire2.nlogo)
 
 Alternativ können Sie das online Modell "Fire2" nutzen.
 

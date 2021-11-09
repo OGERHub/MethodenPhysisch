@@ -23,6 +23,7 @@ Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github
 
 ### Die NetLogo Modellierungssoftware
 Sie benötigen die Modellierungs-Software `NetLogo`. Falls `NetLogo` auf Ihrem Rechner nicht installiert ist (was sehr wahrscheinlich der Fall ist), können Sie die aktuelle Version der freien Software für ihr Betriebssystem von der [Download-Seite](https://ccl.northwestern.edu/netlogo/6.2.0/) herunterladen und installieren. 
+Das Modell [Fire](({{ site.baseurl }}/assets/misc/Fire.nlogo)) das wir verwenden müssen Sie seperat herunterladen und mit Netlogo öffnen.
 
 Alternativ können Sie auch mit der  nachfolgend eingebetteten Online-Version arbeiten. 
   
