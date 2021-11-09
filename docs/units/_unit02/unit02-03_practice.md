@@ -13,7 +13,7 @@ In Aufgabe 02 beschäftigen Sie sich mit der Modellierung (also der zielführend
 ## Benötigte Materialien für die Aufgaben
 * Papier und Stifte
 * Die NetLogo Software [NetLogo](https://ccl.northwestern.edu/netlogo/6.2.0/)
-* Den Artikel [Applications of simulation-based burn probability](https://www.publish.csiro.au/wf/Fulltext/WF19069)
+* Der Artikel [Applications of simulation-based burn probability](https://www.publish.csiro.au/wf/Fulltext/WF19069)
 * Das Modell [Fire]({{ site.baseurl }}/assets/misc/Fire.nlogo)
 
 Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen).
@@ -29,9 +29,9 @@ Alternativ können Sie auch mit der  nachfolgend eingebetteten Online-Version ar
   
 {% include media3 url="assets/misc/Fire.html" %}
 
-## A02-1 Lesen und exzerpieren des Textes
+## A02-1 Lesen, exzerpieren des Artikels 
 
-In dem Artikel werden Sie mit den wichtigsten Konzepten zur anwendungsorientierten Simulation von Flächenbränden vertraut gemacht. Da der Artikel als sogenannter "Review" Artikel den Stand der Forschung zusammenstellt, ist er durchaus anspruchsvoll und bietet ihnen in kompakter Weise den Wissenstand zu diesem Thema. Wir erwarten natürlich nicht, dass Sie sich nun zu Flächenbrand-Expert:innen ausbilden. Wichtig ist jedoch, dass Sie vertraut werden mit Verfügbarkeit und Einschätzung von evidenzbasierten wissenschaftlichen Methoden. Insbesondere bietet Ihnen der Artikel eine wertvollen Überblick darüber was zu bedenken ist, wenn sie sich dem System Flächenbrand in Raum und Zeit annähern. 
+In dem Artikel [Applications of simulation-based burn probability](https://www.publish.csiro.au/wf/Fulltext/WF19069) werden Sie auf einer wissenschaftlichen Basis mit den wichtigsten Konzepten zur anwendungsorientierten Simulation von Flächenbränden vertraut gemacht. Da der Artikel als sogenannter "Review" Artikel den Stand der Forschung zusammenstellt, ist er durchaus anspruchsvoll und bietet ihnen in kompakter Weise den Wissenstand zu diesem Thema. Wir erwarten natürlich nicht, dass Sie sich nun zu Flächenbrand-Expert:innen ausbilden. Wichtig ist jedoch, dass Sie vertraut werden mit Verfügbarkeit und Einschätzung von evidenzbasierten wissenschaftlichen Methoden. Insbesondere bietet Ihnen der Artikel eine wertvollen Überblick darüber was zu bedenken ist, wenn sie sich dem System Flächenbrand in Raum und Zeit annähern. 
 
 {% capture Assignment-2-1 %}
 1. Legen Sie zunächst eine Tabelle mit vier Spalten an, diese Spalten werden Sie in dieser und der nächsten Aufgabe füllen.

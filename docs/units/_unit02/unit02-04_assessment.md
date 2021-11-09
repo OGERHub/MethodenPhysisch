@@ -12,7 +12,7 @@ Aufbauen auf den Übungen dieser Einheit sollen Sie folgende Aufgaben bearbeiten
 
 ## Benötigte Materialien für die Aufgaben
 * Papier und Stifte
-* Den Leitfaden [Creating Wildfire-Defensible Spaces
+* Der Leitfaden [Creating Wildfire-Defensible Spaces
 for Your Home and Property](https://cals.arizona.edu/extension/ornamentalhort/landscapemgmt/general/wildfire_defense.pdf)
 * Die NetLogo Software [NetLogo](https://ccl.northwestern.edu/netlogo/6.2.0/)
 * Das Modell [Fire2]({{ site.baseurl }}/assets/misc/Fire2.nlogo)
