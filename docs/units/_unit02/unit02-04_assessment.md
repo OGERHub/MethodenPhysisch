@@ -27,10 +27,17 @@ In den Hinweisen [Creating Wildfire-Defensible Spaces
 for Your Home and Property](https://cals.arizona.edu/extension/ornamentalhort/landscapemgmt/general/wildfire_defense.pdf) hat die University of Arizona einen Anwendungsleitfaden zum Feuerschutz von bewaldetem Privateigentum auf der Grundlage einer Zonierungsstrategie erstellt. Es werden drei Zonen um brandgefährdes Eigentum identifiziert, deren Einrichtung einen effektiven  Feuerschutz sicherstellen sollen (Abbildung 1). 
 
 {% capture Assignment-2-2 %}
-Sie haben nun die Aufgabe für ein County in Arizona diese Empfehlung mit Hilfe einer geeigneten Simulation auf der Grundlage der obigen Vorgaben zu überprüfen und konkret festzulegen wie dicht die Bäume eines Waldes in der Zone 3 sein dürfen. Zusätzlich soll untersucht werden, wie groß der Puffer der Zone 1 sein muss um evtl. auch höhere Dichten in Zone 3 zu ermöglichen.
+Sie haben nun die Aufgabe für ein County in Arizona diese Empfehlung mit Hilfe einer geeigneten Simulation auf der Grundlage der obigen Vorgaben zu überprüfen und konkret festzulegen wie dicht die Bäume eines Waldes in der Zone 3 sein dürfen. Da es der Verwaltung um einen möglichst geringen Eingriff in das Privateigentum geht sollen folgende Bedingungen in die Simulation berücksichtigt werden:
 
-Ziel soll es sein, dass das Feuer verlässlich in der Zone 3 gestoppt wird bei gleichzeitig maximaler (naturnaher) Baumdichte. Welche Baumdichte empfehlen Sie? 
+* Die Ausdehnung der Pufferzone 1  und 2 soll **minimal** sein
+* Die Walddichte in Pufferzone 2 und 3 soll **maximal** sein
+* Das Feuer soll auch unter veränderten meterologischen (Wind) und physikalischen Bedingungen (Branddauer)  **verlässlich** in der **Zone 2** gestoppt werden
+
+Welche Baumdichten und Zonenabstände empfehlen Sie? 
+
 Diskutieren Sie auf der Grundlage der von ihnen dokumentierten Simulationen  die Belastbarkeit Ihrer Empfehlungen. 
+
+Hinweis: Die Simulation soll nur mit einem Haus durchgeführt werden. 
 
 {: .notice--info}
 {% endcapture %}
