@@ -35,12 +35,11 @@ Berechnen Sie die Korrelation zwischen dem Zweitstimmenanteil der AfD, CDU/CSU, 
 Diskutieren Sie in max. 4 Sätzen die Aussage "Protestanten wählen häufiger AfD" vor dem Hintergrund der übrigen Ergebnisse.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
-
 {% endcapture %}
 
 <div class="notice--success">
   <h4 class="no_toc">Übung 04-2-2:</h4>
-  {{ 04-2-L2 | markdownify }}
+  {{ 04-2-2 | markdownify }}
 </div>
 
 
