@@ -25,9 +25,6 @@ mathjax: true
 </script>
 
 
-Die Formel zur Berechnung der Evapotranspiration nach Haude wurde korrigiert!
-{: .notice--danger}
-
 Walter-Lieth-Diagramme sind trotz einiger Einschränkungen (Schneeniederschlag, Abschätzung der Evapotranspiration etc.) aufgrund der einfachen Datenverfügbarkeit und der leicht erfassbaren Aussage ein in Schulbüchern und Atlanten weit verbreitetes Darstellungsformat für die hydroklimatologische Charakterisierung eines Ortes. Sie zeigen durch die spezifische Darstellung aggregierter Temperatur- und Niederschlagsdaten auf einfache Art typische Jahresmuster von Niederschlag und Temperatur. Im Rahmen dieses Arbeitsblatts sollen Sie solche Klimadaten aufbereiten und das hygrische Klima mittels eines [Walter-Lieth-Diagramms](https://de.wikipedia.org/wiki/Klimadiagramm) und  einer Verdunstungsabschätzung nach Haude vergleichen und bewerten.
 
 ## Übung 04-1-1: Walter-Lieth-Diagramm
