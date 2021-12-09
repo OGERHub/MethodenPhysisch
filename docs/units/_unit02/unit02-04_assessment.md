@@ -49,4 +49,4 @@ Hinweis: Die Simulation soll nur mit einem Haus durchgeführt werden.
 **Tipp**: Um eine systematische Untersuchung von wiederholten Simulationen durchführen zu können, stellt NetLogo das BehaviorSpace Werkzeug im Menu "Tools" zur Verfügung. Sie müssen hierzu NetLogo installiert haben und können nicht die Online Version nutzen. Sie finden unter [BehaviorSpace](https://ccl.northwestern.edu/netlogo/docs/behaviorspace.html) eine vollständige und unter [BehaviorSpace Tutorial](http://s3.amazonaws.com/complexityexplorer/IntroToComplexity/NetLogoDocuments/NetLogoBehaviorSpaceTutorial.pdf) ein einfaches und gut verständliches Tutorial.
 {: .notice--info}
 
-
+Umfang 1 Seite in Ihrem PDF-Dokument
