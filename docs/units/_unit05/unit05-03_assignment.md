@@ -27,8 +27,8 @@ die folgenden Leitfragen angesehen werden, die eine ergänzte Auswahl der bei Gr
 ## Benötigte Lernmaterialien
 * interner [Innenstadtplan des Tourismusbüros Marburgs (letzte Seite des Flyers)](https://ilias.uni-marburg.de/goto.php?target=file_2498384_download&client_id=UNIMR)
 * interne [Kartenzusammenstellungen Feuer](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui)
-* interne [Kartenzusammenstellungen Brasilien](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui)
 * [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis) oder als Volltext im [geschützten Material auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR)
+* [Jekel, Gryl und Oberrauch (2015)](https://www.gw-unterricht.at/images/pdf/gwu_137_05_13_jekel_gryl_oberrauch.pdf)
 
 
 **Hinweis:** Eine Auswahl von Leitfragen zur reflexive Kartenarbeit finden Sie im Artikel von [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis).
@@ -43,7 +43,7 @@ Sie interessieren sich für ein Lehramtsstudium in Marburg mit den Fächern Geog
 
 {% capture A05-1-L1 %}
 
-Beschreiben Sie bitte den Eindruck, den die Karte von Marburg vermittelt, in Stichworten. Analysieren Sie dann die Perspektive und die Interessen des Tourismusbüros mit drei Sätzen. Diskutieren Sie abschließend die Eignung der Karte für ihr fiktives Vorhaben in maximal fünf Sätzen.
+Beschreiben Sie bitte den Eindruck, den die Karte von Marburg vermittelt, in max. acht Stichworten. Analysieren Sie dann die Perspektive und die Interessen des Tourismusbüros mit drei Sätzen. Diskutieren Sie abschließend die Eignung der Karte für ihr fiktives Vorhaben in maximal drei Sätzen.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 
@@ -75,14 +75,16 @@ Umfang: 1 Seite in Ihrer PDF-Datei
 </div>
 
 
-## Aufgabe 05-1-L3: Brasilien
+## Aufgabe 05-1-L3: Spatial Citizenship und Geomedienkompetenz
 
-Auch in dieser Aufgabe steht die Dekonstruktion des Herstellungsprozesses einer Karte im Mittelpunkt. Diesmal geht es aber nicht nur um den Kartenausschnitt selbst, sondern um die Legende der Karte. Die folgende Karte von [Uhlenwinkel (2014)](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR) zeigt Regionen und Prozesse in Brasilien. Die Karte ist so zu verstehen, dass sie einmal ausschließlich mit der oberen, einmal ausschließlich mit der unteren Legende gedruckt wird.
+"Spatial Citizenship wurde als Konzept ursprünglich entwickelt, um die technisch orientierte Nutzung von Geomedien im Unterricht um den Alltags- und Laienbezug zu ergänzen bzw. diesen in das Zentrum zu stellen (Jekel, Gryl und Oberruach, 2015, 5). Die Grundkonzeption von Spatial citizenship basiert auf drei Dimensionen. Lesen Sie den Text [Jekel, Gryl und Oberrauch (2015)] aufmerksam.  
 
 {% capture A05-1-L3 %}
 
-Analysieren Sie bitte die Karte von [Uhlenwinkel (2014)](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR) und fokussieren Sie auf die unterschiedlichen Legenden. Fassen Sie Ihr Ergebnisse in maximal 4 Sätzen zusammen.
+Erstellen Sie eine Graphik, die das Konzept des Spatial Citizenship veranschaulicht. Jede Dimension sollte dabei mit einem konkreten Beispiel/Geomedium verdeutlicht werden.
+{% endcapture %}
 
+Gehen Sie anschließend auf das zweiten Kompetenzfeld - Reflexion und Reflexivität - ein. Wenden Sie diesen Kompetenzbereich auf die Karte der Marburger Innenstadt (s. Übung 05-1-L1) an. Gehen Sie dabei explizit auf das Finden fehlender Information ein und auf die Möglichkeit, die Darstellung der Daten anders bzw. besser darzustellen. 
 
 Umfang: 1 Seite in Ihrer PDF-Datei
 {% endcapture %}
