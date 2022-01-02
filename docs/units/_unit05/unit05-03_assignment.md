@@ -42,7 +42,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 </div>
 
 
-## Aufgabe 05-1-L2: Feuer
+## Aufgabe 05-1-2: Feuer
 
 Die NASA hat auf Ihrer [Earth Observatory Webseite](https://earthobservatory.nasa.gov/images/5800/2005-fire-patterns-across-africa) die  Feuerdynamik in Afrika im Jahr 2005 dargestellt.
 
@@ -62,7 +62,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei
 </div>
 
 
-## Aufgabe 05-1-L3: Spatial Citizenship und Geomedienkompetenz
+## Aufgabe 05-1-3: Spatial Citizenship und Geomedienkompetenz
 
 "Spatial Citizenship wurde als Konzept ursprünglich entwickelt, um die technisch orientierte Nutzung von Geomedien im Unterricht um den Alltags- und Laienbezug zu ergänzen bzw. diesen in das Zentrum zu stellen (Jekel, Gryl und Oberruach, 2015, 5). Die Grundkonzeption von Spatial citizenship basiert auf drei Dimensionen. Lesen Sie den Text [Jekel, Gryl und Oberrauch (2015)] aufmerksam.  
 
