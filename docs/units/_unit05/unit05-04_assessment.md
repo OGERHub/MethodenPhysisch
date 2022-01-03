@@ -1,128 +1,79 @@
 ---
-  title: A05 - Dekonstruktion von Karten
+title: A05-2 | Umgang mit Unsicherheiten, sicher gestalten!
 toc: true
 header:
-  image: /assets/images/02-splash.jpg
-  image_description: "Blick ins Lahntal mit Grünlandwirtschaft, Baustelle für Stromtrassen und Regenbogen."
-  caption: "Foto: T. Nauss / CC0"
+  image: /assets/images/05-splash.jpg
+  image_description: "Ausschnitt der Geo-bit Reliefkarte Alpen"
+  caption: "Bild: [Geo-bit ](https://www.3d-relief.com/images/product_images/original_images/reliefkarte_alpen_detai3.jpg)   Ausschnitt der Reliefkarte Alpen, Copyright: [Geo-Bit](https://www.3d-relief.com/)"
+  
 ---
 
-In Aufgabe 05 dekonstruieren Sie verschiedene Karten. Hierzu üben Sie, wie Sie das sichtbare Endprodukt in seine inhaltlichen und technischen Konstruktionseigenschaften zerlegen und die Intention der Kartenproduzenten entschlüsseln.
+Im fünften IPCC Sachstandsbericht wird Unsicherheit definiert als „ein Zustand unvollständigen Wissens, der aufgrund eines Mangels an Information besteht oder aufgrund von Unstimmigkeiten darüber, was bekannt ist oder überhaupt bekannt sein kann. Unsicherheit kann viele Quellen haben, von Ungenauigkeiten in den Daten bis zu nicht eindeutig definierten Konzepten oder Terminologien oder unsicheren Projektionen des Verhaltens von Menschen“ (IPCC, 2013/2014: A-28). Wissenschaftliche Erkenntnisse beruhen auf Daten, die in der Regel durch standardisierte und getestete Verfahren erhoben werden. Dennoch unterliegen diese Methoden Unsicherheiten. Daher werden Methoden und Wege der wissenschaftlichen Erkenntnisgewinnung veröffentlicht und diskutiert. 
+Unsicherheiten und der Umgang mit Informationen und mit Daten spielen in der heutigen Zeit, in der Kommunikation und Informationsaustausch meist digital stattfinden, eine besondere Rolle, wenn Falschinformationen oder pseudowissenschaftliche Erkenntnisse über digitale Wege verbreitet und konsumiert werden (Menthe & Hüfner 2019, s. Menthe, J. & Hüfner, S. (2019). Information Literacy. Pseudoinformation und digitale (Des-) Information bei den Themen"Klimawandel", "Clean Coal", und "Stickoxidgrenzwerte", Naturwissenschaften Im Unterricht - Chemie, 174, 20-25). Aktuell erfahren wir solche Unsicherheiten im Kontext der Berichterstattung zur Covid-19 Pandemie und den wissenschaftlichen Prognosen zum Umgang, den Maßnahmen und Auswirkungen. Auch ist der Klimawandel und die Folgen des Klimawandels ein Thema, über das in vielfältiger Hinsicht berichtet wird und das Unsicherheiten unterliegt. Während unter Klimawissenschaftler_innen ein breiter Konsens bezüglich des anthropogenen Klimawandels herrscht, existiert in Teilen der Öffentlichkeit und in den sozialen Medien ein nicht zu vernachlässigender Widerspruch gegen den Konsens. Hier gilt es zu sensibilisieren und das Spannungsfeld von Konsens, aber auch von Unsicherheiten in der Bildungsarbeit in sinnvoller Weise aufzugreifen.
 
-<!---
-die folgenden Leitfragen angesehen werden, die eine ergänzte Auswahl der bei Gryl (2014) (intern hier) zu findenden Zusammenstellung sind:
-
-    Was zeigt die Karte?
-    Wie ist die Darstellung?
-    Welches Thema/Problem soll mit der Karte bearbeitet werden?
-    Wer ist der Urheber der Karte?
-    Was will der Urheber mit der Karte erreichen?
-    Welche Botschaft wird (soll) transportiert (werden)?
-    Was zeigt die Karte nicht?
-    Wie wirkt die Karte auf mich?
-    Welche Fragen ergeben sich für mich aus der Karte?
---->
-
+ 
 
 ## Benötigte Lernmaterialien
-* [Innenstadtplan des Tourismusbüros Marburgs](https://www.marburg-tourismus.de/service/stadtplan/innenstadtplan-marburg/)
-* interne [Kartenzusammenstellungen Feuer](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui)
-* interne [Kartenzusammenstellungen Brasilien](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui)
-* [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis) oder als Volltext im [geschützten Material auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR)
-
-
-**Hinweis:** Eine Auswahl von Leitfragen zur reflexive Kartenarbeit finden Sie im Artikel von [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis).
-{: .notice}
+* [IPPC-Sachbericht Klimawandel (2021) Naturwissenschaftliche Grundlagen]( https://www.de-ipcc.de/media/content/AR6-WGI-SPM_de.pdf)
 
 Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen).
 {: .notice--danger}
 
-## Aufgabe 05-L1: Karte der Marburger Innenstadt
+## Aufgabe 05-2-1: Konsens, Fakten und Klimawandel!
 
-Sie interessieren sich für ein Lehramtsstudium in Marburg mit den Fächern Geographie und Theologie und möchten den Studienort erkunden. Dafür laden Sie sich vor Ihrer Anfahrt mit dem Zug den Innenstadtplan des örtlichen Tourismusbüros herunter. Sie fragen sich, ob Sie Ihr Fahrrad mitnehmen sollten, um sich in der Stadt zu bewegen. Sie wollen die wichtigsten universitären Einrichtungen besuchen und natürlich insbesondere das geographische Institut und verschiedene religiöse Einrichtungen. Außerdem wollen Sie einen schönen Aussichtspunkt finden, um einen Überblick über die Stadt zu bekommen.
+Lesen Sie den IPPC-Sachbericht Klimawandel (2021) Naturwissenschaftliche Grundlagen. Welche Kernaussagen können bezüglich der Veränderung der „globalen Oberflächentemperatur“ getroffen werden. Fassen Sie die zentralen Kernaussagen in max. drei Sätzen zusammen.
 
-{% capture A05-L1 %}
-
-Beschreiben Sie bitte den Eindruck, den die Karte von Marburg vermittelt, mit maximal vier Sätzen. Analysieren Sie dann die Perspektive und die Interessen des Tourismusbüros mit drei Sätzen. Diskutieren Sie abschließend die Eignung der Karte für ihr fiktives Vorhaben in maximal fünf Sätzen.
+{% capture A05-2-1 %}
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 05-L1:</h4>
-  {{ A05-L1 | markdownify }}
+  <h4 class="no_toc">Aufgabenstellung A05-2-1:</h4>
+  {{ A05-2-1 | markdownify }}
 </div>
 
 
-## Aufgabe 05-L2: Feuer
+## Aufgabe 05-2-2: Unsicherheiten und Klimawandel!
 
-Die NASA hat auf Ihrer [Earth Observatory Webseite](https://earthobservatory.nasa.gov/images/5800/2005-fire-patterns-across-africa) die  Feuerdynamik in Afrika im Jahr 2005 dargestellt.
+Text und Graphiken dess IPPC-Berichts geben Aufschluss über Unsicherheiten die mit den wissenschaftlichen Methoden einhergehen. Die Unsicherheiten gehen einerseits mit (1) Raum und Zeit einher, andererseits mit (2) Raum und Maßstab.
 
-{% capture A05-L2 %}
+{% capture A05-2-2 %}
 
-Beschreiben Sie bitte den Eindruck, den Sie von der [Darstellung der NASA](https://earthobservatory.nasa.gov/images/5800/2005-fire-patterns-across-africa) haben, mit maximal 2 Sätzen. Analysieren Sie anschließend mit maximal 4 Sätzen die [Werbung einer amerikanischen Autovermietung](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR), die in zwei aufeinander folgenden Jahren (oben das erste, unten das zweite Jahr) erschienen ist, hinsichtlich bewusster Konstruktionsentscheidungen. Kommen Sie anschließend auf die Abbildung der NASA zurück und diskutieren Sie in maximal drei Sätzen, in wie fern sich Werbung und Satellitendarstellung bezüglich der Wirkung der Abbildung gleichen und was hier der technischen Konstruktion der Abbildung zu Grunde liegt.
-
-Umfang: 1 Seite in Ihrer PDF-Datei
-{% endcapture %}
-
-**Hinweis:** Bezüglich der Satellitendarstellung hilft Ihnen vielleicht ein Blick zurück in die [Lerneinheit 03]({{ site.baseurl }}{% link _unit03/unit03-04_learning_material.md %}).
-{: .notice}
-
-<div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 05-L2:</h4>
-  {{ A05-L2 | markdownify }}
-</div>
-
-
-## Aufgabe 05-L3: Brasilien
-
-Auch in dieser Aufgabe steht die Dekonstruktion des Herstellungsprozesses einer Karte im Mittelpunkt. Diesmal geht es aber nicht nur um den Kartenausschnitt selbst, sondern um die Legende der Karte. Die folgende Karte von [Uhlenwinkel (2014)](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR) zeigt Regionen und Prozesse in Brasilien. Die Karte ist so zu verstehen, dass sie einmal ausschließlich mit der oberen, einmal ausschließlich mit der unteren Legende gedruckt wird.
-
-{% capture A05-L3 %}
-
-Analysieren Sie bitte die Karte von [Uhlenwinkel (2014)](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR) und fokussieren Sie auf die unterschiedlichen Legenden. Fassen Sie Ihr Ergebnisse in maximal 5 Sätzen zusammen.
+Erläutern Sie jeweils zwei Unsicherheiten zu den im IPPC-Bericht veröffentlichten Veränderung der globalen Oberflächentemperatur. Formulieren Sie jeweils zwei Unsicherheiten, die einhergehen mit
+(1)	Raum und Zeit
+(2)	Raum und Maßstab.
+Formulieren Sie die Unsicherheiten jeweils mit max. einem Satz (= insgesamt vier Sätze).
 
 
 Umfang: 1 Seite in Ihrer PDF-Datei
 {% endcapture %}
 
+
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 05-L3:</h4>
-  {{ A05-L3 | markdownify }}
+  <h4 class="no_toc">Aufgabenstellung A05-2-2:</h4>
+  {{ A05-2-2 | markdownify }}
 </div>
 
-<!---
 
- Nutzen Sie die folgenden vier Kartendienste um sich ein Bild des Stadtteils Sachsenhausen in Frankfurt zu machen:
+## Aufgabe 05-2-3: Umgang mit Unsicherheit, sicher gestalten!
 
-     Baby Places
-     Bing Maps
-     Here Maps
-     Open Street Map
+Mit Konsens und Unsicherheiten souverän umgehen zu können ist eine zentrale Aufgabe von Wissenschaft, aber auch von Bildung und Gesellschaft. Welche Aufgaben kommen dahingehend (1) der Wissenschaft zu, welche (2) der Bildung und hier explizit dem Erdkundeunterricht und welche (3) Ihnen persönlich. 
+Beschreiben Sie die Aufgaben mit jeweils max. zwei Sätzen für (1)-(3).
 
-     Fassen Sie bitte Ihr Bild von Sachsenhausen auf Basis der Karten in max. 3 Sätzen zusammen. Analysieren Sie anschließend die unterschiedlichen Karteninformationen bezüglich folgender Aspekte mit jeweils maximal 3 Sätzen:
+{% capture A05-2-3 %}
 
-         Welche Unterschiede gibt es in den kartographischen Darstellungsweisen (z.B. Farben, Symbole, Signaturen)?
-         Welcher Herstellungsprozess (z.B. dahinterstehende Institutionen, Ziele) steht hinter den Karten?
-         Welchen Zweck hat die jeweilige Karte für ihren Nutzer hat?
+Spannen Sie abschließend den Bogen zu diesem Modul und bewerten Sie den Zusammenhang von Unsicherheiten und Geomedien. Welchen Beitrag können Geomedien im Unterricht leisten, um die Schüler_innen in ihrem souveränen Umgang mit Daten und Informationen im Kontext von Unsicherheiten zu fördern? 
+Ziehen Sie Ihr abschließendes Resümee mit max. drei Sätzen.  
 
- Umfang: 2 Seiten in Ihrer PDF-Datei
+Umfang: 1 Seite in Ihrer PDF-Datei
+{% endcapture %}
 
- --->
 
-<!---
+<div class="notice--success">
+  <h4 class="no_toc">Aufgabenstellung A05-2-3:</h4>
+  {{ A05-2-3 | markdownify }}
+</div>
 
- ### Aufgabe 05-L2: Karte der US Wahlen 2008 auf County-Ebene
 
- Die folgende Karte von Mark Newman zeigt die Ergebnisse der Präsidentschaftswahlen im Jahr 2008 auf County-Ebene. In Rot sind Counties dargestellt, in denen die Mehrheit der Wahlberechtigten den republikanischen Kandidaten gewählt hat, in blau solche mit einer Mehrheit für die Demokraten.
-
- **1. Karte**
-
- Reflektieren Sie die Wirkung der Karte in max. 5 Sätzen. Binden Sie hierfür auch die folgende Abbildung ein, die die Counties entsprechend der wahlberechtigten Einwohner gewichtet.
-
- **2.Karte**
-
- Umfang: 1 Seite in Ihrer PDF-Datei
-
- --->
