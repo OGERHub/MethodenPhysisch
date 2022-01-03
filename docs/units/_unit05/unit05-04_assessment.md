@@ -20,17 +20,16 @@ Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github
 {: .notice--danger}
 
 ## Aufgabe 05-01: Konsens, Fakten und Klimawandel!
-
-Lesen Sie den IPPC-Sachbericht Klimawandel (2021) Naturwissenschaftliche Grundlagen. Welche Kernaussagen können bezüglich der Veränderung der „globalen Oberflächentemperatur“ getroffen werden. Fassen Sie die zentralen Kernaussagen in max. drei Sätzen zusammen.
-
-{% capture A05-02-1 %}
+Lesen Sie den IPPC-Sachbericht Klimawandel (2021) Naturwissenschaftliche Grundlagen. 
+{% capture P05-01 %}
+Welche Kernaussagen können bezüglich der Veränderung der „globalen Oberflächentemperatur“ getroffen werden. Fassen Sie die zentralen Kernaussagen in max. drei Sätzen zusammen.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc"> P05-01:</h4>
+  <h4 class="no_toc">Aufgabenstellung P05-01:</h4>
   {{ P05-01 | markdownify }}
 </div>
 
@@ -62,7 +61,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei
 Mit Konsens und Unsicherheiten souverän umgehen zu können ist eine zentrale Aufgabe von Wissenschaft, aber auch von Bildung und Gesellschaft. Welche Aufgaben kommen dahingehend (1) der Wissenschaft zu, welche (2) der Bildung und hier explizit dem Erdkundeunterricht und welche (3) Ihnen persönlich. 
 Beschreiben Sie die Aufgaben mit jeweils max. zwei Sätzen für (1)-(3).
 
-{% capture A05-02-3 %}
+{% capture P05-03 %}
 
 Spannen Sie abschließend den Bogen zu diesem Modul und bewerten Sie den Zusammenhang von Unsicherheiten und Geomedien. Welchen Beitrag können Geomedien im Unterricht leisten, um die Schüler_innen in ihrem souveränen Umgang mit Daten und Informationen im Kontext von Unsicherheiten zu fördern? 
 Ziehen Sie Ihr abschließendes Resümee mit max. drei Sätzen.  
@@ -72,7 +71,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei
 
 
 <div class="notice--success">
-  <h4 class="no_toc">P05-03:</h4>
+  <h4 class="no_toc">Aufgabenstellung P05-03:</h4>
   {{ P05-03 | markdownify }}
 </div>
 
