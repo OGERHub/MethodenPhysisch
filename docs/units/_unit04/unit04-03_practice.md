@@ -1,12 +1,11 @@
 ---
-title: A04 | Visualisierung
+title: A04 | Datenanalyse und Visualisierung
 toc: true
 header:
   image: /assets/images/04-splash.jpg
   image_description: "Unübersichtlich beschriebene Universitätstafel"
   caption: "Foto: Wikimedia Commons / CC0"
 ---
-#  Datenanalyse und Visualisierung
 In den Aufgaben trainieren Sie die Aufbereitung und Visualisierung von Daten. Sie üben in der ersten Aufgabe Zeitreihen zusammenzustellen und klimatische Aussagen zu treffen. In der zweiten Aufgabe untersuchen Sie, ob Wahlverhalten eine Glaubensfrage ist und erstellen thematische Karten.
 
 ## Benötigte Materialien für die Aufgaben

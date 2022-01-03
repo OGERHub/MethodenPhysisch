@@ -7,7 +7,7 @@ header:
   caption: "Foto: T. Nauss / CC0"
 ---
 
-In Aufgabe 05-1 dekonstruieren Sie verschiedene Karten. Hierzu üben Sie, wie Sie das sichtbare Endprodukt in seine inhaltlichen und technischen Konstruktionseigenschaften zerlegen und die Intention der Kartenproduzenten entschlüsseln.
+In Aufgabe 05-001 dekonstruieren Sie verschiedene Karten. Hierzu üben Sie, wie Sie das sichtbare Endprodukt in seine inhaltlichen und technischen Konstruktionseigenschaften zerlegen und die Intention der Kartenproduzenten entschlüsseln.
 
 
 ## Benötigte Lernmaterialien
@@ -23,11 +23,11 @@ In Aufgabe 05-1 dekonstruieren Sie verschiedene Karten. Hierzu üben Sie, wie Si
 Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen).
 {: .notice--danger}
 
-## Aufgabe 05-1-1: Karte der Marburger Innenstadt
+## Übung 05-01: Karte der Marburger Innenstadt
 
 Sie interessieren sich für ein Lehramtsstudium in Marburg mit den Fächern Geographie und Theologie und möchten den Studienort erkunden. Dafür laden Sie sich vor Ihrer Anfahrt mit dem Zug den Innenstadtplan des örtlichen Tourismusbüros herunter. Sie fragen sich, ob Sie Ihr Fahrrad mitnehmen sollten, um sich in der Stadt zu bewegen. Sie wollen die wichtigsten universitären Einrichtungen besuchen und natürlich insbesondere das geographische Institut und verschiedene religiöse Einrichtungen. Außerdem wollen Sie einen schönen Aussichtspunkt finden, um einen Überblick über die Stadt zu bekommen.
 
-{% capture A05-1-1 %}
+{% capture A05-01 %}
 
 Beschreiben Sie bitte den Eindruck, den die Karte von Marburg vermittelt, in max. acht Stichworten. Analysieren Sie dann die Perspektive und die Interessen des Tourismusbüros mit drei Sätzen. Diskutieren Sie abschließend die Eignung der Karte für ihr fiktives Vorhaben in maximal drei Sätzen.
 
@@ -36,17 +36,16 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung A05-1-1:</h4>
-  {{ A05-1-1 | markdownify }}
+  <h4 class="no_toc">Übung A05-01:</h4>
+  {{ A05-01 | markdownify }}
 </div>
 
 
-## Aufgabe 05-1-2: Feuer
+## Übung 05-02: Feuer
 
 Die NASA hat auf Ihrer [Earth Observatory Webseite](https://earthobservatory.nasa.gov/images/5800/2005-fire-patterns-across-africa) die  Feuerdynamik in Afrika im Jahr 2005 dargestellt.
 
-{% capture A05-1-2 %}
-
+{% capture A05-02 %}
 Beschreiben Sie bitte den Eindruck, den Sie von der [Darstellung der NASA](https://earthobservatory.nasa.gov/images/5800/2005-fire-patterns-across-africa) haben, mit maximal 2 Sätzen. Analysieren Sie anschließend mit maximal 3 Sätzen die [Werbung einer amerikanischen Autovermietung](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR), die in zwei aufeinander folgenden Jahren (oben das erste, unten das zweite Jahr) erschienen ist, hinsichtlich bewusster Konstruktionsentscheidungen. Kommen Sie anschließend auf die Abbildung der NASA zurück und diskutieren Sie in maximal 3 Sätzen, in wie fern sich Werbung und Satellitendarstellung bezüglich der Wirkung der Abbildung gleichen und was hier der technischen Konstruktion der Abbildung zu Grunde liegt.
 
 Umfang: 1 Seite in Ihrer PDF-Datei
@@ -56,28 +55,29 @@ Umfang: 1 Seite in Ihrer PDF-Datei
 {: .notice}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung A05-1-2:</h4>
-  {{ A05-1-2 | markdownify }}
+  <h4 class="no_toc">Übung A05-02:</h4>
+  {{ A05-02 | markdownify }}
 </div>
 
 
-## Aufgabe 05-1-3: Spatial Citizenship und Geomedienkompetenz
+## Übung 05-03: Spatial Citizenship und Geomedienkompetenz
 
 "Spatial Citizenship wurde als Konzept ursprünglich entwickelt, um die technisch orientierte Nutzung von Geomedien im Unterricht um den Alltags- und Laienbezug zu ergänzen bzw. diesen in das Zentrum zu stellen (Jekel, Gryl und Oberruach, 2015, 5). Die Grundkonzeption von Spatial citizenship basiert auf drei Dimensionen. Lesen Sie den Text [Jekel, Gryl und Oberrauch (2015)] aufmerksam.  
 
-{% capture A05-1-3 %}
+
+{% capture A05-03 %}
 
 Erstellen Sie eine Graphik, die das Konzept des Spatial Citizenship veranschaulicht. Jede Dimension sollte dabei mit einem konkreten Beispiel/Geomedium verdeutlicht werden.
-{% endcapture %}
 
-Gehen Sie anschließend auf das zweiten Kompetenzfeld - Reflexion und Reflexivität - ein. Wenden Sie diesen Kompetenzbereich auf die Karte der Marburger Innenstadt (s. Übung 05-1-L1) an. Gehen Sie dabei explizit auf das Finden fehlender Information ein und auf die Möglichkeit, die Darstellung der Daten anders bzw. besser darzustellen. 
+
+Gehen Sie anschließend auf das zweiten Kompetenzfeld - Reflexion und Reflexivität - ein. Wenden Sie diesen Kompetenzbereich auf die Karte der Marburger Innenstadt (s. Übung 05-01) an. Gehen Sie dabei explizit auf das Finden fehlender Information ein und auf die Möglichkeit, die Darstellung der Daten anders bzw. besser darzustellen. 
 
 Umfang: 1 Seite in Ihrer PDF-Datei
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung A05-1-3:</h4>
-  {{ A05-1-3 | markdownify }}
+  <h4 class="no_toc">Übung A05-03:</h4>
+  {{ A05-03 | markdownify }}
 </div>
 
 
