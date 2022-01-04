@@ -40,16 +40,13 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 ## Aufgabe 05-02: Unsicherheiten und Klimawandel!
 
-Text und Graphiken dess IPPC-Berichts geben Aufschluss über Unsicherheiten die mit den wissenschaftlichen Methoden einhergehen. Die Unsicherheiten gehen einerseits mit (1) Raum und Zeit einher, andererseits mit (2) Raum und Maßstab.
+Text und Graphiken des IPPC-Berichts geben Aufschluss über Unsicherheiten die mit den wissenschaftlichen Methoden einhergehen. Die Erehbung von solchen Klimadaten gehen einher mit Raum, Zeit und Maßstab. Die Wissenschaftler:innen werden dahingehend vor Herausforderungen gestellt, Unsicherheiten können sich. 
 
 {% capture P05-02 %}
 
-Erläutern Sie jeweils zwei Unsicherheiten zu der im IPPC-Bericht veröffentlichten Veränderung der globalen Oberflächentemperatur. Formulieren Sie jeweils zwei Unsicherheiten, die einhergehen mit
+Erläutern Sie jeweils zwei Unsicherheiten zu der im IPPC-Bericht veröffentlichten Veränderung der globalen Oberflächentemperatur. Formulieren Sie jeweils zwei Unsicherheiten, die einhergehen mit der Erhebung von Daten hinsichtlich (1) Raum / Zeit und (2) Maßstab.
 
-1.	Raum und Zeit
-1.	Raum und Maßstab.
-
-Formulieren Sie die Unsicherheiten jeweils mit max. einem Satz (= insgesamt vier Sätze).
+Formulieren Sie die Unsicherheiten zu (1) und (2) jeweils mit max. zwei Sätzen (= insgesamt vier Sätze).
 
 
 Umfang: 1 Seite in Ihrer PDF-Datei
