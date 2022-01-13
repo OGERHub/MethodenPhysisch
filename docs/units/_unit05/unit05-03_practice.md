@@ -11,9 +11,10 @@ In Aufgabe 05-001 dekonstruieren Sie verschiedene Karten. Hierzu üben Sie, wie 
 
 
 ## Benötigte Lernmaterialien
-* interner [Innenstadtplan des Tourismusbüros Marburgs (letzte Seite des Flyers)](https://ilias.uni-marburg.de/goto.php?target=file_2498384_download&client_id=UNIMR)
-* interne [Kartenzusammenstellungen Feuer](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui)
-* [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis) oder als Volltext im [geschützten Material auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR)
+* interner [Innenstadtplan des Tourismusbüros Marburgs (letzte Seite des Flyers)](https://ilias.uni-marburg.de/goto.php?target=file_2617909_download&client_id=UNIMR)
+* interne [Kartenzusammenstellungen Car Rental](https://ilias.uni-marburg.de/goto.php?target=file_2617906_download&client_id=UNIMR)
+* [Earth Observatory Webseite](https://earthobservatory.nasa.gov/images/5800/2005-fire-patterns-across-africa)
+* [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis) oder als Volltext im [geschützten Material auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=file_2617908_download&client_id=UNIMR)
 * [Jekel, Gryl und Oberrauch (2015)](https://www.gw-unterricht.at/images/pdf/gwu_137_05_13_jekel_gryl_oberrauch.pdf)
 
 
@@ -46,7 +47,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 Die NASA hat auf Ihrer [Earth Observatory Webseite](https://earthobservatory.nasa.gov/images/5800/2005-fire-patterns-across-africa) die  Feuerdynamik in Afrika im Jahr 2005 dargestellt.
 
 {% capture A05-02 %}
-Beschreiben Sie bitte den Eindruck, den Sie von der [Darstellung der NASA](https://earthobservatory.nasa.gov/images/5800/2005-fire-patterns-across-africa) haben, mit maximal 2 Sätzen. Analysieren Sie anschließend mit maximal 3 Sätzen die [Werbung einer amerikanischen Autovermietung](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR), die in zwei aufeinander folgenden Jahren (oben das erste, unten das zweite Jahr) erschienen ist, hinsichtlich bewusster Konstruktionsentscheidungen. Kommen Sie anschließend auf die Abbildung der NASA zurück und diskutieren Sie in maximal 3 Sätzen, in wie fern sich Werbung und Satellitendarstellung bezüglich der Wirkung der Abbildung gleichen und was hier der technischen Konstruktion der Abbildung zu Grunde liegt.
+Beschreiben Sie bitte den Eindruck, den Sie von der [Darstellung der NASA](https://earthobservatory.nasa.gov/images/5800/2005-fire-patterns-across-africa) haben, mit maximal 2 Sätzen. Analysieren Sie anschließend mit maximal 3 Sätzen die [Werbung einer amerikanischen Autovermietung](https://ilias.uni-marburg.de/goto.php?target=file_2617906_download&client_id=UNIMR), die in zwei aufeinander folgenden Jahren (oben das erste, unten das zweite Jahr) erschienen ist, hinsichtlich bewusster Konstruktionsentscheidungen. Kommen Sie anschließend auf die Abbildung der NASA zurück und diskutieren Sie in maximal 3 Sätzen, in wie fern sich Werbung und Satellitendarstellung bezüglich der Wirkung der Abbildung gleichen und was hier der technischen Konstruktion der Abbildung zu Grunde liegt.
 
 Umfang: 1 Seite in Ihrer PDF-Datei
 {% endcapture %}
