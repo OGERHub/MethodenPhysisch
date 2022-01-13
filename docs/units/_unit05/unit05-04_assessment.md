@@ -64,10 +64,13 @@ Umfang: 1 Seite in Ihrer PDF-Datei
 
 ## Aufgabe 05-03: Umgang mit Unsicherheit, sicher gestalten!
 
-Mit Konsens und Unsicherheiten souverän umgehen zu können ist eine zentrale Aufgabe von Wissenschaft, aber auch von Bildung und Gesellschaft. Welche Aufgaben kommen dahingehend (1) der Wissenschaft zu, welche (2) der Bildung und hier explizit dem Erdkundeunterricht und welche (3) Ihnen persönlich. 
-Erläutern Sie die Aufgaben mit jeweils max. zwei Sätzen für (1)-(3).
+Mit Konsens und Unsicherheiten souverän umgehen zu können ist eine zentrale Aufgabe von Wissenschaft, aber auch von Bildung und Gesellschaft. 
 
 {% capture P05-03 %}
+Welche Aufgaben im Umgang mit Konsens und Unsicherheiten kommen  (1) der Wissenschaft zu, welche (2) der Bildung und hier explizit dem Erdkundeunterricht und welche (3) Ihnen persönlich. 
+Erläutern Sie die Aufgaben mit jeweils max. zwei Sätzen für (1)-(3).
+
+
 
 Spannen Sie abschließend den Bogen zu diesem Modul und bewerten Sie den Zusammenhang von Unsicherheiten und Geomedien. Welchen Beitrag können Geomedien im Unterricht leisten, um die Schüler:innen in ihrem souveränen Umgang mit Daten und Informationen im Kontext von Unsicherheiten zu fördern? 
 
