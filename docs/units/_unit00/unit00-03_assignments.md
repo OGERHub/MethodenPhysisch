@@ -7,7 +7,7 @@ header:
 
 ## Studienleistung
 
-Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für Ihre Studienleistung. Es müssen alle Aufgaben im [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/ilias.php?ref_id=2344948&ass_id=35893&cmd=showOverview&cmdClass=ilobjexercisegui&cmdNode=b3:ms&baseClass=ilExerciseHandlerGUI) innerhalb des dort angegeben Zeitraums und den [formalen Anforderungen](#formale-anforderungen) entsprechend abgegeben werden. Die Studienleistung ist in Dreierteams zu erbringen.
+Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für Ihre Studienleistung. Es müssen alle Aufgaben im [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/ilias.php?ref_id=2344948&ass_id=35893&cmd=showOverview&cmdClass=ilobjexercisegui&cmdNode=b3:ms&baseClass=ilExerciseHandlerGUI) innerhalb des dort angegeben Zeitraums und den [formalen Anforderungen](#formale-anforderungen) entsprechend abgegeben werden. Die Studienleistung ist in maximal Dreierteams zu erbringen.
 
 
 ### <a name="formale-anforderungen"></a>Formale Anforderungen
@@ -37,3 +37,5 @@ Die Studienleistung gilt als bestanden, wenn Ihre Dreiergruppe in jeder Einheit 
 Am Ende jeder Lerneinheit finden Sie Prüfungsaufgaben. Für die Erarbeitung der Prüfungsaufgaben haben Sie bis zum 03. Februar Zeit. Bitte reichen Sie die Prüfungsaufgaben aller Lerneinheiten am Ende des Moduls gebündelt ein. Sie können die Prüfung entweder als Gruppen- oder als Einzelarbeit erbringen. 
 
 
+Für die Abgabe der Prüfungsaufgaben gelten die identischen Formalia wie für die Studienleistung.
+{: .notice--info}
