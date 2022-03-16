@@ -1,5 +1,5 @@
 ---
-title: P04 | Datenanalyse
+title: NP04 | Datenanalyse
 toc: true
 header:
   image: /assets/images/04-splash.jpg

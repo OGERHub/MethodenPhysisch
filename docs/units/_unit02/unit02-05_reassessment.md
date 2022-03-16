@@ -1,5 +1,5 @@
 ---
-title: P02 | Raummodellierung
+title: NP02 | Raummodellierung
 toc: true
 header:
   image: /assets/images/02-splash.jpg

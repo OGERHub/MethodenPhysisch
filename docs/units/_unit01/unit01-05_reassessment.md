@@ -1,5 +1,5 @@
 ---
-title: P01 | Karteninterpretation
+title: NP01 | Karteninterpretation
 toc: false
 header:
   image: /assets/images/01-splash.jpg

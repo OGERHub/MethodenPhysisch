@@ -1,5 +1,5 @@
 ---
-title: P05 | Umgang mit Unsicherheiten, sicher gestalten!
+title: NP05 | Umgang mit Unsicherheiten, sicher gestalten!
 toc: true
 header:
   image: /assets/images/05-splash.jpg
