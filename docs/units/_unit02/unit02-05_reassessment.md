@@ -8,7 +8,6 @@ header:
 
 ---
 
-Aufbauen auf den Übungen dieser Einheit sollen Sie folgende Aufgaben bearbeiten und als Teil Ihrer Prüfungsleistung bis zum 21.11.2021 im Ilias-Ordner abgeben. Ziel dieser Abgabe ist es, aus Ihren Modellergebnissen eine evidenzbasierte valide Aussage abzuleiten.
 
 ## Benötigte Materialien für die Aufgaben
 * Papier und Stifte

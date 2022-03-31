@@ -8,7 +8,7 @@ header:
 
 ---
 
-Aufbauen auf den Übungen dieser Einheit sollen Sie folgende Aufgaben bearbeiten und als Teil Ihrer Prüfungsleistung bis zum 21.11.2021 im Ilias-Ordner abgeben. Ziel dieser Abgabe ist es, aus Ihren Modellergebnissen eine evidenzbasierte valide Aussage abzuleiten.
+Ziel dieser Abgabe ist es, aus Ihren Modellergebnissen eine empirische evidenzbasierte valide Aussage abzuleiten.
 
 ## Benötigte Materialien für die Aufgaben
 * Papier und Stifte
@@ -21,13 +21,13 @@ Alternativ können Sie das online Modell *Fire2* nutzen.
 
 {% include media3 url="assets/misc/Fire2.html" %}
 
-## P02-01 Simulationsbasierte Empfehlung für einen zonierten Feuerschutz
+## Aufgabe P02-01 Simulationsbasierte Empfehlung für einen zonierten Feuerschutz
 
 In den Hinweisen [Creating Wildfire-Defensible Spaces
 for Your Home and Property](https://cals.arizona.edu/extension/ornamentalhort/landscapemgmt/general/wildfire_defense.pdf) hat die University of Arizona einen Anwendungsleitfaden zum Feuerschutz von bewaldetem Privateigentum auf der Grundlage einer Zonierungsstrategie erstellt. Es werden drei Zonen um brandgefährdes Eigentum identifiziert, deren Einrichtung einen effektiven  Feuerschutz sicherstellen sollen (Abbildung 1). 
 
 {% capture Assignment-2-2 %}
-Sie haben nun die Aufgabe für ein County in Arizona diese Empfehlung mit Hilfe einer geeigneten Simulation auf der Grundlage der obigen Vorgaben zu überprüfen und konkret festzulegen wie dicht die Bäume eines Waldes in der Zone 3 sein dürfen. Da es der Verwaltung um einen möglichst geringen Eingriff in das Privateigentum geht sollen folgende Bedingungen in die Simulation berücksichtigt werden:
+Sie haben nun die Aufgabe für ein County in Arizona diese Empfehlung mit Hilfe einer geeigneten Simulation auf der Grundlage der obigen Vorgaben zu überprüfen und konkret festzulegen. Da es der Verwaltung um einen möglichst geringen Eingriff in das Privateigentum geht sollen folgende Bedingungen in die Simulation berücksichtigt werden:
 
 * Die Ausdehnung der Pufferzone 1  und 2 soll **minimal** sein
 * Die Walddichte in Pufferzone 2 und 3 soll **maximal** sein

@@ -7,7 +7,6 @@ header:
   caption: "Foto: Wikimedia Commons / CC0"
 ---
 
-Aufbauen auf den Übungen dieser Einheit sollen Sie folgende Aufgaben bearbeiten und als Teil Ihrer Prüfungsleistung bis zum ... im Ilias-Ordner abgeben. 
 
 
 ## Aufgabe NP04-01: Walter-Lieth oder Haude?

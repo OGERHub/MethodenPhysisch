@@ -8,8 +8,6 @@ header:
 ---
 
 
-Aufbauen auf den Übungen dieser Einheit sollen Sie folgende Aufgaben bearbeiten und als Teil Ihrer Prüfungsleistung bis zum 03.02.2022 im Ilias-Ordner abgeben. 
-
 
 ## Benötigte Materialien für die Aufgaben
 * die Diercke-Atlaskarte "Marburg Luft- und Lärmbelastung" aus den Jahren 1992 und 2002

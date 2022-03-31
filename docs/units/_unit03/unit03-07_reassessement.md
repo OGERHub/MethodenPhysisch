@@ -8,8 +8,6 @@ header:
 ---
 
 
-Aufbauen auf den Übungen dieser Einheit sollen Sie folgende Aufgaben bearbeiten und als Teil Ihrer Prüfungsleistung bis zum ... im Ilias-Ordner abgeben.
-
 ## Benötigte Materialien für die Aufgaben
 * Papier und Stifte
 * Internetzugang
