@@ -39,14 +39,12 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 
 ## Aufgabe 05-02: Unsicherheiten und Klimawandel!
-
-Text und Graphiken des IPPC-Berichts geben Aufschluss über Unsicherheiten die mit den wissenschaftlichen Methoden einhergehen. Die Erehbung von solchen Klimadaten gehen einher mit Raum, Zeit und Maßstab. Die Wissenschaftler:innen werden dahingehend vor Herausforderungen gestellt, Unsicherheiten können sich. 
+Text und Graphiken des IPPC-Berichts geben Aufschluss über Unsicherheiten die mit den wissenschaftlichen Methoden einhergehen. 
 
 {% capture P05-02 %}
 
-Erläutern Sie jeweils zwei Unsicherheiten zu der im IPPC-Bericht veröffentlichten Veränderung der globalen Oberflächentemperatur. Formulieren Sie jeweils zwei Unsicherheiten, die einhergehen mit der Erhebung von Daten hinsichtlich (1) Raum / Zeit und (2) Maßstab.
-
-Formulieren Sie die Unsicherheiten zu (1) und (2) jeweils mit max. zwei Sätzen (= insgesamt vier Sätze).
+Nennen Sie in Stichpunkten zwei Ursachen für Unsicherheiten die mit den Methoden einhergehen (= insgesamt zwei Stichpunkte oder Halbsätze). 
+Konkretisieren Sie zwei Unsicherheiten zu den im IPPC-Bericht veröffentlichten Veränderung der globalen Oberflächentemperatur jeweils mit max. einem Satz (= insgesamt zwei Sätze).
 
 
 Umfang: 1 Seite in Ihrer PDF-Datei
@@ -59,27 +57,5 @@ Umfang: 1 Seite in Ihrer PDF-Datei
 </div>
 
 
-## Aufgabe 05-03: Umgang mit Unsicherheit, sicher gestalten!
-
-Mit Konsens und Unsicherheiten souverän umgehen zu können ist eine zentrale Aufgabe von Wissenschaft, aber auch von Bildung und Gesellschaft. 
-
-{% capture P05-03 %}
-Welche Aufgaben im Umgang mit Konsens und Unsicherheiten kommen (1) der Wissenschaft zu, welche (2) der Bildung und hier explizit dem Erdkundeunterricht und welche (3) Ihnen persönlich. 
-Erläutern Sie die Aufgaben mit jeweils max. zwei Sätzen für (1)-(3).
-
-
-
-Spannen Sie abschließend den Bogen zu diesem Modul und bewerten Sie den Zusammenhang von Unsicherheiten und Geomedien. Welchen Beitrag können Geomedien im Unterricht leisten, um die Schüler:innen in ihrem souveränen Umgang mit Daten und Informationen im Kontext von Unsicherheiten zu fördern? 
-
-Ziehen Sie Ihr abschließendes Resümee mit max. drei Sätzen.  
-
-Umfang: 1 Seite in Ihrer PDF-Datei
-{% endcapture %}
-
-
-<div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung P05-03:</h4>
-  {{ P05-03 | markdownify }}
-</div>
 
 Menthe & Hüfner 2019, s. Menthe, J. & Hüfner, S. (2019). Information Literacy. Pseudoinformation und digitale (Des-) Information bei den Themen"Klimawandel", "Clean Coal", und "Stickoxidgrenzwerte", Naturwissenschaften Im Unterricht - Chemie, 174, 20-25
