@@ -23,7 +23,7 @@ Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github
 {: .notice--danger}
 
 
-**Aufgabe NP01-01:** Erstellen Sie auf Grundlage Ihrer Beschäftigung mit den Luft- und Lärmdaten im HLNUG eine Karte für Marburg. Sie können das [Web-Gis Angebots](https://www.hlnug.de/themen/geografische-informationssysteme/gis-anwendungen/gis-auskunftssysteme) des HLNUG zur Hilfe nehmen und sollte Ihre Kenntnisse in Bildverarbeitung und Diagrammerstellung einbringen. Die Karte kann analog, z.B. durch Ausdruck einzelner Diagramme und deren Anordnung auf einem Papier oder komplett digital erstellt werden.
+**Aufgabe NP01-01:** Erstellen Sie auf Grundlage Ihrer Beschäftigung mit den Luft- und Lärmdaten im HLNUG eine angemessene Karte für die Luft- und Lärmbelastung in Marburg. Sie können das [Web-Gis Angebots](https://www.hlnug.de/themen/geografische-informationssysteme/gis-anwendungen/gis-auskunftssysteme) des HLNUG zur Hilfe nehmen und sollte Ihre Kenntnisse in Bildverarbeitung und Diagrammerstellung einbringen. Die Karte kann analog, z.B. durch Ausdruck einzelner Diagramme und deren Anordnung auf einem Papier oder komplett digital erstellt werden.
 {: .notice--success}
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
