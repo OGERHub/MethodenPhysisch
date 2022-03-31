@@ -25,13 +25,13 @@ Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github
 
 
 
-## Aufgabe 03-01: Diskussion und Darstellung von Geodaten
+## Aufgabe NP03-01: Diskussion und Darstellung von Geodaten
 
 In der Aufgabe diskutieren Sie Ihre Schallmessungen und nehmen dafür eine der zwei möglichen Perspektiven ein:
 * Die erste Perspektive rechtfertigt den Status Quo und ordnet den Straßenlärm als wenig entscheidenden Raumfaktor ein. 
 * Die zweite Perspektive rechtfertigt den Bau einer Schallschutzwand, weil der Straßenlärm den umliegenden Raum stark beeinflusst. 
 
-{% capture A03-01 %}
+{% capture NP03-01 %}
 
 Stellen Sie die Bedeutung der Ausbreitung des Straßenlärms unter der von Ihnen gewählen Perspektive in einer selbst erstellten Karte dar. Diskutieren Sie die Bedeutung des Straßenlärms unter der entsprechenden Perspektive, indem Sie die Karten mit einer aussagekräftigen Bildunterschrift, vergleichbar zu den ausführlichen Bildunterschriften in der wissenschaftlichen Fachzeitschrift *Nature*, mit maximal 250 Wörtern versehen (wie etwa in diesem Beispiel [Augengeometrie von Fischen bei  Neuorientierungsaufgaben](https://www.nature.com/articles/s41598-020-64690-1)).
 
@@ -39,13 +39,14 @@ Stellen Sie die Bedeutung der Ausbreitung des Straßenlärms unter der von Ihnen
 1. Legen Sie die Grenzen Ihres Vorgehens in Stichworten offen und erläutern Sie in drie Sätzen inwiefern diese die Aussagekraft ihrer Analyse beeinflussen.
 
 
-Umfang: 2 Seiten in Ihrer PDF-Datei (Sie können die Seiten auch im Querformat nutzen).
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 03-01:</h4>
-  {{ A03-01 | markdownify }}
+  <h4 class="no_toc">Aufgabenstellung NP03-01:</h4>
+  {{ NP03-01 | markdownify }}
 </div>
 
 **Tipp**: Wenn Sie die Karte digital erstellen möchten, gibt es eine Vielzahl von Werkzeugen, die jedoch alle nicht völlig intuitiv zu benutzen sind. Sie können sowohl eine Desktop GIS-Software wie z.B. [QGIS](https://qgis.org/en/site/) oder  einen Web-Service wie z.B. [Mango Maps](https://mangomap.com) verwenden.
 {: .notice--info}
+
+_**Umfang: 2 Seiten in Ihrer PDF-Datei**_  (Sie können die Seiten auch im Querformat nutzen).

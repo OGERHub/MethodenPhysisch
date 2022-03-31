@@ -23,39 +23,39 @@ Aktuell erfahren wir solche Unsicherheiten im Kontext der Berichterstattung zur 
 Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen).
 {: .notice--danger}
 
-## Aufgabe 05-01: Konsens, Fakten und Klimawandel!
+## Aufgabe NP05-01: Konsens, Fakten und Klimawandel!
 Lesen Sie den IPPC-Sachbericht Klimawandel (2021) Naturwissenschaftliche Grundlagen. 
-{% capture P05-01 %}
+{% capture NP05-01 %}
 Welche Kernaussagen können bezüglich der Veränderung der „globalen Oberflächentemperatur“ getroffen werden. Fassen Sie die zentralen Kernaussagen in max. drei Sätzen zusammen.
 
-Umfang: 1 Seite in Ihrer PDF-Datei.
+
 
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung P05-01:</h4>
-  {{ P05-01 | markdownify }}
+  <h4 class="no_toc">Aufgabenstellung NP05-01:</h4>
+  {{ NP05-01 | markdownify }}
 </div>
+_**Umfang: 1 Seite in Ihrer PDF-Datei**_
 
-
-## Aufgabe 05-02: Unsicherheiten und Klimawandel!
+## Aufgabe NP05-02: Unsicherheiten und Klimawandel!
 Text und Graphiken des IPPC-Berichts geben Aufschluss über Unsicherheiten die mit den wissenschaftlichen Methoden einhergehen. 
 
-{% capture P05-02 %}
+{% capture NP05-02 %}
 
 Nennen Sie in Stichpunkten zwei Ursachen für Unsicherheiten die mit den Methoden einhergehen (= insgesamt zwei Stichpunkte oder Halbsätze). 
 Konkretisieren Sie zwei Unsicherheiten zu den im IPPC-Bericht veröffentlichten Veränderung der globalen Oberflächentemperatur jeweils mit max. einem Satz (= insgesamt zwei Sätze).
 
 
-Umfang: 1 Seite in Ihrer PDF-Datei
+
 {% endcapture %}
 
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung P05-02:</h4>
-  {{ P05-02 | markdownify }}
+  <h4 class="no_toc">Aufgabenstellung NP05-02:</h4>
+  {{ NP05-02 | markdownify }}
 </div>
+_**Umfang: 1 Seite in Ihrer PDF-Datei**_
 
-
-
+## Literatur
 Menthe & Hüfner 2019, s. Menthe, J. & Hüfner, S. (2019). Information Literacy. Pseudoinformation und digitale (Des-) Information bei den Themen"Klimawandel", "Clean Coal", und "Stickoxidgrenzwerte", Naturwissenschaften Im Unterricht - Chemie, 174, 20-25

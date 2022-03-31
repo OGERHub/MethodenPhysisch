@@ -23,12 +23,12 @@ Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github
 {: .notice--danger}
 
 
-**Aufgabenstellung 01-01:** Erstellen Sie auf Grundlage Ihrer Beschäftigung mit den Luft- und Lärmdaten im HLNUG eine Karte für Marburg. Sie können das [Web-Gis Angebots](https://www.hlnug.de/themen/geografische-informationssysteme/gis-anwendungen/gis-auskunftssysteme) des HLNUG zur Hilfe nehmen und sollte Ihre Kenntnisse in Bildverarbeitung und Diagrammerstellung einbringen. Die Karte kann analog, z.B. durch Ausdruck einzelner Diagramme und deren Anordnung auf einem Papier oder komplett digital erstellt werden.
+**Aufgabe NP01-01:** Erstellen Sie auf Grundlage Ihrer Beschäftigung mit den Luft- und Lärmdaten im HLNUG eine Karte für Marburg. Sie können das [Web-Gis Angebots](https://www.hlnug.de/themen/geografische-informationssysteme/gis-anwendungen/gis-auskunftssysteme) des HLNUG zur Hilfe nehmen und sollte Ihre Kenntnisse in Bildverarbeitung und Diagrammerstellung einbringen. Die Karte kann analog, z.B. durch Ausdruck einzelner Diagramme und deren Anordnung auf einem Papier oder komplett digital erstellt werden.
 {: .notice--success}
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 
-**Aufgabenstellung 01-02:** Erstellen Sie eine Tabelle, die die Unterschiede zwischen den Atlaskarten und Ihrer eigenen Karte übersichtlich darstellt. Fügen Sie auch eine Spalte ein, in der Sie Ihr Vorgehen begründen. Sie können mit Stichworten arbeiten, achten Sie aber auf Nachvollziehbarkeit. 
+**Aufgabe NP01-02:** Erstellen Sie eine Tabelle, die die Unterschiede zwischen den Atlaskarten und Ihrer eigenen Karte übersichtlich darstellt. Fügen Sie auch eine Spalte ein, in der Sie Ihr Vorgehen begründen. Sie können mit Stichworten arbeiten, achten Sie aber auf Nachvollziehbarkeit. 
 {: .notice--success}
 
-Umfang: 1 Seite in Ihrer PDF-Datei.
+_**Umfang: 1 Seite in Ihrer PDF-Datei**_
