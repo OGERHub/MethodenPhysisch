@@ -27,7 +27,7 @@ for Your Home and Property](https://cals.arizona.edu/extension/ornamentalhort/la
 
 {% capture NP02-01 %}
 
-Sie haben nun die Aufgabe anhand dieser Empfehlung ein geeignetes Vorgehen zu entwickeln um auf der Grundlage geeigneter Simulationen die obigen Vorgaben zu überprüfen. Da es der Verwaltung um einen möglichst geringen Eingriff in das Privateigentum geht, sollen folgende Bedingungen in den Simulation berücksichtigt werden:
+Sie haben nun die Aufgabe anhand dieser Empfehlung ein geeignetes Vorgehen zu entwickeln, um auf der Grundlage geeigneter Simulationen die obigen Vorgaben zu überprüfen. Da es der Verwaltung um einen möglichst geringen Eingriff in das Privateigentum geht, sollen folgende Bedingungen in den Simulation berücksichtigt werden:
 
 * Die Ausdehnung der Pufferzone 1  und 2 soll **minimal** sein
 * Die Walddichte in Pufferzone 2 und 3 soll **maximal** sein
