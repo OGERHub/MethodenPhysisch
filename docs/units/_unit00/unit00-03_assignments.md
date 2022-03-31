@@ -23,7 +23,7 @@ Verwenden Sie zur Zusammenstellung der Abgabedatei immer ein Textverarbeitungspr
 
 Stellen Sie bitte sicher, dass diese Überschrift auch tatsächlich technisch (Formatvorlage) als Überschrift definiert ist und nicht nur größer oder fetter dargestellt wird. Dies sorgt für eine konsistente Semantik und verbessert damit die Maschinenlesbarkeit und Navigation in Ihrem finalen Dokument.
 
-Für jede Aufgabe ist in der Aufgabenstellung der Seitenumfang angegeben. Erstellen Sie für die jeweilige Aufgabe **exakt** diese Anzahl an Seiten, das gilt **auch** wenn die Seiten nicht ganz voll oder leer (wegen Nichtbearbeitung) sind. Also, auch wenn Sie eine Aufgabe **nicht** bearbeiten, fügen Sie bitte dennoch die entsprechende Überschrift der Aufgabe ein und lassen Sie die angegebenen Anzahl an Seiten frei bevor Sie die nächste Aufgabe anfügen.
+Für jede Aufgabe ist in der Aufgabenstellung der Seitenumfang angegeben. Erstellen Sie für die jeweilige Aufgabe **exakt** diese Anzahl an Seiten, das gilt **auch**, wenn die Seiten nicht ganz voll oder leer (wegen Nichtbearbeitung) sind. Also auch, wenn Sie eine Aufgabe **nicht** bearbeiten, fügen Sie bitte dennoch die entsprechende Überschrift der Aufgabe ein und lassen Sie die angegebenen Anzahl an Seiten frei bevor Sie die nächste Aufgabe anfügen.
 
 Wenn Sie für die Beantwortung von Fragen Quellen nutzen, dann geben Sie diese bitte direkt innerhalb der Aufgabe und nicht in einem separaten Quellenverzeichnis an.
 
@@ -31,7 +31,7 @@ Wenn Sie die Bearbeitung der Übungsaufgabe abgeschlossen haben, speichern Sie d
 
 **Kurzfassung:** 
 * Geben Sie die exakte Anzahl an geforderten Seiten ab
-* Erstellen Sie Keine zusätzlichen Seiten
+* Erstellen Sie keine zusätzlichen Seiten
 * Reichen Sie alle Seiten der NP Aufgaben gebündelt als **ein** Dokument ein
 {: .notice--success}
 
