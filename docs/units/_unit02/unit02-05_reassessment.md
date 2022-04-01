@@ -19,6 +19,11 @@ for Your Home and Property](https://cals.arizona.edu/extension/ornamentalhort/la
 
 {% include media3 url="assets/misc/Fire2.html" %}
 
+Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen) an die Abgabe von Aufgaben.
+{: .notice--danger}
+
+
+
 ## Aufgabe NP02-01 Simulationsbasierte Empfehlung für einen zonierten Feuerschutz
 
 In den Hinweisen [Creating Wildfire-Defensible Spaces
