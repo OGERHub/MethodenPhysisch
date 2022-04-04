@@ -18,7 +18,7 @@ Aktuell erfahren wir solche Unsicherheiten im Kontext der Berichterstattung zur 
  
 
 ## Benötigte Lernmaterialien
-* [IPPC-Sachbericht Klimawandel (2021) Naturwissenschaftliche Grundlagen]( https://www.de-ipcc.de/media/content/AR6-WGI-SPM_de.pdf)
+* [IPPC-Sachbericht Klimawandel (2021) Naturwissenschaftliche Grundlagen](https://www.de-ipcc.de/media/content/AR6-WGI-SPM_deutsch_nicht-barrierefrei.pdf)
 
 Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen).
 {: .notice--danger}
