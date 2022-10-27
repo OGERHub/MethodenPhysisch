@@ -38,7 +38,7 @@ Am Ende dieses Moduls können Sie
 ## Kursmerkmale
 Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eignet sich in gewissem Maße aber auch zum Selbststudium.
 
-Studierende, die den Kurs im Wintersemester 21/22 besuchen, finden alle notwendigen Informationen im Bereich [How-to MeKo]({{ site.baseurl }}{% link _unit00/unit00-02_learning.md %}) auf dieser Webseiten oder im geschlossenen [Kursbereich der Ilias-Lernplattform](https://ilias.uni-marburg.de/goto.php?target=crs_2588288).
+Studierende, die den Kurs besuchen, finden alle notwendigen Informationen im Bereich [How-to MeKo]({{ site.baseurl }}{% link _unit00/unit00-02_learning.md %}) auf dieser Webseiten oder im geschlossenen [Kursbereich der Ilias-Lernplattform](https://ilias.uni-marburg.de/goto.php?target=crs_3045703).
 {: .notice--info}
 
 
@@ -46,7 +46,7 @@ Studierende, die den Kurs im Wintersemester 21/22 besuchen, finden alle notwendi
 
 In jeder der sechs Kurseinheiten werden mehrere Aufgaben gestellt. Es gibt Übungs- und Prüfungsaufgaben. Die Bearbeitung der Prüfungsaufgaben setzt immer auch die Bearbeitung der Übungsaufgaben voraus. Die Studienleistung gilt als bestanden, wenn  die frist- und formgerechte Abgabe der Übungsergebnisse vorliegt.  Details zur Abgabe von Aufgaben finden Sie im Bereich [How-to MeKo]({{ site.baseurl }}{% link _unit00/unit00-02_learning.md %}) auf dieser Webseiten.
 
-Die Prüfungsaufgaben sind gesammelt bis zum 03.Februar abzugeben. 
+Die Prüfungsaufgaben sind gesammelt bis zum 16.Februar abzugeben. 
 
 Die Studienleistung ist in Dreierteams zu erbringen. Die Prüfungsleistung kann, muss aber nicht, individuell erbracht werden.
 
@@ -69,9 +69,9 @@ In einer durchschnittlichen Arbeitswoche sollten Sie 10-12 Stunden für den Kurs
 
 
 ## Kurszeiten
-**Kurszeiten**: Donnerstags (ungerade Wochen), 10:15-11:45 oder 12:15-13:45
+**Kurszeiten**: Donnerstags, 10:15-11:45 
 
-**Tutorium**: Donnerstags (gerade Wochen), 10:00-10:45 | 11:00-11:45 | 12:15-13:00 | 13:15-14:45
+**Sprechstunden**: Donnerstags, 13:00-15:00 
 
 {% include figure image_path="/assets/images/Verlaufsübersicht.png" %}
 
