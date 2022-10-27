@@ -1,7 +1,7 @@
 # /_data/authors.yml
 - ziegler:
   name             : "Alice Ziegler"
-  avatar           : "/assets/images/ammoneit.jpg"
+  avatar           : "/assets/images/ziegler.jpg"
   email            : "ziegler5@uni-marburg.de"
 - reudenbach:
   name             : "Chris Reudenbach"
