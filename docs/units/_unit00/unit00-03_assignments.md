@@ -8,19 +8,19 @@ header:
 
 ## Studienleistung
 
-Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für Ihre Studienleistung. Es müssen alle Aufgaben im [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/ilias.php?ref_id=2344948&ass_id=35893&cmd=showOverview&cmdClass=ilobjexercisegui&cmdNode=b3:ms&baseClass=ilExerciseHandlerGUI) innerhalb des dort angegeben Zeitraums und den [formalen Anforderungen](#formale-anforderungen) entsprechend abgegeben werden. Die Studienleistung ist in maximal Dreierteams zu erbringen.
+Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für Ihre Studienleistung. Es müssen alle Aufgaben im [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=3045703&cmd=showOverview) innerhalb des dort angegeben Zeitraums und den [formalen Anforderungen](#formale-anforderungen) entsprechend abgegeben werden. Die Studienleistung ist in maximal Dreierteams zu erbringen.
 
 
 ### <a name="formale-anforderungen"></a>Formale Anforderungen
 Die Übungsaufgaben innerhalb einer Kurseinheit geben Sie bitte immer alle zusammen in einer PDF-Datei ab. Benennen Sie die PDF-Datei wie folgt:
 
-```Unit<XX>_<Nachname1>_<Nachname2>_<Nachname3>.pdf ``` (z.B. Unit01\_Ammoneit\_Peter\_Reudenbach.pdf)
+```Aufgabe_<X>_<Nachname1>_<Nachname2>_<Nachname3>.pdf ``` (z.B. Aufgabe_1\_Reudenbach\_Ziegler\_Rumpelstilz.pdf)
 
 Für die Bearbeitung der Aufgabe werden Sie ggf. mehr als eine Software benötigen. Manchmal sind auch Handskizzen erforderlich. Letztere können Sie z.B. mit der Kamera Ihres Smartphones abfotografieren und in die Abgabedatei einfügen.
 
 Verwenden Sie zur Zusammenstellung der Abgabedatei immer ein Textverarbeitungsprogramm wie z.B. Microsoft Word, ONLYOFFICE oder OpenOffice unabhängig davon wie Sie die Lösungen zu den einzelnen Aufgaben erstellt haben (Grafik aus Tabellenkalkulation, Foto einer händischen Kartenskizze etc.). Beginnen Sie für jede Aufgabe eine neue Seite und fügen Sie die Aufgabennummer als formatierte Überschrift ein. Die Aufgabennummer muss dem Schema
 
-```Aufgabe XX-YY: Nachname1, Nachname2, Nachname3``` (z.B. Aufgabe 01-01: Ammoneit, Peter, Reudenbach) folgen.
+```Aufgabe_X-Y: Nachname1, Nachname2, Nachname3``` (z.B. Aufgabe 1-1: Reudenbach, Zeigler, Rumpelstilz) folgen.
 
 Stellen Sie bitte sicher, dass diese Überschrift auch tatsächlich technisch (Formatvorlage) als Überschrift definiert ist und nicht nur größer oder fetter dargestellt wird. Dies sorgt für eine konsistente Semantik und verbessert damit die Maschinenlesbarkeit und Navigation in Ihrem finalen Dokument.
 
@@ -31,22 +31,22 @@ Wenn Sie für die Beantwortung von Fragen Quellen nutzen, dann geben Sie diese b
 Wenn Sie die Bearbeitung der Übungsaufgabe abgeschlossen haben, speichern Sie das Dokument als PDF-Datei und laden nur diese Version in ILIAS hoch. 
 
 **Kurzfassung:** 
-* Geben Sie die exakte Anzahl an geforderten Seiten ab
-* Erstellen Sie keine zusätzlichen Seiten
-* Reichen Sie alle Seiten der NP Aufgaben gebündelt als **ein** Dokument ein
+* Geben Sie die exakte Anzahl an geforderten Seiten ab (auch wenn diese Seite leer bleibt)
+* Erstellen Sie **keine zusätzlichen** Seiten
+* Reichen Sie alle Seiten der Aufgaben gebündelt als **ein** Dokument ein
 {: .notice--success}
 
 ## Bestehen der Studienleistung
-Die Studienleistung gilt als bestanden, wenn Ihre Gruppe in jeder Einheit eine Einreichung erbacht hat. 
+Die Studienleistung gilt als bestanden, wenn Ihre Gruppe in jeder Einheit eine Einreichung erbacht hat und davon mindestens drei formal korrekt sind. 
 
 
 ## Prüfungsleistung
-Am Ende jeder Lerneinheit finden Sie Prüfungsaufgaben (P). Für die Erarbeitung der Prüfungsaufgaben haben Sie bis zum 03. Februar Zeit. Bitte reichen Sie die Prüfungsaufgaben aller Lerneinheiten am Ende des Moduls gebündelt ein. Sie können die Prüfung entweder als Gruppen- oder als Einzelarbeit erbringen. 
+Am Ende jeder Lerneinheit finden Sie Prüfungsaufgaben (P). Für die Erarbeitung der Prüfungsaufgaben haben Sie bis zum 16. Februar Zeit. Bitte reichen Sie die Prüfungsaufgaben aller Lerneinheiten am Ende des Moduls gebündelt gemäß obiger formaler Vorgaben ein. Sie können die Prüfung entweder als Gruppen- oder als Einzelarbeit erbringen. 
 
 
 ## Nachprüfungsleistung 
 
-Am Ende jeder Lerneinheit finden Sie die Nachprüfungsaufgaben (NP). Für die Bearbeitung der Nachprüfungsaufgaben haben Sie bis zum **14. Februar, 22.00 Uhr** Zeit. Sie können die Nachprüfung entweder als Gruppen- oder als Einzelarbeit erbringen. 
+Bei Nichtbestehen der Prüfungsleistung werden in den Lerneinheiten  Nachprüfungsaufgaben (NP) freigeschaltet. Für die Bearbeitung der Nachprüfungsaufgaben wird der Zeitslot rechzeitig bekannt gegeben. Sie können die Nachprüfung entweder als Gruppen- oder als Einzelarbeit erbringen. 
 
 
 Für die Abgabe der Nachprüfungsaufgaben gelten die identischen Formalia wie für die Studien- und Prüfungsleistung.
