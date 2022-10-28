@@ -59,7 +59,7 @@ Jede Kurseinheit ist auf einen Zeitraum von drei Wochen ausgelegt und besteht au
 
 Entsprecehn der Berechnung von ECTS Punkten sollten Sie in einer durchschnittlichen Arbeitswoche 10-12 Stunden für den Kurs kalkulieren. Eine mögliche Strukturierung könnte wie folgt aussehen:
 
-* (Digitale) Präsenz: 2 Stunden jede Woche
+* Präsenz: 2 Stunden jede Woche
   * Der Kurs findet jede zweite Woche als 90 minütige Sitzung statt - Anwesenheit oder Nacharbeit ist erforderlich für das Verständnis
   * Optional kann jede zweite Woche an einem 45 minütigen Tutorium teilgenommen werden - hier werden die aktuellen Aufgaben vertieft.
 * Studium außerhalb der Präsenz: 8-10 Stunden pro Woche
