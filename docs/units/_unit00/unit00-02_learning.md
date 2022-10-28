@@ -18,9 +18,9 @@ Ergänzend gibt es noch einen geschlossenen [Kursbereich auf ILIAS](https://ilia
 
 ## Flexibles eigenverantwortliches Lernen in hybrider Arbeitsumgebung
 
-* Jede dritte Woche starten wir mit einer neuen Kurseinheit. Für diese finden Sie neue Lernmaterialien und neue Aufgaben auf dieser Webseite. Sie arbeiten sich innerhalb Ihres Dreierteams in die Aufgaben ein und diskutieren aufkommende Fragen mit einer Gruppe von Kommilitoninnen. Fragen, die sich innerhalb der Gruppe nicht klären lassen, werden im Präsenztermin "Fragen und Antworten"  thematisiert. Für die Bearbeitung der Aufgaben, die die Grundlage Ihrer Studienleistung sind, haben Sie anschließend weitere 10 Tage bis am jeweils Dienstags in der dritten Woche um 20:00 Uhr Zeit. Sie fertigen die Abgabe in Ihrem Dreierteam an und reichen eine Bearbeitung pro Team ein. Alle Termine sind auf Ilias eingetragen und verfügbar.
+Jede dritte Woche starten wir mit einer neuen Kurseinheit. Für diese finden Sie neue Lernmaterialien und neue Aufgaben auf dieser Webseite. Sie arbeiten sich innerhalb Ihres Dreierteams in die Aufgaben ein und diskutieren aufkommende Fragen mit einer Gruppe von Kommilitoninnen. Fragen, die sich innerhalb der Gruppe nicht klären lassen, werden im Präsenztermin "Fragen und Antworten"  thematisiert. Für die Bearbeitung der Aufgaben, die die Grundlage Ihrer Studienleistung sind, haben Sie anschließend weitere 10 Tage bis am jeweils Dienstags in der dritten Woche um 20:00 Uhr Zeit. Sie fertigen die Abgabe in Ihrem Dreierteam an und reichen eine Bearbeitung pro Team ein. Alle Termine sind auf Ilias eingetragen und verfügbar.
 
-Abgesehen von diesen Fristen, können Sie sich Ihr Lernen und die Bearbeitung der Aufgaben frei einteilen. Weitere Informationen zur Studienleistung finden Sie [hier]({{ site.baseurl }}{% link _unit00/unit00-03_assignments.md %}))
+Abgesehen von diesen Fristen, können Sie sich Ihr Lernen und die Bearbeitung der Aufgaben frei einteilen. Weitere Informationen zur Studien- und Prüfungsleistung finden Sie unter [Studien- & Prüfungsleistung]({{ site.baseurl }}{% link _unit00/unit00-03_assignments.md %}))
 
 Zusätzlich zur Bereitstellung von Materialien auf dieser Webseite treffen wir uns wöchentlich in einer Präsenzveranstaltung die gestreamt wird.
 
