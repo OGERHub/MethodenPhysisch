@@ -14,10 +14,18 @@ permalink: /unit00/unit00-04_faq.html
 * Es gibt nur einen einzigen Kalender für die Sprechstunden (Dr. Christoph Reudenbach), die Termine können aber mit allen Lehrenden des Kurses stattfinden. 
 * Hinweis: Falls Sie die Termine nicht sehen sollten, stellen Sie bitte sicher, dass der Haken beim entsprechenden Sprechstunden-Kalender gesetzt ist und Sie die Auswahl aktualisiert haben. 
 
-{% include image name="/assets/images/Sprechstunde_1.jpg" caption="Sharing my blog on LinkedIn" %}
 ![Zugriff auf die Sprechstunden](/assets/images/Sprechstunde_1.jpg)
+
 ![Anzeigen der Sprechstunden und Buchung eines Termins](/assets/images/Sprechstunde_2.jpg)
 
+**Wie muss ich meine Aufgaben abgeben?** 
+Hier eine Beispielaufgabe: 
+Übung 00-1: Als was wurde das Carolinenhaus früher genutzt? (Umfang: 1 Seite in Ihrem PDF-Dokument)
+Übung 00-2: Welche Möglichkeiten gibt es sich bei der Fachschaft zu engagieren? (Umfang: 2 Seiten in Ihrem PDF-Dokument)
+Übung 00-3: Warum haben Sie sich entschieden Geographie in Marburg zu studieren? (Umfang: 3 Seiten in Ihrem PDF-Dokument)
+
+Und hier eine formal korrekte Beispielabgabe: 
+![Aufgabe_00_Reudenbach_Ziegler.pdf](/assets/pdfs/Aufgabe_00_Reudenbach_Ziegler.pdf)
 
 **Wie finde ich ein Team?**
   * im Ilias Buchungstool können Sie sich einem Dreierteam zuordnen.
