@@ -14,7 +14,7 @@ Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für 
 ### <a name="formale-anforderungen"></a>Formale Anforderungen
 Die Übungsaufgaben innerhalb einer Kurseinheit geben Sie bitte immer alle zusammen in einer PDF-Datei ab. Benennen Sie die PDF-Datei wie folgt:
 
-```Aufgabe_<XX>_<Nachname1>_<Nachname2>pdf ``` 
+`Aufgabe_<XX>_<Nachname1>_<Nachname2>pdf`
 
 Als Beispiel würde der Dateiname wie folgt ausschauen:
 
@@ -24,15 +24,15 @@ Für die Bearbeitung der Aufgabe werden Sie ggf. mehr als eine Software benötig
 
 Verwenden Sie zur Zusammenstellung der Abgabedatei immer ein Textverarbeitungsprogramm wie z.B. Microsoft Word, ONLYOFFICE oder OpenOffice unabhängig davon wie Sie die Lösungen zu den einzelnen Aufgaben erstellt haben (Grafik aus Tabellenkalkulation, Foto einer händischen Kartenskizze etc.). Beginnen Sie für jede Aufgabe eine neue Seite und fügen Sie die Aufgabennummer als formatierte Überschrift ein. Die Aufgabennummer muss dem Schema
 
-```Aufgabe_XX-Y: Nachname1 (Matrikelnummer Nachname1), Nachname2 (Matrikelnummer Nachname2)``` 
+`Aufgabe_XX-Y: Nachname1 (Matrikelnummer Nachname1), Nachname2 (Matrikelnummer Nachname2)`
 
-Als Beispiel würde die Kopfzeile dann wie folgt ausschauen: 
+Als Beispiel würde die Kopfzeile dann wie folgt ausschauen:
 
 `Aufgabe 01-1: Reudenbach (1234567890), Ziegler (1234567891)`
 
 Stellen Sie bitte sicher, dass diese Überschrift auch tatsächlich technisch (Formatvorlage) als Überschrift definiert ist und nicht nur größer oder fetter dargestellt wird. Dies sorgt für eine konsistente Semantik und verbessert damit die Maschinenlesbarkeit und Navigation in Ihrem finalen Dokument.
 
-Für jede Aufgabe ist in der Aufgabenstellung der Seitenumfang angegeben. Erstellen Sie für die jeweilige Aufgabe **exakt** diese Anzahl an Seiten, das gilt **auch**, wenn die Seiten nicht ganz voll oder gänzlich leer (z.B. wegen Nichtbearbeitung) sind. 
+Für jede Aufgabe ist in der Aufgabenstellung der Seitenumfang angegeben. Erstellen Sie für die jeweilige Aufgabe **exakt** diese Anzahl an Seiten, das gilt **auch**, wenn die Seiten nicht ganz voll oder gänzlich leer (z.B. wegen Nichtbearbeitung) sind.
 
 Also auch, wenn Sie eine Aufgabe **nicht** bearbeiten, fügen Sie bitte dennoch die entsprechende Überschrift der Aufgabe ein und lassen Sie die angegebenen Anzahl an Seiten frei bevor Sie die nächste Aufgabe anfügen.
 {: .notice--info}
@@ -44,29 +44,29 @@ Wenn Sie die Bearbeitung der Übungsaufgabe abgeschlossen haben, speichern Sie d
 Als gültige Einreichung werden ausschliesslich PDF Dateien akzeptiert.
 {: .notice--info}
 
-**Kurzfassung:** 
+**Kurzfassung:**
 * Geben Sie die **exakte** Anzahl an geforderten Seiten ab (auch wenn diese Seite leer bleibt)
 * Erstellen Sie **keine** zusätzlichen Seiten
 * Reichen Sie alle Seiten der Aufgaben gebündelt als **ein** PDF-Dokument ein
 {: .notice--success}
 
 ## Bestehen der Studienleistung
-Die Studienleistung gilt als bestanden, wenn Ihre Gruppe in jeder Einheit eine Einreichung erbacht hat und davon mindestens drei Einreichungen formal korrekt sind. 
+Die Studienleistung gilt als bestanden, wenn Ihre Gruppe in jeder Einheit eine Einreichung erbacht hat und davon mindestens drei Einreichungen formal korrekt sind.
 
 
 ## Prüfungsleistung
-Am Ende jeder Lerneinheit finden Sie Prüfungsaufgaben (P). Für die Erarbeitung der Prüfungsaufgaben haben Sie bis zum 16. Februar Zeit. Bitte reichen Sie die Prüfungsaufgaben aller Lerneinheiten am Ende des Moduls gebündelt gemäß obiger formaler Vorgaben ein. Sie können die Prüfung entweder als Gruppen- oder als Einzelarbeit erbringen. 
+Am Ende jeder Lerneinheit finden Sie Prüfungsaufgaben (P). Für die Erarbeitung der Prüfungsaufgaben haben Sie bis zum 16. Februar Zeit. Bitte reichen Sie die Prüfungsaufgaben aller Lerneinheiten am Ende des Moduls gebündelt gemäß obiger formaler Vorgaben ein. Sie können die Prüfung entweder als Gruppen- oder als Einzelarbeit erbringen.
 
-Die Prüfungsleistung gilt als bestanden, wenn Sie/ihr Team eine formal gültige Einreichung erbacht haben und diese inhaltlich mit mindestens 5 Notenpunkten bewertet wurde. 
+Die Prüfungsleistung gilt als bestanden, wenn Sie/ihr Team eine formal gültige Einreichung erbacht haben und diese inhaltlich mit mindestens 5 Notenpunkten bewertet wurde.
 
 Für die Abgabe der Prüfungsaufgaben gelten die identischen Formalia wie für die Studien- und Prüfungsleistung.
 {: .notice--info}
 
-## Nachprüfungsleistung 
+## Nachprüfungsleistung
 
-Bei Nichtbestehen der Prüfungsleistung werden in den Lerneinheiten  Nachprüfungsaufgaben (NP) freigeschaltet. Für die Bearbeitung der Nachprüfungsaufgaben wird der Zeitslot rechzeitig bekannt gegeben. 
+Bei Nichtbestehen der Prüfungsleistung werden in den Lerneinheiten  Nachprüfungsaufgaben (NP) freigeschaltet. Für die Bearbeitung der Nachprüfungsaufgaben wird der Zeitslot rechzeitig bekannt gegeben.
 
-Die Nachprüfungsleistung gilt als bestanden, wenn Sie/ihr Team eine formal gültige Einreichung erbacht haben und diese inhaltlich mit mindestens 5 Notenpunkten bewertet wurde. 
+Die Nachprüfungsleistung gilt als bestanden, wenn Sie/ihr Team eine formal gültige Einreichung erbacht haben und diese inhaltlich mit mindestens 5 Notenpunkten bewertet wurde.
 
 Für die Abgabe der Nachprüfungsaufgaben gelten die identischen Formalia wie für die Studien- und Prüfungsleistung.
 {: .notice--info}
