@@ -61,7 +61,7 @@ Bei allen Aufgaben steht es Ihnen frei mit welcher Hardware & Software Sie arbei
 Sie sollten jedoch bedenken dass Smartphones und Tablets keine adäquaten Arbeitsgeräte für das das Bearbeiten von Daten und Medien im Ausbildungskontext der Geogaphie darstellen. 
 {: .notice--info}
 
-Sie können sich auf der [Beratungs-Landing-Page](https://www.uni-marburg.de/de/hrz/hilfe-beratung/anlaufstellen) des Hochschulrechenzentrum Marburg (HRZ) über das Schulungs und Beratungsangebot informieren und entsprechend auch Unterstützung einholen.
+Sie können sich auf der [Beratungs-Landing-Page](https://www.uni-marburg.de/de/hrz/hilfe-beratung) des Hochschulrechenzentrum Marburg (HRZ) über das Schulungs- und Beratungsangebot informieren und entsprechend auch Unterstützung einholen.
  
 
 <!--more-->
