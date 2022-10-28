@@ -6,7 +6,7 @@ header:
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'  
 ---
 
-Im Folgenden beginnen wir alle drei Wochen mit einer neuen thematischen Kurseinheit mit Videos und Texten und einer Inputveranstaltung und schließen sie mit Aufgaben ab. Diese gelten als Studienleistung. Wir treffen uns jede darauffolende Woche am Donnerstag von 10:15-11:45 zur Diskussion von offenen Fragen und in der dritten Woche zur Besprechung der Ergebnisse. Die Veranstaltungen werden gestreamt jedoch nicht aufgezeichnet. Es gibt in jeder Woche Sprechstundenslots, zu denen Sie sich im Ilias-Kurs anmelden können. 
+Der Kursaufbau ist in dreiwöchige thematische Kurseinheit Gegliedert. Online sind Videos und Texte sowie MAterielien und Aufgabenstellung verfügbar. Der Präsenzteil findet wöchentlich Donnerstags von 10:15-11:45 statt. Ein thematischer Block besteht aus Präsenzsitzungen zu: Input, Fragen & Antworten sowie Reflexion und Feedback. Die Veranstaltungen werden gestreamt jedoch nicht aufgezeichnet. Es gibt in jeder Woche Sprechstundenslots, zu denen Sie sich im Ilias-Kurs anmelden können. 
 
 <!--more-->
 
