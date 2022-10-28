@@ -49,8 +49,7 @@ In jeder der vier Kurseinheiten werden Aufgaben gestellt. Es gibt Übungs- und P
 Details zur Abgabe von Aufgaben finden Sie im Bereich [How-to MeKo]({{ site.baseurl }}{% link _unit00/unit00-02_learning.md %}).
 {: .notice--info}
 
-Die Studienleistung ist in Dreierteams zu erbringen. Die Prüfungsleistung kann, muss aber nicht, individuell erbracht werden.
-{: .notice--danger}
+
 
 
 
