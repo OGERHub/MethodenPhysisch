@@ -28,6 +28,13 @@ Kurzfristige Änderungen z.B. des Webkonferenzraums können immer auftreten. Die
 
 Wöchentlich werden Sprechstundentermine angeboten, die Raum zur spezifischen Fragestellunen mit Bezug zur jeweiligen Aufgabenstellung bieten. Bitte buchen Sie sich in Ilias zu den Sprechstundenterminen ein. 
 
+### Arbeits-Teams
+
+Wir wünschen uns, dass ie sich grundsätzlich zu Dreiergruppen zusammenfinden, die bis zum Ende des Kurses bestehen bleiben. Im ILIAS können Sie unter ‘Reservierungen’ die Students-Account Ihrer Gruppenmitglieder einsehen. Kombiniert mit "@students.uni-marburg.de" ergeben sich daraus die E-Mail-Adressen in Ihrer Gruppe, so dass Sie sich im digitalen Raum verabreden können, z.B. innerhalb oder außerhalb von ILIAS mit Mail, Messengern, Chats oder Videokonferenzen. Die Aufgaben bearbeiten Sie dann zu dritt und geben sie auch zu dritt ab. 
+
+
+
+
 
 ## Übersicht über Kommunikationsformen
 
@@ -49,11 +56,5 @@ Sie erreichen uns unter:
 {% endfor %}
 
 Wir erreichen Sie unter Ihrer **Students-E-Mail**. 
-
-
-### Dreiergruppen
-
-Wir wünschen uns, dass ie sich grundsätzlich zu Dreiergruppen zusammenfinden, die bis zum Ende des Kurses bestehen bleiben. Im ILIAS können Sie unter ‘Reservierungen’ die Students-Account Ihrer Gruppenmitglieder einsehen. Kombiniert mit "@students.uni-marburg.de" ergeben sich daraus die E-Mail-Adressen in Ihrer Gruppe, so dass Sie sich im digitalen Raum verabreden können, z.B. innerhalb oder außerhalb von ILIAS mit Mail, Messengern, Chats oder Videokonferenzen. Die Aufgaben bearbeiten Sie dann zu dritt und geben sie auch zu dritt ab. 
-
 
 
