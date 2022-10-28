@@ -14,27 +14,35 @@ Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für 
 ### <a name="formale-anforderungen"></a>Formale Anforderungen
 Die Übungsaufgaben innerhalb einer Kurseinheit geben Sie bitte immer alle zusammen in einer PDF-Datei ab. Benennen Sie die PDF-Datei wie folgt:
 
-```Aufgabe_<XX>_<Nachname1>_<Nachname2>_<Nachname3>.pdf ``` (z.B. Aufgabe_1\_Reudenbach\_Ziegler\_Rumpelstilz.pdf)
+```Aufgabe_<XX>_<Nachname1>_<Nachname2>pdf ``` 
+
+Als Beispiel würde der Dateiname wie folgt ausschauen:
+
+`Aufgabe_01_Reudenbach_Ziegler.pdf`
 
 Für die Bearbeitung der Aufgabe werden Sie ggf. mehr als eine Software benötigen. Manchmal sind auch Handskizzen erforderlich. Letztere können Sie z.B. mit der Kamera Ihres Smartphones abfotografieren und in die Abgabedatei einfügen.
 
 Verwenden Sie zur Zusammenstellung der Abgabedatei immer ein Textverarbeitungsprogramm wie z.B. Microsoft Word, ONLYOFFICE oder OpenOffice unabhängig davon wie Sie die Lösungen zu den einzelnen Aufgaben erstellt haben (Grafik aus Tabellenkalkulation, Foto einer händischen Kartenskizze etc.). Beginnen Sie für jede Aufgabe eine neue Seite und fügen Sie die Aufgabennummer als formatierte Überschrift ein. Die Aufgabennummer muss dem Schema
 
-```Aufgabe_XX-Y: Nachname1 (Matrikelnummer Nachname1), Nachname2 (Matrikelnummer Nachname2), Nachname3 (Matrikelnummer Nachname3)``` (z.B. Aufgabe 1-1: Reudenbach (1234567890), Ziegler (1234567891), Rumpelstilz (000000000)) folgen.
+```Aufgabe_XX-Y: Nachname1 (Matrikelnummer Nachname1), Nachname2 (Matrikelnummer Nachname2)``` 
+
+Als Beispiel würde die Kopfzeile dann wie folgt ausschauen: 
+
+`Aufgabe 01-1: Reudenbach (1234567890), Ziegler (1234567891)`
 
 Stellen Sie bitte sicher, dass diese Überschrift auch tatsächlich technisch (Formatvorlage) als Überschrift definiert ist und nicht nur größer oder fetter dargestellt wird. Dies sorgt für eine konsistente Semantik und verbessert damit die Maschinenlesbarkeit und Navigation in Ihrem finalen Dokument.
 
 Für jede Aufgabe ist in der Aufgabenstellung der Seitenumfang angegeben. Erstellen Sie für die jeweilige Aufgabe **exakt** diese Anzahl an Seiten, das gilt **auch**, wenn die Seiten nicht ganz voll oder gänzlich leer (z.B. wegen Nichtbearbeitung) sind. 
 
 Also auch, wenn Sie eine Aufgabe **nicht** bearbeiten, fügen Sie bitte dennoch die entsprechende Überschrift der Aufgabe ein und lassen Sie die angegebenen Anzahl an Seiten frei bevor Sie die nächste Aufgabe anfügen.
-{: .notice--danger}
+{: .notice--info}
 
 Wenn Sie für die Beantwortung von Fragen Quellen nutzen, dann geben Sie diese bitte direkt innerhalb der Aufgabe und **nicht** in einem separaten Quellenverzeichnis an.
 
 Wenn Sie die Bearbeitung der Übungsaufgabe abgeschlossen haben, speichern Sie das Dokument als PDF-Datei und laden nur diese PDF-Datei in ILIAS hoch.  
 
 Als gültige Einreichung werden ausschliesslich PDF Dateien akzeptiert.
-{: .notice--danger}
+{: .notice--info}
 
 **Kurzfassung:** 
 * Geben Sie die **exakte** Anzahl an geforderten Seiten ab (auch wenn diese Seite leer bleibt)
