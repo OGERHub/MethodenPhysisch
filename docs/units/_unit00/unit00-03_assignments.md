@@ -14,7 +14,7 @@ Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für 
 ### <a name="formale-anforderungen"></a>Formale Anforderungen
 Die Übungsaufgaben innerhalb einer Kurseinheit geben Sie bitte immer alle zusammen in einer PDF-Datei ab. Benennen Sie die PDF-Datei wie folgt:
 
-`Aufgabe_<XX>_<Nachname1>_<Nachname2>pdf`
+`Aufgabe_<XX>_<Nachname1>_<Nachname2>.pdf`
 
 Als Beispiel würde der Dateiname wie folgt ausschauen:
 
@@ -24,9 +24,9 @@ Für die Bearbeitung der Aufgabe werden Sie ggf. mehr als eine Software benötig
 
 Verwenden Sie zur Zusammenstellung der Abgabedatei immer ein Textverarbeitungsprogramm wie z.B. Microsoft Word, ONLYOFFICE oder OpenOffice unabhängig davon wie Sie die Lösungen zu den einzelnen Aufgaben erstellt haben (Grafik aus Tabellenkalkulation, Foto einer händischen Kartenskizze etc.). Beginnen Sie für jede Aufgabe eine neue Seite und fügen Sie die Aufgabennummer als formatierte Überschrift ein. Die Aufgabennummer muss dem Schema
 
-`Aufgabe_XX-Y: Nachname1 (Matrikelnummer Nachname1), Nachname2 (Matrikelnummer Nachname2)`
+`Aufgabe_XX-Y: Nachname1 (Matrikelnummer1), Nachname2 (Matrikelnummer2)`
 
-Als Beispiel würde die Kopfzeile dann wie folgt ausschauen:
+Als Beispiel würde die Überschrift dann wie folgt ausschauen:
 
 `Aufgabe 01-1: Reudenbach (1234567890), Ziegler (1234567891)`
 
