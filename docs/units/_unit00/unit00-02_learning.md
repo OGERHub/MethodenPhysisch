@@ -30,7 +30,7 @@ Wöchentlich werden Sprechstundentermine angeboten, die Raum zur spezifischen Fr
 
 ### Arbeitsteams
 
-Wir wünschen uns, dass Sie sich grundsätzlich zu Dreiergruppen zusammenfinden, die optimalerweise bis zum Ende des Kurses bestehen bleiben. In ILIAS können Sie unter `Reservierungen` die Students-Account-Namen Ihrer Gruppenmitglieder einsehen. Kombiniert mit `@students.uni-marburg.de` ergeben sich daraus die E-Mail-Adressen in der Kommiliton\*innen Ihrer Gruppe. Kontaktieren Sie Ihre Kolleg\*innen, z.B. in der Realwelt, innerhalb oder außerhalb von ILIA, via Mail, Messengern, Chats oder Videokonferenzen. Die Aufgaben bearbeiten Sie dann selbstorganisiert in der Gruppe und reichen diese auch als Gruppe ein. 
+Wir wünschen uns, dass Sie sich grundsätzlich zu Dreiergruppen zusammenfinden, die optimalerweise bis zum Ende des Kurses bestehen bleiben. In ILIAS können Sie unter `Reservierungen` die Students-Account-Namen Ihrer Gruppenmitglieder einsehen. Kombiniert mit `@students.uni-marburg.de` ergeben sich daraus die E-Mail-Adressen der Kommiliton\*innen Ihrer Gruppe. Kontaktieren Sie Ihre Kolleg\*innen, z.B. in der Realwelt, innerhalb oder außerhalb von ILIA, via Mail, Messengern, Chats oder Videokonferenzen. Die Aufgaben bearbeiten Sie dann selbstorganisiert in der Gruppe und reichen diese auch als Gruppe ein. 
 
 
 
