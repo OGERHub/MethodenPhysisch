@@ -41,14 +41,9 @@ Wenn Sie für die Beantwortung von Fragen Quellen nutzen, dann geben Sie diese b
 
 Wenn Sie die Bearbeitung der Übungsaufgabe abgeschlossen haben, speichern Sie das Dokument als PDF-Datei und laden nur diese PDF-Datei in ILIAS hoch.  
 
-Als gültige Einreichung werden ausschliesslich PDF Dateien akzeptiert.
+Für jede Aufgabe ist **eine** PDF-Datei mit der korrekten Seitenzahl einzureichen. Einzelne Dateien für die Teilaufgaben bzw. andere Formate gelten als formal inkorrekt.
 {: .notice--info}
 
-**Kurzfassung:**
-* Geben Sie die **exakte** Anzahl an geforderten Seiten ab (auch wenn diese Seite leer bleibt)
-* Erstellen Sie **keine** zusätzlichen Seiten
-* Reichen Sie alle Seiten der Aufgaben gebündelt als **ein** PDF-Dokument ein
-{: .notice--success}
 
 ## Bestehen der Studienleistung
 Die Studienleistung gilt als bestanden, wenn Ihre Gruppe in jeder Einheit eine Einreichung erbacht hat und davon mindestens drei Einreichungen formal korrekt sind.
