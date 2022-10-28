@@ -1,5 +1,5 @@
 ---
-title: Digitales Lernen auf Distanz
+title: Formale Grundlagen 
 toc: true
 header:
   image: "/assets/images/00-unit-splash.jpg"
