@@ -57,11 +57,10 @@ Details zur Abgabe von Aufgaben finden Sie im Bereich [How-to MeKo]({{ site.base
 
 Jede Kurseinheit ist auf einen Zeitraum von drei Wochen ausgelegt und besteht aus einem Lern- und einem Übungsteil. Die Übungsphase wird durch ein Fragen und Antworten Sitzungen bzw. Sprechstunden begleitet. Die abgegebenen Aufgaben werden in der nachfolgenden Kurseinheit in einer eigenen Sitzung nachbereitet.
 
-Entsprecehn der Berechnung von ECTS Punkten sollten Sie in einer durchschnittlichen Arbeitswoche 10-12 Stunden für den Kurs kalkulieren. Eine mögliche Strukturierung könnte wie folgt aussehen:
+Entsprechend der Berechnung von ECTS Punkten sollten Sie in einer durchschnittlichen Arbeitswoche 10-12 Stunden für den Kurs kalkulieren. Eine mögliche Strukturierung könnte wie folgt aussehen:
 
 * Präsenz: 2 Stunden jede Woche
   * Der Kurs findet jede zweite Woche als 90 minütige Sitzung statt - Anwesenheit oder Nacharbeit ist erforderlich für das Verständnis
-  * Optional kann jede zweite Woche an einem 45 minütigen Tutorium teilgenommen werden - hier werden die aktuellen Aufgaben vertieft.
 * Studium außerhalb der Präsenz: 8-10 Stunden pro Woche
   * Wöchentliche Arbeitszeiten
   * Wöchentliche Treffen mit Kommiliton:innen
