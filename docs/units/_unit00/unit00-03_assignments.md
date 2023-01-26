@@ -50,7 +50,12 @@ Die Studienleistung gilt als bestanden, wenn Ihre Gruppe in jeder Einheit eine E
 
 
 ## Prüfungsleistung
-Am Ende jeder Lerneinheit finden Sie Prüfungsaufgaben (P). Für die Erarbeitung der Prüfungsaufgaben haben Sie bis zum 16. Februar Zeit. Bitte reichen Sie die Prüfungsaufgaben aller Lerneinheiten am Ende des Moduls gebündelt gemäß obiger formaler Vorgaben ein. Sie können die Prüfung entweder als Gruppen- oder als Einzelarbeit erbringen.
+Am Ende jeder Lerneinheit finden Sie Prüfungsaufgaben (P). Sie können die Prüfung entweder als Gruppen- oder als Einzelarbeit erbringen.
+
+Für die Erarbeitung der Prüfungsaufgaben haben Sie bis zum 16. Februar Zeit. Bitte reichen Sie die Prüfungsaufgaben aller Lerneinheiten am Ende des Moduls gebündelt gemäß obiger formaler Vorgaben ein.
+{: .notice--danger}
+
+
 
 Die Prüfungsleistung gilt als bestanden, wenn Sie/ihr Team eine formal gültige Einreichung erbacht haben und diese inhaltlich mit mindestens 5 Notenpunkten bewertet wurde.
 
