@@ -653,7 +653,7 @@ Der Monitor und die Schieberegler sind wie folgt definiert:
 * _**Prozent verbrannt:**_: Dies ist der Prozentsatz der Wald-Patches am Gesamtwald, die verbrannt sind.
 * _**Wald-Dichte**_: Dies ist die Anteil in Prozent des raeumlich zufaellig generierten Waldes an der Gesamtflaeche.
 * _**Brandschneisen Breite**_: Hier wird die Breite der Brandschneisen eingestellt.
-* _**Feuer-zu-Glut**: Hier wird in Prozent festgelegt, wie lange ein Baum brennt, nachdem er angezuendet wurde und das Feuer bereits auf seine Nachbarbaueme uebergegriffen hat.
+* _**Feuer-zu-Glut**_: Hier wird in Prozent festgelegt, wie lange ein Baum brennt, nachdem er angezuendet wurde und das Feuer bereits auf seine Nachbarbaueme uebergegriffen hat.
 *  _**Wind?**_: Schalter fuer das Aktivieren der Schieberegler von Windrichtung/Windgeschwindigkeitund Wind-Boeigkeit
 *  _**Windrichtung**_: Festlegen der Hauptwindrichtung in Grad
 *  _**Windgeschwindigkeit**_: Festlegen der Windgeschwindigkeit
