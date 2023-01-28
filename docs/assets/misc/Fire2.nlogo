@@ -620,6 +620,7 @@ HORIZONTAL
 @#$#@#$#@
 ## WAS IST DAS?
 Dieses Modell ist eine Erweiterung des von Uri Wilensky entwickelten Feuermodells, das in NetLogos Modellbibliothek enthalten ist. Es simuliert die Ausbreitung eines Feuers in einem Wald definierter Dichte. Zusaetzlich ermoeglicht es die Nutzerschnittstelle dem Benutzer, Feuerschneisen, zusaetzliche aeume und Startpunkte fuer das Feuer hinzuzufuegen.
+
 ## WIE FUNKTIONIERT ES?
 Mit der Schaltflaeche Setup wird ein Zufallsforst mit der angegebenen Dichte (Prozent an der Gesamtflaeche) erstellt.
 Der Benutzer kann manuell an verschiedenen Stellen Braende ausloesen, indem er auf die Schaltflaeche "Waldbrand-Startpunkte" drueckt und dann jeweils an der gewuenschten Stelle auf die Maustaste klickt(Zum Schluss erneut die Schaltflaeche anklicken um den Editier-Modus zu deaktivieren). Alternativ kann der Benutzer das Feuer auch an einer durchgehenden vertikalen Linie auf der linken Seite der Umgebung entzuenden, indem er auf die Schaltflaeche "Waldrandlinie starten"  klickt. Mit der Schaltflaeche "Wald zeichnen" kann ein zusaetzlicher Wald gezeichnet werden, und schliesslich koennen mit der Schaltflaeche "Feuerschneise zeichnen" Feuerschneisen "abgeholzt" werden.
@@ -646,10 +647,10 @@ Die Schaltflaechen der Schnittstelle sind wie folgt definiert:
 **Feuerschneisen entfernen**: Damit werden alle Feuerschneisen, die in der Umgebung gezeichnet wurden, entfernt.
 Der Monitor und die Schieberegler sind wie folgt definiert:
 **Prozent verbrannt**: Dies ist der Prozentsatz der Baeme, die verbrannt sind.
-**Wald-Dichte**: Dies ist die Anteil des räumlich zufaelig generierten Waldes an der Gesamtfläche.
+**Wald-Dichte**: Dies ist die Anteil des raeumlich zufaelig generierten Waldes an der Gesamtflaeche.
 **Feuerschneisen Breite**: Hier wird die Breite der Feuerschneisen eingestellt.
-**Feuer-zu-Glut**: Hier wird in Prozent festgelegt, wie lange ein Baum brennt, nachdem er angezüuedet wurde und das Feuer bereits auf seine Nachbarbaueme üueergegriffen hat.
-**Wind?**: Schalter füue das einschalten von Wind
+**Feuer-zu-Glut**: Hier wird in Prozent festgelegt, wie lange ein Baum brennt, nachdem er angezuendet wurde und das Feuer bereits auf seine Nachbarbaueme uebergegriffen hat.
+**Wind?**: Schalter fuer das einschalten von Wind
 **Windrichtung**: Festlegen der Hauptwindrichtung in Grad
 **Windgeschwindigkeit**: Festlegen der Windgeschwindigkeit
 **Wind-Boeigkeit**: Festlegen der zufaeligen Abweichungvon der Hauptwindrichtung in Grad
@@ -673,18 +674,18 @@ Welche Anordnung von Brandschneisen kann das Feuer am besten eindaemmen.
 
 ## QUELLEN
 Breadth First Search in den Modellen Searching Mazes, Missionaries and Cannibals und Searching von Kevin Bacon.
-Ursprüuegliches Fire-Modell und füue die NetLogo-Software anzugeben: - Wilensky, U. (1997). NetLogo Fire-Modell. http://ccl.northwestern.edu/netlogo/models/Fire. Center for Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, IL. - Wilensky, U. (1999). NetLogo. http://ccl.northwestern.edu/netlogo/. Zentrum füue vernetztes Lernen und computergestüueztes Modellieren, Northwestern University, Evanston, IL.
-In anderen Publikationen bitte verwenden: - Copyright 1997 Uri Wilensky. Alle Rechte vorbehalten. Siehe http://ccl.northwestern.edu/netlogo/models/Fire füue die Nutzungsbestimmungen.
+Urspruengliches Fire-Modell und fuer die NetLogo-Software anzugeben: - Wilensky, U. (1997). NetLogo Fire-Modell. http://ccl.northwestern.edu/netlogo/models/Fire. Center for Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, IL. - Wilensky, U. (1999). NetLogo. http://ccl.northwestern.edu/netlogo/. Zentrum fuer vernetztes Lernen und computergestuetztes Modellieren, Northwestern University, Evanston, IL.
+In anderen Publikationen bitte verwenden: - Copyright 1997 Uri Wilensky. Alle Rechte vorbehalten. Siehe http://ccl.northwestern.edu/netlogo/models/Fire fuer die Nutzungsbestimmungen.
 Erweiterung des Modells wurde von Bill Teahan geschrieben. Um auf dieses Modell in Publikationen zu verweisen, verwenden Sie bitte:
-Firebreak NetLogo-Modell. Teahan, W. J. (2010). Küuestliche Intelligenz. Ventus Publishing Aps
+Firebreak NetLogo-Modell. Teahan, W. J. (2010). Kuenstliche Intelligenz. Ventus Publishing Aps
 Implementierung des Windes und der HAussimulation sowie weitere Anpassungen und Uebersetzung: Rieke Ammoneit, Carina Peter und Chris Reudenbach, Medienkompetenz in der Geographie (2021)
 
 ##  COPYRIGHT-HINWEIS
 Urheberrecht 1997 Uri Wilensky. Alle Rechte vorbehalten.
-Die Erlaubnis, dieses Modell zu verwenden, zu modifizieren oder weiterzugeben, wird hiermit erteilt, vorausgesetzt, dass die beiden folgenden Bedingungen befolgt werden: a) dieser Copyright-Hinweis ist enthalten. b) dieses Modell wird nicht ohne Erlaubnis von Uri Wilensky zu Gewinnzwecken weitergegeben. Wenden Sie sich an Uri Wilensky, um geeignete Lizenzen füue die Weiterverbreitung zu Erwerbszwecken zu erhalten.
-Dieses Modell wurde im Rahmen des Projekts erstellt: CONNECTED MATHEMATICS: MAKING SENSE OF COMPLEX PHENOMENA THROUGH BUILDING OBJECT-BASED PARALLEL MODELS (OBPML). Das Projekt bedankt sich füue die Unterstüuezung durch die National Science Foundation (Applications of Advanced Technologies Program) - Zuschussnummern RED #9552950 und REC #9632612.
+Die Erlaubnis, dieses Modell zu verwenden, zu modifizieren oder weiterzugeben, wird hiermit erteilt, vorausgesetzt, dass die beiden folgenden Bedingungen befolgt werden: a) dieser Copyright-Hinweis ist enthalten. b) dieses Modell wird nicht ohne Erlaubnis von Uri Wilensky zu Gewinnzwecken weitergegeben. Wenden Sie sich an Uri Wilensky, um geeignete Lizenzen fuer die Weiterverbreitung zu Erwerbszwecken zu erhalten.
+Dieses Modell wurde im Rahmen des Projekts erstellt: CONNECTED MATHEMATICS: MAKING SENSE OF COMPLEX PHENOMENA THROUGH BUILDING OBJECT-BASED PARALLEL MODELS (OBPML). Das Projekt bedankt sich fuer die Unterstuetzung durch die National Science Foundation (Applications of Advanced Technologies Program) - Zuschussnummern RED #9552950 und REC #9632612.
 Dieses Modell wurde am MIT Media Lab mit CM StarLogo entwickelt. Siehe Resnick, M. (1994) "Turtles, Termites and Traffic Jams: Explorations in Massively Parallel Microworlds". Cambridge, MA: MIT Press. Angepasst an StarLogoT, 1997, als Teil des Connected Mathematics Project.
-Dieses Modell wurde im Rahmen des Projekts in NetLogo umgewandelt: PARTIZIPATIVE SIMULATIONEN: NETWORK-BASED DESIGN FOR SYSTEMS LEARNING IN CLAssROOMS und/oder INTEGRATED SIMULATION AND MODELING ENVIRONMENT. Das Projekt dankt der National Science Foundation (REPP- und ROLE-Programme) füue ihre Unterstüuezung - Föoederungsnummern REC #9814682 und REC-0126227. Konvertiert von StarLogoT zu NetLogo, 2001.
+Dieses Modell wurde im Rahmen des Projekts in NetLogo umgewandelt: PARTIZIPATIVE SIMULATIONEN: NETWORK-BASED DESIGN FOR SYSTEMS LEARNING IN CLAssROOMS und/oder INTEGRATED SIMULATION AND MODELING ENVIRONMENT. Das Projekt dankt der National Science Foundation (REPP- und ROLE-Programme) fuer ihre Unterstüuezung - Foerderungsnummern REC #9814682 und REC-0126227. Konvertiert von StarLogoT zu NetLogo, 2001.
 @#$#@#$#@
 default
 true
