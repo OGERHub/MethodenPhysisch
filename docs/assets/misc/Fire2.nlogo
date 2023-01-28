@@ -267,7 +267,9 @@ to draw-property
         ]
         display
       ]
+      stop
     ]
+
 end
 
 
@@ -619,53 +621,53 @@ HORIZONTAL
 ## WAS IST DAS?
 Dieses Modell ist eine Erweiterung des von Uri Wilensky entwickelten Feuermodells, das in NetLogos Modellbibliothek enthalten ist. Es simuliert die Ausbreitung eines Feuers in einem Wald definierter Dichte. Zusaetzlich ermoeglicht es die Nutzerschnittstelle dem Benutzer, Feuerschneisen, zusaetzliche aeume und Startpunkte fuer das Feuer hinzuzufuegen.
 ## WIE FUNKTIONIERT ES?
-Mit der Schaltflaeche Setup wird ein Zufallsforst mit der angegebenen Dichte erstellt.
-Der Benutzer kann manuell an verschiedenen Stellen Braende ausloesen, indem er auf die Schaltflaeche "Waldbrand-Startpunkte" drueckt und dann an der gewuenschten Stelle auf die Maustaste klickt. Alternativ kann der Benutzer das Feuer auch an einer durchgehenden vertikalen Linie auf der linken Seite der Umgebung entzuenden, indem er auf die Schaltflaeche "Waldrandlinie starten"  klickt. Mit der Schaltflaeche "Wald zeichnen" kann ein zusaetzlicher Wald gezeichnet werden, und mit der Schaltflaeche "Feuerschneise zeichnen" koennen Feuerschneisen gezeichnet werden.
+Mit der Schaltflaeche Setup wird ein Zufallsforst mit der angegebenen Dichte (Prozent an der Gesamtflaeche) erstellt.
+Der Benutzer kann manuell an verschiedenen Stellen Braende ausloesen, indem er auf die Schaltflaeche "Waldbrand-Startpunkte" drueckt und dann jeweils an der gewuenschten Stelle auf die Maustaste klickt(Zum Schluss erneut die Schaltflaeche anklicken um den Editier-Modus zu deaktivieren). Alternativ kann der Benutzer das Feuer auch an einer durchgehenden vertikalen Linie auf der linken Seite der Umgebung entzuenden, indem er auf die Schaltflaeche "Waldrandlinie starten"  klickt. Mit der Schaltflaeche "Wald zeichnen" kann ein zusaetzlicher Wald gezeichnet werden, und schliesslich koennen mit der Schaltflaeche "Feuerschneise zeichnen" Feuerschneisen "abgeholzt" werden.
 
-Falls der es windstill ist breitet sich das Feuer in vier Richtungen (N, S, E und W) von den anfaenglichen Entzuendungspunkten auf die benachbarten Baeume aus. Die Ausbreitung des Feuers haengt von der Dichte des umgebenden Waldes ab.
-Sobald ein Feuer-Agent seine(n) naechsten Baum-Nachbarn entzuendet hat (falls es welche gibt), verwandelt es sich in einen "Glut", dessen Farbe langsam von rot zu schwarz verblasst (ahaengigvon dem Wert des Schieberegler fuer das Intensitaet des Feuers. Im Anschluss verloescht es.
+Falls der es windstill ist, breitet sich das Feuer von den anfaenglichen Entzuendungspunkten aus in vier Richtungen (N, S, E und W) auf die benachbarten Baeume aus. Die Ausbreitung des Feuers haengt von der Dichte des umgebenden Waldes ab.
+Sobald ein Feuer-Agent seine(n) naechsten Baum-Nachbarn entzuendet hat (falls es einen/welche gibt), verwandelt es sich in einen "Glut-Patch", dessen Farbe langsam von rot zu schwarz verblasst (abhaengig von dem Wert des Schieberegler fuer die Intensitaet des Feuers. Zuletzt verloescht es.
+
 ## WIE BENUTZEN SIE ES?
-* Druecken Sie zunaechst die Setup-Button. Dadurch wird ein Wald mit zufaellig verteilten Baeumen erstellt, deren Dichte mit dem Schieberegler festgelegt wird.
+* Druecken Sie zunaechst die "Setup" Button. Dadurch wird ein Wald mit zufaellig verteilten Baeumen erstellt, deren Dichte mit dem Schieberegler festgelegt wird.
 * Um ein Feuer an einem bestimmten Punkt zu entfachen, druecken Sie die Schaltflaeche Wald entzuenden und klicken Sie mit der Maustaste auf die gewuenschte Stelle.
 * Wenn Sie das Feuer auf der linken Seite der Umgebung starten moechten, klicken Sie auf den Button "Waldrandlinie starten".
 * Um mehr Wald zu erzeugen, druecken Sie die Schaltflaeche "Wald zeichnen".
-* Um eine Feuerschneise zu erstellen, druecken Sie die Schaltflaeche Feuerschneise zeichnen. Feuerschneisen koennen mit der Schaltflaeche "Feuerschneisen entfernen" wieder entfernt werden. Verbrannter Wald kann mit der Schaltflaeche "Wald wiederherstellen" im Ausgangszustand wiederhergestellt werden. Das bedeutet, dass eine Simulation desselben Waldes mehrmals mit unterschiedlichen Brandschneisen und Ausbruchorten durchgefuehrt werden kann.
+* Um eine Feuerschneise zu erstellen, druecken Sie die Schaltflaeche Feuerschneise zeichnen. Feuerschneisen koennen mit der Schaltflaeche "Feuerschneisen entfernen" wieder entfernt werden. Verbrannter Wald kann mit der Schaltflaeche "Wald wiederherstellen" im Ausgangszustand wiederhergestellt werden. Das bedeutet, dass eine Simulation desselben Waldes mehrmals mit unterschiedlichen Brandschneisen und Ausbruchorten durchgefuehrt werden kann. Dies gilt nicht für das Haus und die Zone 1& 2!
 
 ## DIE NUTZER-SCHNITTSTELLE
 Die Schaltflaechen der Schnittstelle sind wie folgt definiert:
 **Setup:** Damit wird die Simulation vollstaendig zurueckgesetzt und ein Zufallswald erstellt.
 **Go**: Damit wird die Simulation gestartet. Wenn in der Umgebung Brandherde platziert wurden, breitet sich das Feuer auf benachbarte Baeume aus.
 **Wald zeichnen**: Damit werden weitere Baeume an den Stellen gezeichnet, an denen die Maus anschliessnd angeklickt wird.
-**Wald wiederherstellen**: Dies stellt den Zustand des Waldes wieder her, wie er vor dem Abbrennen der Bäaeme war.
+**Wald wiederherstellen**: Dies stellt den Zustand des Waldes wieder her, wie er vor dem Abbrennen der Baeume war.
 **Waldbrand-Startpunkte**: Damit wird an der Stelle, an der mit der Maus geklickt wird, ein Zuendpunkt gesetzt, von dem aus das Feuer zu brennen beginnt. Wenn Sie die Maus gedrüuekt halten, werden mehrere sich üueerlappende Züuedpunkte gezeichnet. Das Feuer breitet sich dann aus, sobald die "**Go**"-Taste gedrüuekt wird.
 **Waldbrandlinie starten**: Eine vertikale Linie des Feuers wird von der linken Seite der Umgebung aus entzüuedet.
-**Feuerschneise zeichnen**: Damit wird eine dunkelbraune Feuerschneise an der Stelle gezeichnet, an der die Maus geklickt wird. Um die Feuerschneise weiter zu zeichnen, halten sie den Maus-Button gedrüuekt, wäaerend Sie sie gleichzeitig in die gewüueschte Richtung ziehen.
+**Feuerschneise zeichnen**: Damit wird eine dunkelbraune Feuerschneise an der Stelle gezeichnet, an der die Maus geklickt wird. Um die Feuerschneise weiter zu zeichnen, halten sie den Maus-Button gedrüuekt, waerend Sie sie gleichzeitig in die gewüueschte Richtung ziehen.
 **Feuerschneisen entfernen**: Damit werden alle Feuerschneisen, die in der Umgebung gezeichnet wurden, entfernt.
 Der Monitor und die Schieberegler sind wie folgt definiert:
-**Prozent verbrannt**: Dies ist der Prozentsatz der Bäaeme, die verbrannt sind.
-**Wald-Dichte**: Dies ist die Dichte des zufäaelig generierten Waldes, wenn die Setup-Taste gedrüuekt wird.
+**Prozent verbrannt**: Dies ist der Prozentsatz der Baeme, die verbrannt sind.
+**Wald-Dichte**: Dies ist die Anteil des räumlich zufaelig generierten Waldes an der Gesamtfläche.
 **Feuerschneisen Breite**: Hier wird die Breite der Feuerschneisen eingestellt.
-**Feuer-zu-Glut**: Hier wird in Prozent festgelegt, wie lange ein Baum brennt, nachdem er angezüuedet wurde und das Feuer bereits auf seine Nachbarbäaeme üueergegriffen hat.
+**Feuer-zu-Glut**: Hier wird in Prozent festgelegt, wie lange ein Baum brennt, nachdem er angezüuedet wurde und das Feuer bereits auf seine Nachbarbaueme üueergegriffen hat.
 **Wind?**: Schalter füue das einschalten von Wind
 **Windrichtung**: Festlegen der Hauptwindrichtung in Grad
 **Windgeschwindigkeit**: Festlegen der Windgeschwindigkeit
-**Wind-Boeigkeit**: Festlegen der zufäaeligen Abweichungvon der Hauptwindrichtung in Grad
+**Wind-Boeigkeit**: Festlegen der zufaeligen Abweichungvon der Hauptwindrichtung in Grad
 **Puffer-Zone-1** Festlegen der Tiefe der Puffer Zone 1
 **Puffer-Zone-2** Festlegen der Tiefe der Puffer Zone 2
 **Dichte-Zone-2** Festlegen der Wald-Dichte in Zone 2
-**Haus zeichnen** Zeichnet ein Haus an der angeklickten Stelle mit den zuvor definierten Zonen und Dichten. Achtung den Button danach wieder "lösen"
+**Haus zeichnen** Zeichnet ein Haus an der angeklickten Stelle mit den zuvor definierten Zonen und Dichten. 
 
 Der Ablauf einer Simulation erfolgt von "oben" nach "unten". Mit Wald wiederherstellen kann das Ausgansszenario (mit Ausnahme der Feuer) wiederhergestellt werden.
 
 
 
 
-## WAS SIE BEACHTEN SOLLTEN
-Beachten Sie, wie viel des Waldes bei verschiedenen Dichteeinstellungen brennt. Welcher Schwellenwert muss bei der Dichteeinstellung erreicht werden, damit fast der gesamte Wald verbrennt?
-Beobachten Sie, was passiert, wenn der nicht verbrannte Wald verwendet wird, um den Wald in den Zustand zurüuekzusetzen, in dem er sich befand, als die Schaltfläaehe "Einrichten" gedrüuekt wurde, und dann die Schaltfläaehe "Los" erneut gedrüuekt wird. Sind die gleichen Teile des Waldes verbrannt? Wenn ja, warum?
-Beachten Sie, dass sich die Schildkröoeen nicht bewegen. (Wie kannst du üueerprüueen, ob das stimmt?) Aber das Feuer scheint sich trotzdem zu bewegen. Wie kommt das?
-Beachten Sie, welche Anordnung von Brandschneisen das Feuer am besten einzudäaemen scheint.
-Beachten Sie, welche Teile des importierten Satellitenbildes mit Bäaemen verwechselt werden. Wie köoente der is-tree? Reporter verbessert werden, um eine bessere Kategorisierung des Bildes vorzunehmen?
+## WAS SIE UNTERSUCHEN SOLLTEN
+Wie viel Wald brennt bei welchen Dichteeinstellungen? Welcher Schwellenwert muss bei der Dichteeinstellung erreicht werden, damit fast der gesamte Wald verbrennt?
+Verbrennen die gleichen Teile des Waldes verbrannt wenn sie das Experiment wiederholen? Wenn ja, warum?
+Scheinbar begwegen sich die turtles nicht. Wie koennen Sie ueberpruefen ob das stimmt? Trotzdem bewegt sich das Feuer. Wie kommt das?
+Welche Anordnung von Brandschneisen kann das Feuer am besten eindaemmen.
 
 
 
@@ -675,7 +677,7 @@ Ursprüuegliches Fire-Modell und füue die NetLogo-Software anzugeben: - Wilensk
 In anderen Publikationen bitte verwenden: - Copyright 1997 Uri Wilensky. Alle Rechte vorbehalten. Siehe http://ccl.northwestern.edu/netlogo/models/Fire füue die Nutzungsbestimmungen.
 Erweiterung des Modells wurde von Bill Teahan geschrieben. Um auf dieses Modell in Publikationen zu verweisen, verwenden Sie bitte:
 Firebreak NetLogo-Modell. Teahan, W. J. (2010). Küuestliche Intelligenz. Ventus Publishing Aps
-Implementierung des Windes und geringfüueige Anpassungen sowie Üueersetzung Rieke Ammoneit, Carina Peter und Chris Reudenbach Medienkompetenz in der Geographie (2021)
+Implementierung des Windes und der HAussimulation sowie weitere Anpassungen und Uebersetzung: Rieke Ammoneit, Carina Peter und Chris Reudenbach, Medienkompetenz in der Geographie (2021)
 
 ##  COPYRIGHT-HINWEIS
 Urheberrecht 1997 Uri Wilensky. Alle Rechte vorbehalten.
