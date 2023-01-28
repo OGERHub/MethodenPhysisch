@@ -180,7 +180,7 @@ to draw-firebreak
       [
         sprout 1
         [
-          ask patches in-cone Breite-Feuerschneise 360
+          ask patches in-cone Breite-Brandschneise 360
           [ set pcolor 31 ; very dark brown
             set break? true
           ]
@@ -372,7 +372,7 @@ BUTTON
 565
 695
 598
-Feuerschneise zeichnen
+Brandschneise zeichnen
 draw-firebreak
 T
 1
@@ -406,7 +406,7 @@ BUTTON
 641
 694
 674
-Feuerschneisen entfernen
+Brandschneisen entfernen
 remove-firebreaks
 NIL
 1
@@ -423,8 +423,8 @@ SLIDER
 602
 696
 635
-Breite-Feuerschneise
-Breite-Feuerschneise
+Breite-Brandschneise
+Breite-Brandschneise
 1
 10
 3.0
@@ -618,61 +618,64 @@ dichte-zone-2
 HORIZONTAL
 
 @#$#@#$#@
-## WAS IST DAS?
-Dieses Modell ist eine Erweiterung des von Uri Wilensky entwickelten Feuermodells, das in NetLogos Modellbibliothek enthalten ist. Es simuliert die Ausbreitung eines Feuers in einem Wald definierter Dichte. Zusaetzlich ermoeglicht es die Nutzerschnittstelle dem Benutzer, Feuerschneisen, zusaetzliche aeume und Startpunkte fuer das Feuer hinzuzufuegen.
+## Was macht das Modell?
+Das Modell Fire2 ist eine Erweiterung, des ursprünglich von Uri Wilensky entwickelten Feuermodells. Das Referenzmoidell ist in der NetLogo Modellbibliothek enthalten. Es simuliert die Feuer-Ausbreitung in Fläche mit nach definiertem prozentualen Anteil an der Gasamt zufaellig angeordneten  Waldpatches. Zusaetzlich bietet es eine Nutzerschnittstelle die es ermoeglicht, Brandschneisen, zusaetzliche Waldpatches, initiale Brand-Startpunkte und Infrastruktur wie Bebauung und Schutzzonen interkativ hinzuzufuegen bzw. zu loeschen.
 
-## WIE FUNKTIONIERT ES?
-Mit der Schaltflaeche Setup wird ein Zufallsforst mit der angegebenen Dichte (Prozent an der Gesamtflaeche) erstellt.
-Der Benutzer kann manuell an verschiedenen Stellen Braende ausloesen, indem er auf die Schaltflaeche "Waldbrand-Startpunkte" drueckt und dann jeweils an der gewuenschten Stelle auf die Maustaste klickt(Zum Schluss erneut die Schaltflaeche anklicken um den Editier-Modus zu deaktivieren). Alternativ kann der Benutzer das Feuer auch an einer durchgehenden vertikalen Linie auf der linken Seite der Umgebung entzuenden, indem er auf die Schaltflaeche "Waldrandlinie starten"  klickt. Mit der Schaltflaeche "Wald zeichnen" kann ein zusaetzlicher Wald gezeichnet werden, und schliesslich koennen mit der Schaltflaeche "Feuerschneise zeichnen" Feuerschneisen "abgeholzt" werden.
+## Wie funktioniert es?
+Mit der Schaltflaeche Setup wird ein Zufallswald in der angegebenen Dichte (Prozent an der Gesamtflaeche) erstellt.
+Der Benutzer kann manuell an verschiedenen Positionen Braende ausloesen. Hierzu aktiviert er die Schaltflaeche _**Waldbrand-Startpunkte**_ um dann jeweils an der gewuenschten Position mit Maustklick eine initiale Brandposition hinzuzufügen (Achtung: Zum Schluss erneut die Schaltflaeche anklicken um den Edit-Modus zu deaktivieren). Alternativ das Feuer auch an einer durchgehenden vertikalen Linie auf der linken Seite der Umgebung initialisiert werden (**Waldrandlinie starten**). Mit _**Wald zeichnen**_ können zusaetzliche Flaechen als Wald gezeichnet werden, und schliesslich koennen Brandschneisen (**Brandschneise zeichnen**)  und Haeuser inkl. variabler Schutzzonen (**Haus zeichnen**) gezeichnet  werden.
 
-Falls der es windstill ist, breitet sich das Feuer von den anfaenglichen Entzuendungspunkten aus in vier Richtungen (N, S, E und W) auf die benachbarten Baeume aus. Die Ausbreitung des Feuers haengt von der Dichte des umgebenden Waldes ab.
-Sobald ein Feuer-Agent seine(n) naechsten Baum-Nachbarn entzuendet hat (falls es einen/welche gibt), verwandelt es sich in einen "Glut-Patch", dessen Farbe langsam von rot zu schwarz verblasst (abhaengig von dem Wert des Schieberegler fuer die Intensitaet des Feuers. Zuletzt verloescht es.
+Ohne Windeinfluss breitet sich das Feuer von den Entzuendungspunkten aus in vier Richtungen (N, S, E, W) auf benachbarte Waldflaechen aus. Die Ausbreitung des Feuers haengt also von der Verfügbarkeit von benachbartem Wald ab. Sobald ein Feuer-Agent seine(n) naechsten Baum-Nachbarn entzuendet hat (falls es einen/welche gibt), verwandelt es sich in einen _**Glut-Patch**, dessen Farbe langsam von rot zu schwarz verblasst (abhaengig von dem Wert des Schieberegler fuer die Intensitaet des Feuers. Zuletzt verloescht es.
 
-## WIE BENUTZEN SIE ES?
-* Druecken Sie zunaechst die "Setup" Button. Dadurch wird ein Wald mit zufaellig verteilten Baeumen erstellt, deren Dichte mit dem Schieberegler festgelegt wird.
-* Um ein Feuer an einem bestimmten Punkt zu entfachen, druecken Sie die Schaltflaeche Wald entzuenden und klicken Sie mit der Maustaste auf die gewuenschte Stelle.
-* Wenn Sie das Feuer auf der linken Seite der Umgebung starten moechten, klicken Sie auf den Button "Waldrandlinie starten".
-* Um mehr Wald zu erzeugen, druecken Sie die Schaltflaeche "Wald zeichnen".
-* Um eine Feuerschneise zu erstellen, druecken Sie die Schaltflaeche Feuerschneise zeichnen. Feuerschneisen koennen mit der Schaltflaeche "Feuerschneisen entfernen" wieder entfernt werden. Verbrannter Wald kann mit der Schaltflaeche "Wald wiederherstellen" im Ausgangszustand wiederhergestellt werden. Das bedeutet, dass eine Simulation desselben Waldes mehrmals mit unterschiedlichen Brandschneisen und Ausbruchorten durchgefuehrt werden kann. Dies gilt nicht für das Haus und die Zone 1& 2!
 
-## DIE NUTZER-SCHNITTSTELLE
+## Wie kann es benutzt werden?
+* Aktivieren Sie al erstes die _**Setup**_ Schaltfläche. Es wird ein Wald mit zufaellig verteilten Baum-Patches erstellt, deren Wahrscheinlichkeitshäufikeit  mit dem Schieberegler _**Waldanteil**_ festgelegt wird.
+* Um ein Feuer an einem bestimmten Punkt zu entfachen, muessen entweder mithilfe der Schaltflaeche _**Waldbrand-Startpunkte**_ und/oder _**Waldbrandlinie starten**_ initiale Brandherde definiert werden.  
+* Um mehr Wald-Patches zu erzeugen, nutzen Sie die Schaltflaeche _**Wald zeichnen**.
+* Um eine Brandschneise zu erstellen, aktivieren Sie die Schaltflaeche _**Brandschneise zeichnen**. Brandschneisen koennen mit der Schaltflaeche _**Brandschneisen entfernen**_ wieder entfernt werden. Verbrannter Wald kann mit der Schaltflaeche _**Wald wiederherstellen**_ im Ausgangszustand wiederhergestellt werden. Das bedeutet, dass eine Simulation desselben Waldes mehrmals mit unterschiedlichen Brandschneisen und Ausbruchorten durchgefuehrt werden kann. Dies gilt nicht für das Haus und die Zone 1& 2!
+* Das Modell wird durch aktivieren der  _**Go**_ Schaltfleache gestartet.
+
+## Die Nutzerschnittstelle
+
 Die Schaltflaechen der Schnittstelle sind wie folgt definiert:
-**Setup:** Damit wird die Simulation vollstaendig zurueckgesetzt und ein Zufallswald erstellt.
-**Go**: Damit wird die Simulation gestartet. Wenn in der Umgebung Brandherde platziert wurden, breitet sich das Feuer auf benachbarte Baeume aus.
-**Wald zeichnen**: Damit werden weitere Baeume an den Stellen gezeichnet, an denen die Maus anschliessnd angeklickt wird.
-**Wald wiederherstellen**: Dies stellt den Zustand des Waldes wieder her, wie er vor dem Abbrennen der Baeume war.
-**Waldbrand-Startpunkte**: Damit wird an der Stelle, an der mit der Maus geklickt wird, ein Zuendpunkt gesetzt, von dem aus das Feuer zu brennen beginnt. Wenn Sie die Maus gedrüuekt halten, werden mehrere sich üueerlappende Züuedpunkte gezeichnet. Das Feuer breitet sich dann aus, sobald die "**Go**"-Taste gedrüuekt wird.
-**Waldbrandlinie starten**: Eine vertikale Linie des Feuers wird von der linken Seite der Umgebung aus entzüuedet.
-**Feuerschneise zeichnen**: Damit wird eine dunkelbraune Feuerschneise an der Stelle gezeichnet, an der die Maus geklickt wird. Um die Feuerschneise weiter zu zeichnen, halten sie den Maus-Button gedrüuekt, waerend Sie sie gleichzeitig in die gewüueschte Richtung ziehen.
-**Feuerschneisen entfernen**: Damit werden alle Feuerschneisen, die in der Umgebung gezeichnet wurden, entfernt.
+
+*  _**Setup:**_ Damit wird die Simulation vollstaendig zurueckgesetzt und ein Zufallswald erstellt.
+*  _**Go**_: Damit wird die Simulation gestartet. Wenn in der Umgebung Brandherde platziert wurden, breitet sich das Feuer auf benachbarte Baeume aus.
+* _**Wald zeichnen**_: Damit werden weitere Baeume an den Stellen gezeichnet, an denen die Maus anschliessend angeklickt wird.
+* _**Wald wiederherstellen**_: Dies stellt den Zustand des Waldes wieder her, wie er vor dem Abbrennen der Baeume war.
+* _**Waldbrand-Startpunkte**_: Damit wird an der Stelle, an der mit der Maus geklickt wird, ein Zuendpunkt gesetzt, von dem aus das Feuer zu brennen beginnt. Wenn Sie die Maus gedrüuekt halten, werden mehrere sich üueerlappende Zuendpunkte gezeichnet. 
+* _**Waldbrandlinie starten**_: Eine vertikale Linie des Feuers wird von der linken Seite der Umgebung aus entzüuedet.
+* _**Brandschneise zeichnen**_: Damit wird eine schwarze Brandschneise dort gezeichnet, die mit der linken Maustaste markiert wird. Um die Brandschneise als Linie zu zeichnen, halten sie den Maus-Button gedrueckt, waerend Sie sie gleichzeitig die gewuenschten Flächen markieren.
+* _**Brandschneisen entfernen**_: Damit werden alle Brandschneisen entfernt.
+
 Der Monitor und die Schieberegler sind wie folgt definiert:
-**Prozent verbrannt**: Dies ist der Prozentsatz der Baeme, die verbrannt sind.
-**Wald-Dichte**: Dies ist die Anteil des raeumlich zufaelig generierten Waldes an der Gesamtflaeche.
-**Feuerschneisen Breite**: Hier wird die Breite der Feuerschneisen eingestellt.
-**Feuer-zu-Glut**: Hier wird in Prozent festgelegt, wie lange ein Baum brennt, nachdem er angezuendet wurde und das Feuer bereits auf seine Nachbarbaueme uebergegriffen hat.
-**Wind?**: Schalter fuer das einschalten von Wind
-**Windrichtung**: Festlegen der Hauptwindrichtung in Grad
-**Windgeschwindigkeit**: Festlegen der Windgeschwindigkeit
-**Wind-Boeigkeit**: Festlegen der zufaeligen Abweichungvon der Hauptwindrichtung in Grad
-**Puffer-Zone-1** Festlegen der Tiefe der Puffer Zone 1
-**Puffer-Zone-2** Festlegen der Tiefe der Puffer Zone 2
-**Dichte-Zone-2** Festlegen der Wald-Dichte in Zone 2
-**Haus zeichnen** Zeichnet ein Haus an der angeklickten Stelle mit den zuvor definierten Zonen und Dichten. 
 
-Der Ablauf einer Simulation erfolgt von "oben" nach "unten". Mit Wald wiederherstellen kann das Ausgansszenario (mit Ausnahme der Feuer) wiederhergestellt werden.
+* _**Prozent verbrannt:**_: Dies ist der Prozentsatz der Wald-Patches am Gesamtwald, die verbrannt sind.
+* _**Wald-Dichte**_: Dies ist die Anteil in Prozent des raeumlich zufaellig generierten Waldes an der Gesamtflaeche.
+* _**Brandschneisen Breite**_: Hier wird die Breite der Brandschneisen eingestellt.
+* _**Feuer-zu-Glut**: Hier wird in Prozent festgelegt, wie lange ein Baum brennt, nachdem er angezuendet wurde und das Feuer bereits auf seine Nachbarbaueme uebergegriffen hat.
+*  _**Wind?**_: Schalter fuer das Aktivieren der Schieberegler von Windrichtung/Windgeschwindigkeitund Wind-Boeigkeit
+*  _**Windrichtung**_: Festlegen der Hauptwindrichtung in Grad
+*  _**Windgeschwindigkeit**_: Festlegen der Windgeschwindigkeit
+*  _**Wind-Boeigkeit**_: Festlegen der zufaelligen Abweichung von der Hauptwindrichtung in Grad
+*  _**Puffer-Zone-1**_: Festlegen der Tiefe der Puffer Zone 1
+*  _**Puffer-Zone-2**_: Festlegen der Tiefe der Puffer Zone 2
+*  _**Dichte-Zone-2**_: Festlegen der Wald-Dichte in Zone 2
+*  _**Haus zeichnen**_: Zeichnet ein Haus an der angeklickten Stelle mit den zuvor definierten Zonen und Dichten. 
 
-
-
-
-## WAS SIE UNTERSUCHEN SOLLTEN
-Wie viel Wald brennt bei welchen Dichteeinstellungen? Welcher Schwellenwert muss bei der Dichteeinstellung erreicht werden, damit fast der gesamte Wald verbrennt?
-Verbrennen die gleichen Teile des Waldes verbrannt wenn sie das Experiment wiederholen? Wenn ja, warum?
-Scheinbar begwegen sich die turtles nicht. Wie koennen Sie ueberpruefen ob das stimmt? Trotzdem bewegt sich das Feuer. Wie kommt das?
-Welche Anordnung von Brandschneisen kann das Feuer am besten eindaemmen.
+Der Ablauf einer Simulation erfolgt also quasi von **oben** nach **unten**. Mit Wald wiederherstellen kann das Ausgansszenario (mit Ausnahme der initialen Feuerpositionen) wiederhergestellt werden.
 
 
+## Moegliche Fragen
+* Wie viel Wald brennt bei welchen Dichteeinstellungen? 
+* Welcher Schwellenwert muss bei der Dichteeinstellung erreicht werden, damit fast der gesamte Wald verbrennt?
+* Verbrennen die gleichen Teile des Waldes wenn das Experiment wiederholt wird? Wenn ja, warum?
+* Scheinbar begwegen sich die turtles nicht. Wie koennen Sie ueberpruefen ob das stimmt? Trotzdem bewegt sich das Feuer. Wie kommt das?
+* Welche minimale Anordnung von Brandschneisen kann das Feuer am besten eindaemmen.
 
-## QUELLEN
+
+
+## Quellen
 Breadth First Search in den Modellen Searching Mazes, Missionaries and Cannibals und Searching von Kevin Bacon.
 Urspruengliches Fire-Modell und fuer die NetLogo-Software anzugeben: - Wilensky, U. (1997). NetLogo Fire-Modell. http://ccl.northwestern.edu/netlogo/models/Fire. Center for Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, IL. - Wilensky, U. (1999). NetLogo. http://ccl.northwestern.edu/netlogo/. Zentrum fuer vernetztes Lernen und computergestuetztes Modellieren, Northwestern University, Evanston, IL.
 In anderen Publikationen bitte verwenden: - Copyright 1997 Uri Wilensky. Alle Rechte vorbehalten. Siehe http://ccl.northwestern.edu/netlogo/models/Fire fuer die Nutzungsbestimmungen.
@@ -991,7 +994,7 @@ repeat 180 [ go ]
     <enumeratedValueSet variable="Walddichte">
       <value value="60"/>
     </enumeratedValueSet>
-    <enumeratedValueSet variable="Breite-Feuerschneise">
+    <enumeratedValueSet variable="Breite-Brandschneise">
       <value value="3"/>
     </enumeratedValueSet>
     <enumeratedValueSet variable="Wind-Boeigkeit">
