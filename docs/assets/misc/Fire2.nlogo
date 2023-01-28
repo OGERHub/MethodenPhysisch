@@ -143,16 +143,34 @@ to draw-forest
 end
 
 to import-forest
-;; Imports the forest from an image.
+;; Imports the experiment settings from a an image file which was generated
+;; using File->Export->View
+;; the argument  user-new-file opens a GUI dialog
+;; if you use  "/path/to/my-experiment-world.png" it will open the file directly
+import-pcolors user-new-file
+  clear-globals
+  set initial-trees count patches with [is-tree? pcolor]
 
-  ask patches
-  [ set pcolor white
-    set tree? false ]
+  ask patches with [ pcolor = 55 ] ;; trees green patches
+  [  set tree? true ]
 
+  ask patches with [  pcolor = 69 ]  ;; zone 2 lightblue patches
+  [  set zone2? true
+     set tree?  true ]
 
-  ask patches with [is-tree? pcolor]
-  [ set tree? true ]
+  ask patches with [  pcolor = gray ] ;; zone 1
+        [ set pcolor gray
+          set break? true
+          set tree? false  ]
+
+  ask patches with [  pcolor = blue ] ;; house blue patches
+        [ set break? false
+          set tree? false  ]
+
+  ask patches with [  pcolor = red ]
+  [ ignite  ]
 end
+
 
 to draw-firebreak
 ;; draw a firebreak in the forest
@@ -307,7 +325,7 @@ Walddichte
 Walddichte
 0.0
 99.0
-65.0
+60.0
 1.0
 1
 %
@@ -499,7 +517,7 @@ Wind-Richtung
 Wind-Richtung
 1
 360
-76.0
+181.0
 15
 1
 NIL
@@ -514,7 +532,7 @@ Windgeschwindigeit
 Windgeschwindigeit
 0.5
 12
-2.5
+10.5
 1
 1
 NIL
@@ -957,7 +975,7 @@ repeat 180 [ go ]
 @#$#@#$#@
 <experiments>
   <experiment name="experiment" repetitions="1" runMetricsEveryStep="true">
-    <setup>setup</setup>
+    <setup>import-forest</setup>
     <go>go</go>
     <metric>count turtles</metric>
     <enumeratedValueSet variable="Wind?">
@@ -965,6 +983,7 @@ repeat 180 [ go ]
     </enumeratedValueSet>
     <enumeratedValueSet variable="Windgeschwindigeit">
       <value value="2.5"/>
+      <value value="10.5"/>
     </enumeratedValueSet>
     <enumeratedValueSet variable="Walddichte">
       <value value="60"/>
