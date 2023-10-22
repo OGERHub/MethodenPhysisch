@@ -38,7 +38,7 @@ Am Ende dieses Moduls können Sie
 ## Kursmerkmale
 Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eignet sich in gewissem Maße aber auch zum Selbststudium.
 
-Studierende, die den Kurs besuchen, finden alle inhaltlichen Informationen auf diese Website. Die organisatorischen bzw. urheberrechtlich geschützten Informationen im geschlossenen [Kursbereich der Ilias-Lernplattform](https://ilias.uni-marburg.de/goto.php?target=crs_3045703).
+Studierende, die den Kurs besuchen, finden alle inhaltlichen Informationen auf diese Website. Die organisatorischen bzw. urheberrechtlich geschützten Informationen im geschlossenen Kursbereich der Ilias-Lernplattform.
 {: .notice--info}
 
 
@@ -60,7 +60,7 @@ Jede Kurseinheit ist auf einen Zeitraum von drei Wochen ausgelegt und besteht au
 Entsprechend der Berechnung von ECTS Punkten sollten Sie in einer durchschnittlichen Arbeitswoche 10-12 Stunden für den Kurs kalkulieren. Eine mögliche Strukturierung könnte wie folgt aussehen:
 
 * Präsenz: 2 Stunden jede Woche
-  * Der Kurs findet jede zweite Woche als 90 minütige Sitzung statt - Anwesenheit oder Nacharbeit ist erforderlich für das Verständnis
+  * Der Kurs findet jede Woche als 90 minütige Sitzung statt - Anwesenheit oder Nacharbeit ist erforderlich für das Verständnis
 * Studium außerhalb der Präsenz: 8-10 Stunden pro Woche
   * Wöchentliche Arbeitszeiten
   * Wöchentliche Treffen mit Kommiliton:innen
@@ -70,9 +70,10 @@ Entsprechend der Berechnung von ECTS Punkten sollten Sie in einer durchschnittli
 
 
 ## Kurszeiten
-**Kurszeiten**: Donnerstags, 10:15-11:45 
+**Kurszeiten**: Montags, 14:15-15:45 oder donnerstags 12:15 -13:45
+              
 
-**Sprechstunden**: Donnerstags, 13:00-15:00 
+
 
 
 
