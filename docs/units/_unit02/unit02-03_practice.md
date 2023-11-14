@@ -23,11 +23,11 @@ Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github
 
 ### Die NetLogo Modellierungssoftware
 Sie benötigen die Modellierungs-Software `NetLogo`. Falls `NetLogo` auf Ihrem Rechner nicht installiert ist (was sehr wahrscheinlich der Fall ist), können Sie die aktuelle Version der freien Software für ihr Betriebssystem von der [Download-Seite](https://ccl.northwestern.edu/netlogo/6.2.0/) herunterladen und installieren. 
-Das Modell [*Fire*]({{ site.baseurl }}/assets/misc/Fire.nlogo) das wir verwenden müssen Sie separat herunterladen und mit Netlogo öffnen.
+Das Modell [*Fire*]({{ site.baseurl }}/assets/misc/Fire-Simulation-1.nlogo) das wir verwenden müssen Sie separat herunterladen und mit Netlogo öffnen.
 
 Alternativ können Sie auch mit der  nachfolgend eingebetteten Online-Version arbeiten. 
   
-{% include media3 url="assets/misc/Fire.html" %}
+{% include media3 url="assets/misc/Fire-Simulation-1.html" %}
 
 ## A02-1 Lesen, exzerpieren des Artikels 
 
@@ -48,7 +48,7 @@ In dem Artikel [Applications of simulation-based burn probability](https://www.p
 Umfang 1 Seite in ihrem PDF-Dokument
 
 ## A02-2 Modellbeschreibung Netlogo lesen und exzerpieren
-Lesen Sie nun den Info Textes des NetLogo-Modells. Welche Elemente der im zuvor beschriebenen Artikel finden sie wieder und welche Elemente scheinen zu fehlen?
+Lesen Sie nun den **Info Text** des NetLogo-Modells. Welche Elemente der im zuvor beschriebenen Artikel finden sie wieder und welche Elemente scheinen zu fehlen?
 
 Tragen Sie in die Tabelle aus A02-1 ein (x= ja, leer = nein), welche Elemente im NetLogo Modell abgebildet werden (Spaltenüberschrift "NetLogo vorhanden"). 
 {: .notice--success}
@@ -58,14 +58,12 @@ Umfang **keine eigene Seite**, die Ergebnisse werden in der Tabelle aus A02-1 ei
 ## A02-3 Experimentieren Sie mit dem Modell 
 
 Untersuchen Sie, wie das Verhältnis des verbrannten Waldes mit den verschiedenen Dichteeinstellungen zusammenhängt. 
-Gibt es einen Dichte-Schwellenwert damit fast der gesamte Wald verbrennt?
-Untersuchen Sie, ob der Wald identisch abbrennt, wenn Sie den Wald in den Ausgangszustand zurückzusetzen. Verbrennen die gleichen Teile des Waldes? Falls ja, warum?
-Um einige Anwendungsaspekte zu verstehen versuchen Sie, Feuerschneisen anzulegen, während sich das Feuer ausbreitet, um seine weitere Ausbreitung zu verhindern. 
-Untersuchen Sie, ob eine unterschiedliche Anordnung von initialen Zündpunkten Auswirkungen auf den Abbrand haben.
+Gibt es einen Dichte-Schwellenwert ab welchem fast der gesamte Wald verbrennt?
+Untersuchen Sie, ob der Wald identisch abbrennt indem Sie den Wald in den Ausgangszustand zurückzusetzen und die Ergebnisse qualitativ vergleichen. Verbrennen die gleichen Teile des Waldes? Sind die Muster in dichtem oder lichtem Wald ähnlicher oder anders?
+Untersuchen Sie, ob eine unterschiedliche Anordnung von initialen Zündpunkten Auswirkungen auf den die räumliche Ahnlichkeit bzw. Quantität des Abbrands haben.
 Untersuchen Sie die obigen Experimente mit unterschiedlichen Wind-Einstellungen. Gibt es Abweichungen?
 
-Fassen Sie ihre Ergebnisse in geeigneter Weise einer neuen Tabelle zusammen. Bewerten Sie im Kontext des zuvor gelesenen Artikels wie realitätsnah das NetLogo Modell ist. Welche Aspekte werden berücksichtigt
-? Welche Aspekte fehlen? (max 5 Sätze)
+Fassen Sie ihre Ergebnisse in **geeigneter** Weise in einer *neuen* Tabelle zusammen. Bewerten Sie im Kontext des zuvor gelesenen Artikels wie realitätsnah das NetLogo Modell ist. Welche Aspekte werden berücksichtigt? Welche Aspekte fehlen? (max 5 Sätze)
 {: .notice--success}
 
 Umfang 1 Seite in Ihrem PDF-Dokument

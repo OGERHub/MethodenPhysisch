@@ -15,11 +15,11 @@ Ziel dieser Abgabe ist es, aus Ihren Modellergebnissen eine empirische evidenzba
 * Der Leitfaden [Creating Wildfire-Defensible Spaces
 for Your Home and Property](https://cals.arizona.edu/extension/ornamentalhort/landscapemgmt/general/wildfire_defense.pdf)
 * Die NetLogo Software [NetLogo](https://ccl.northwestern.edu/netlogo/6.2.0/)
-* Das Modell [Fire2]({{ site.baseurl }}/assets/misc/Fire2.nlogo)
+* Das Modell [Fire2]({{ site.baseurl }}/assets/misc/Fire-Simulation-2.nlogo)
 
-Alternativ können Sie das online Modell *Fire2* nutzen.
+Alternativ können Sie das online Modell *Fire-Simulation-2* nutzen.
 
-{% include media3 url="assets/misc/Fire2.html" %}
+{% include media3 url="assets/misc/Fire-Simulation-2.html" %}
 
 ## Aufgabe P02-01 Simulationsbasierte Empfehlung für einen zonierten Feuerschutz
 
@@ -29,15 +29,15 @@ for Your Home and Property](https://cals.arizona.edu/extension/ornamentalhort/la
 {% capture Assignment-2-2 %}
 Sie haben nun die Aufgabe für ein County in Arizona diese Empfehlung mit Hilfe einer geeigneten Simulation auf der Grundlage der obigen Vorgaben zu überprüfen und konkret festzulegen. Da es der Verwaltung um einen möglichst geringen Eingriff in das Privateigentum geht sollen folgende Bedingungen in die Simulation berücksichtigt werden:
 
-* Die Ausdehnung der Pufferzone 1  und 2 soll **minimal** sein
-* Die Walddichte in Pufferzone 2 und 3 soll **maximal** sein
-* Das Feuer soll auch unter veränderten meterologischen (Wind) und physikalischen Bedingungen (Branddauer)  **verlässlich** in der **Zone 2** gestoppt werden
+* Die Ausdehnung der Pufferzonen 1  und 2 soll **minimal** sein
+* Die Walddichte (Pufferzone 2 und 3) soll **maximal** sein
+* Das Feuer soll auch unter veränderten meterologischen (Wind) und physikalischen Bedingungen (Duerre)  **verlässlich**  weniger als 5 % Brandschaden am Gebäude verursachen
 
 Welche Baumdichten und Zonenabstände empfehlen Sie? 
 
 Diskutieren Sie auf der Grundlage der von ihnen dokumentierten Simulationen  die Belastbarkeit Ihrer Empfehlungen. 
 
-Hinweis: Die Simulation soll nur mit einem Haus durchgeführt werden. 
+
 
 {: .notice--info}
 {% endcapture %}
