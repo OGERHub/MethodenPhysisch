@@ -13,7 +13,7 @@ Ziel dieser Abgabe ist es, aus Ihren Modellergebnissen eine empirische evidenzba
 ## Benötigte Materialien für die Aufgaben
 * Papier und Stifte
 * Der Leitfaden [Creating Wildfire-Defensible Spaces
-for Your Home and Property](https://cals.arizona.edu/extension/ornamentalhort/landscapemgmt/general/wildfire_defense.pdf)
+for Your Home and Property](https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az1290.pdf)
 * Die NetLogo Software [NetLogo](https://ccl.northwestern.edu/netlogo/6.2.0/)
 * Das Modell [Fire-Simulation-2]({{ site.baseurl }}/assets/misc/Fire-Simulation-2.nlogo)
 
