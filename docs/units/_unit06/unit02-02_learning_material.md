@@ -1,5 +1,5 @@
 ---
-title: LM | Räumliche Daten
+title: LM | Modellierung und Abbildung von Räumen
 toc: true
 header:
   image: /assets/images/02-splash.jpg
@@ -7,14 +7,20 @@ header:
   caption: "Foto: T. Nauss / CC0"
 ---
 
-## Daten in der Geographie
-Die Begriffe “Geographie” und “geographisch”, die mit der Wahrnehmung der Erde bzw. Erdoberfläche und ihrem Verständnis und ihrer Beschreibung verbunden sind, sind für viele Menschen sehr unscharf. <!--more--> Die professionelle Beschreibung der Erde, also wie kommt es zu einer nachvollziehbaren Abstraktion einer kognitiven Welterfahrung, steht im Fokus einer erkenntnisgeleiteten Geographie. Für die solide Interpretation von geographischen Medien oder Informationen sollten Sie zunächst einige Grundkonzepte zur Wahrnehmung und Abstraktion sowie zur Kommunikation geographischer Weltbeschreibung kennen und verstanden haben. Gerade die formale Beschreibung von Raum mit Hilfe kartographischer Konzepte sind ein guter Startpunkt.
-Definieren wir also Geographie wie oben, so benötigen wir Werkzeuge, die nach den Regeln der Informationsverarbeitung zu bedienen und zu nutzen sind. Wir müssen also einen Weg finden, um geographisch widerstreitende Raumrepräsentationen auf nachvollziehbare und reproduzierbare Weise zu definieren, zu integrieren und natürlich zu kommunizieren.
-
-{% include video id="CX8Q7XxsL-c" provider="youtube" %}
-
 
 {% include video id="LgwetO8etR4" provider="youtube" %}
+
+## Raum und räumliche Prozesse
+Im Beispiel von John Snows Karte der Cholerafälle haben Sie bereits den Zusammenhang von Raum (London, Soho) und räumlichen Prozessen (Cholera-Ausbruch) kennengelernt. Seine Erkenntnis war: *Je näher ein Wohnhaus an der Wasserpumpe in 43 Broadwick Street liegt, umso mehr Todesopfer wurden in dem Wohnhaus verzeichnet*. Wenn wir das verallgemeinert ausdrücken wollen, können wir den *1. Hauptsatz der Geographie*  von Waldo Tobler heranziehen: “Everything is related to everything else, but near things are more related than distant things” ([Tobler, 1970](https://www.tandfonline.com/doi/abs/10.2307/143141)).
+
+Mit diesem Satz schuf Tobler eine Grundlage für die Analyse, Modellierung und Simulation räumlicher Prozesse, die auf distanzbasierten Prozessen und Zusammenhängen beruhen.
+
+**Info**: Tobler benötigte für sein Simulationsmodell der Bevölkerungsentwicklung in Detroit eine Lösung für die seinerzeit sehr limitierten Computerressourcen. Dazu teilte er die Stadt in eine Gitterstruktur und machte mit seinem 1. Hauptsatz die Not zur Tugend indem er so zu belegen trachtete, dass die in einem über die Stadt gelegten Gitter modellierte Bevölkerungsentwicklung immer nur von den direkten Nachbarzellen und nie von der Entwicklung anderer Zellen oder der ganzen Stadt abhing. Gültigkeit besitzt der Satz auch z.B. für die Ausprägung von Wissensdomänen in Wikipedia, wie Hecht und Moxley (2009) in ihrem spannenden Artikel *[Terabytes of Tobler: Evaluating the First Law in a Massive, Domain-Neutral Representation of World Knowledge](https://link.springer.com/chapter/10.1007/978-3-642-03832-7_6)* zeigen. Hingegen gilt er z.B. für Artenreichtum [(Bjorholm et al. 2008, BMC Ecol)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2424035/) und zahlreiche andere räumlichen Phänomene und Prozesse **nicht**.
+{: .notice--primary}
+
+Toblers Satz ist nicht die einzige Möglichkeit Raum zu beschreiben. Im Gegenteil, der Satz zielt sehr stark auf räumlich-funktionale Beziehungen ab. Wie Raum noch beschrieben und verstanden werden kann, erfahren Sie im Video.
+
+{% include video id="mELVmkhvG9Y" provider="youtube" %}
 
 ## Abbildung von Raum
 Die Wahrnehmung und Interpretation der realen Welt erfordert eine Abstraktionsleistung, mit anderen Worten eine zielgerichtete Vereinfachung. Hierfür benötigen wir, sowohl im Alltag als auch in der Wissenschaft, geeignete Strategien. Bei der Abstraktion schaffen wir im ersten Schritt unser eigenes, konstruiertes *Modell* der Welt. Wir definieren einen Raumausschnitt und eine Perspektive auf diesen Ausschnitt, die manche Phänomene in den Vordergrund treten, andere wegfallen lässt. Unser Modell ist deshalb immer nur eine Sichtweise von vielen auf die Welt. Ob und inwieweit unser Raummodell der Wirklichkeit entspricht, lässt sich deshalb auch nur aus dem gewählten Blickwinkel oder dem zuvor definierten Zweck bewerten. Für eine wissenschaftliche Modellierung des Raums ist es deshalb entscheidend, die Zielstellung des Modells zu definieren und transparent zu kommunizieren.

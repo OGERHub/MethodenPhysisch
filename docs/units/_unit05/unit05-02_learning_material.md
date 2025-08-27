@@ -1,5 +1,5 @@
 ---
-title: LM | Datenerfassung und Darstellung
+title: LM | Fernerkundung
 toc: true
 header:
   image: /assets/images/03-splash.jpg
